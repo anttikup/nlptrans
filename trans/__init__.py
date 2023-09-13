@@ -8,6 +8,8 @@ app = Flask(__name__)
 @app.route('/', methods=('GET', 'POST'))
 def hello():
     text = ""
+    translation = ""
+
     if request.method == 'POST':
         text = request.form['text']
         error = None
@@ -16,6 +18,5 @@ def hello():
             flash(error)
 
         translation = translator.translate(text)
-
 
     return render_template('index.html', text=text, translation=translation)
