@@ -2,10 +2,30 @@
   box-sizing: border-box;
 }
 
-main {
-    width: 800px;
-    margin: auto;
+h1 {
+    font-family: sans-serif;
+    color: #3b778a;
+    margin: 1rem auto;
+    font-size: smaller;
+    border-bottom: solid 1px gray;
 }
+
+html, body {
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: #883898;
+}
+
+main {
+    min-height: 100vh;
+    width: 960px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 0.5em;
+    box-shadow: 5px 5px 10px #333;
+}
+
 
 #text {
     width: 100%;
@@ -15,6 +35,19 @@ main {
 
 .grid {
     display: grid;
-    grid-template-columns: minmax(50%, 1fr) auto;
-    grid-gap: 1em;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+}
+
+.flash {
+    border: solid darkred 3px;
+    border-radius: 0.4rem;
+    background-color: pink;
+    padding: 0.2rem;
+}
+
+#translation {
+    background-color: floralwhite;
+    border: solid #8f8f9d 1px;
+    padding: 2px;
 }

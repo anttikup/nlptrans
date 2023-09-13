@@ -1,22 +1,31 @@
 <!doctype html>
-<title>{% block title %}{% endblock %} - Flaskr</title>
-<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-<nav>
-</nav>
-<main class="content">
-  <header>
-    <h1>Kääntäjä</h1>
-  </header>
-  <p>suomi–englanti</p>
-  <div class="grid">
-    <form method="post">
-      <textarea placeholder="Käännettävä teksti" id="text" name="text">{{ text }}</textarea>
-      <input type="submit" value="Käännä">
-    </form>
-    <div id="translation">
-      {% for paragraph in translation %}
-        <p>{{ paragraph }}</p>
+<html>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <title>Kääntäjä</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+    <main class="content">
+      <header>
+        <h1>Kääntäjä</h1>
+      </header>
+      <p>englanti–suomi</p>
+      {% for message in get_flashed_messages() %}
+      <div class="flash">{{ message }}</div>
       {% endfor %}
-    </div>
-  </div>
-</main>
+      <div class="grid">
+        <form method="post">
+          <textarea placeholder="Käännettävä teksti" id="text" name="text">{{ text }}</textarea>
+          <input type="submit" value="Käännä">
+        </form>
+        <div id="translation">
+          {% for paragraph in translation %}
+          <p>{{ paragraph }}</p>
+          {% endfor %}
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
