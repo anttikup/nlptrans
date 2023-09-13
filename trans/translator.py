@@ -1,10 +1,10 @@
-print("Ladataan malli...", end="", flush=True)
+if __name__ == "__main__":
+    print("Ladataan malli...", end="", flush=True)
+
 
 from transformers import pipeline
 
 pipe = pipeline("translation", model="Helsinki-NLP/opus-mt-en-fi")
-print(" Valmis")
-
 
 def translate(text):
     result = pipe(text.split("\n\n"))
@@ -12,6 +12,8 @@ def translate(text):
 
 
 if __name__ == "__main__":
+    print(" Valmis")
+
     import sys
 
     print("\b"*len("Ladataan...") + "Anna teksti ja paina Ctrl-D: ")
