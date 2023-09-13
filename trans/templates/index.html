@@ -11,12 +11,15 @@
       <header>
         <h1>Kääntäjä</h1>
       </header>
-      <p>englanti–suomi</p>
       {% for message in get_flashed_messages() %}
       <div class="flash">{{ message }}</div>
       {% endfor %}
       <div class="grid">
         <form method="post">
+          <select name="language">
+            <option value="en fi" {% if request.form['language'] == 'en fi' %} selected="selected"{% endif %}>englanti → suomi</option>
+            <option value="fi en" {% if request.form['language'] == 'fi en' %} selected="selected"{% endif %}>suomi → englanti</option>
+          </select>
           <textarea placeholder="Käännettävä teksti" id="text" name="text">{{ text }}</textarea>
           <input type="submit" value="Käännä">
         </form>

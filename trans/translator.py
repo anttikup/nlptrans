@@ -4,15 +4,19 @@ import sys
 
 API_TOKEN = os.environ['API_TOKEN']
 
-API_URL = "https://api-inference.huggingface.co/models/Helsinki-NLP/opus-mt-en-fi"
+API_URLs = {
+        'en fi': "https://api-inference.huggingface.co/models/Helsinki-NLP/opus-mt-en-fi",
+        'fi en': "https://api-inference.huggingface.co/models/Helsinki-NLP/opus-mt-fi-en",
+}
+
 headers = {"Authorization": "Bearer " + API_TOKEN}
 
-def query(payload):
-	response = requests.post(API_URL, headers=headers, json=payload)
+def query(url, payload):
+	response = requests.post(url, headers=headers, json=payload)
 	return response.json()
 
-def translate(texts):
-    output = query({
+def translate(frm, to, texts):
+    output = query(API_URLs[f'{frm} {to}'], {
 	"inputs": texts,
     })
 
@@ -20,7 +24,7 @@ def translate(texts):
         if 'error' in output:
             msg = output["error"]
             if 'estimated_time' in output:
-                msg = msg + '; Estimated time: ' + output['estimated_time']
+                msg = msg + '; Estimated loading time: ' + str(output['estimated_time']) + " s"
             raise Exception(msg)
         else:
             raise Exception(repr(output))

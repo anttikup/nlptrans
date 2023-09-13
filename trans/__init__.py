@@ -15,10 +15,12 @@ def hello():
 
     if request.method == 'POST':
         text = request.form['text']
+        frm, to = request.form['language'].split(" ")
+
         error = None
 
         try:
-            translation = translator.translate(text.split("\r\n\r\n"))
+            translation = translator.translate(frm, to, text.split("\r\n\r\n"))
         except Exception as err:
             flash(f'Virhe: {str(err)}')
 
