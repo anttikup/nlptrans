@@ -1,26 +1,34 @@
-if __name__ == "__main__":
-    print("Ladataan malli...", end="", flush=True)
+import os
+import requests
+import sys
 
+API_TOKEN = os.environ['API_TOKEN']
 
-from transformers import pipeline
+API_URL = "https://api-inference.huggingface.co/models/Helsinki-NLP/opus-mt-en-fi"
+headers = {"Authorization": "Bearer " + API_TOKEN}
 
-pipe = pipeline("translation", model="Helsinki-NLP/opus-mt-en-fi")
+def query(payload):
+	response = requests.post(API_URL, headers=headers, json=payload)
+	return response.json()
 
 def translate(text):
-    result = pipe(text.split("\n\n"))
-    return [ block['translation_text'] for block in result ]
+    output = query({
+	"inputs": text.split("\n\n"),
+    })
+
+    return [ block['translation_text'] for block in output ]
+
 
 
 if __name__ == "__main__":
     print(" Valmis")
-
-    import sys
 
     print("\b"*len("Ladataan...") + "Anna teksti ja paina Ctrl-D: ")
     text = sys.stdin.read()
 
     print("━" * 80)
     blocks = translate(text)
+    print(blocks)
     for block in blocks:
         print(block)
         if block != blocks[-1]:
