@@ -14,7 +14,9 @@
       <input type="submit" value="Käännä">
     </form>
     <div id="translation">
-      {{ translation }}
+      {% for paragraph in translation %}
+        <p>{{ paragraph }}</p>
+      {% endfor %}
     </div>
   </div>
 </main>

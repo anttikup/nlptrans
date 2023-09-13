@@ -17,6 +17,6 @@ def hello():
         if error is not None:
             flash(error)
 
-        translation = translator.translate(text)
+        translation = translator.translate(text.split("\n\n"))
 
     return render_template('index.html', text=text, translation=translation)
