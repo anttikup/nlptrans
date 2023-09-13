@@ -20,7 +20,7 @@ def translate(texts):
         if 'error' in output:
             msg = output["error"]
             if 'estimated_time' in output:
-                msg = msg + '; Estimated time: ' + output['estimated_time']
+                msg = msg + '; Estimated time: ' + str(output['estimated_time']) + " s"
             raise Exception(msg)
         else:
             raise Exception(repr(output))
