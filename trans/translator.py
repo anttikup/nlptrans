@@ -18,7 +18,10 @@ def translate(texts):
 
     if type(output) != list:
         if 'error' in output:
-            raise Exception(output["error"])
+            msg = output["error"]
+            if 'estimated_time' in output:
+                msg = msg + '; Estimated time: ' + output['estimated_time']
+            raise Exception(msg)
         else:
             raise Exception(repr(output))
 
