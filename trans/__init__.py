@@ -3,7 +3,10 @@ from flask import Flask, render_template, request, flash
 import trans.translator
 
 app = Flask(__name__)
-
+app = Flask(__name__, instance_relative_config=True)
+app.config.from_mapping(
+    SECRET_KEY='dev',
+)
 
 @app.route('/', methods=('GET', 'POST'))
 def hello():
@@ -14,9 +17,9 @@ def hello():
         text = request.form['text']
         error = None
 
-        if error is not None:
-            flash(error)
-
-        translation = translator.translate(text.split("\n\n"))
+        try:
+            translation = translator.translate(text.split("\r\n\r\n"))
+        except Exception as err:
+            flash(f'Virhe: {str(err)}')
 
     return render_template('index.html', text=text, translation=translation)
