@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+main {
+    width: 800px;
+    margin: auto;
+}
+
+#text {
+    width: 100%;
+    min-height: 30em;
+    display: block;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: minmax(50%, 1fr) auto;
+    grid-gap: 1em;
+}

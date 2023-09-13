@@ -1,0 +1,20 @@
+<!doctype html>
+<title>{% block title %}{% endblock %} - Flaskr</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<nav>
+</nav>
+<main class="content">
+  <header>
+    <h1>Kääntäjä</h1>
+  </header>
+  <p>suomi–englanti</p>
+  <div class="grid">
+    <form method="post">
+      <textarea placeholder="Käännettävä teksti" id="text" name="text">{{ text }}</textarea>
+      <input type="submit" value="Käännä">
+    </form>
+    <div id="translation">
+      {{ translation }}
+    </div>
+  </div>
+</main>

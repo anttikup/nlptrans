@@ -1,0 +1,11 @@
+[project]
+name = "trans"
+version = "1.0.0"
+description = "Translator"
+dependencies = [
+    "trans",
+]
+
+[build-system]
+requires = ["flit_core<4"]
+build-backend = "flit_core.buildapi"
