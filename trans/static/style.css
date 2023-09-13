@@ -51,3 +51,11 @@ main {
     border: solid #8f8f9d 1px;
     padding: 2px;
 }
+
+p {
+    margin-top: 2px;
+}
+
+p + p {
+    margin-top: 1em;
+}
