@@ -1,8 +1,8 @@
 from flask import Flask, render_template, request, flash
 
 import trans.translator
+from trans.models import model_info
 
-app = Flask(__name__)
 app = Flask(__name__, instance_relative_config=True)
 app.config.from_mapping(
     SECRET_KEY='dev',
@@ -24,4 +24,4 @@ def hello():
         except Exception as err:
             flash(f'Virhe: {str(err)}')
 
-    return render_template('index.html', text=text, translation=translation)
+    return render_template('index.html', text=text, translation=translation, models=model_info)

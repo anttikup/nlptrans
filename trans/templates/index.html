@@ -17,8 +17,11 @@
       <div class="grid">
         <form method="post">
           <select name="language">
-            <option value="en fi" {% if request.form['language'] == 'en fi' %} selected="selected"{% endif %}>englanti → suomi</option>
-            <option value="fi en" {% if request.form['language'] == 'fi en' %} selected="selected"{% endif %}>suomi → englanti</option>
+            {% for entry in models %}
+              <option value="{{ entry['value'] }}" {% if request.form['language'] == entry['value'] %} selected="selected"{% endif %}>
+                {{ entry['label'] }}
+              </option>
+            {% endfor %}
           </select>
           <textarea placeholder="Käännettävä teksti" id="text" name="text">{{ text }}</textarea>
           <input type="submit" value="Käännä">
