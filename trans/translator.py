@@ -27,7 +27,7 @@ def get_error_message(output):
             msg = msg.replace('Model', 'Mallia').replace('is currently loading', 'ladataan vielä.')
 
         if 'estimated_time' in output:
-            msg = msg + ' Yritä uudelleen noin ' + str(output['estimated_time']) + ' s:n päästä.'
+            msg = msg + ' Yritä uudelleen noin ' + str(round(output['estimated_time'])) + ' sekunnin päästä.'
         raise Exception(msg)
     else:
         raise Exception(str(output))
