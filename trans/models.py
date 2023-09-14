@@ -12,5 +12,4 @@ with open('trans/models.json') as f:
         available_translations.add(tr)
 
 def model_exists(frm, to):
-    print(available_translations)
     return f'{frm} {to}' in available_translations
