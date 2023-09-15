@@ -9,7 +9,7 @@ app.config.from_mapping(
 )
 
 @app.route('/', methods=('GET', 'POST'))
-def hello():
+def index():
     text = ""
     translation = ""
 

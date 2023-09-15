@@ -18,7 +18,12 @@
         <form method="post">
           <select name="language">
             {% for entry in models %}
-              <option value="{{ entry['value'] }}" {% if request.form['language'] == entry['value'] %} selected="selected"{% endif %}>
+            <option
+              value="{{ entry['value'] }}"
+              {% if (request.form['language'] or "en fi") == entry['value'] %}
+                selected="selected"
+              {% endif %}
+            >
                 {{ entry['label'] }}
               </option>
             {% endfor %}
