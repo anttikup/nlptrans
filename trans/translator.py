@@ -1,12 +1,18 @@
 import os
 import requests
 import sys
+import time
 
 from trans.models import model_exists
 
 API_TOKEN = os.environ['API_TOKEN']
 
 headers = {'Authorization': 'Bearer ' + API_TOKEN}
+
+class NotReadyException(Exception):
+    def __init__(self, message, time):
+        super().__init__(message)
+        self.time = time
 
 def get_url(frm, to):
     if not model_exists(frm, to):
@@ -20,15 +26,13 @@ def query(url, payload):
     return response.json()
 
 
-def get_error_message(output):
+def raise_error(output):
     if 'error' in output:
         msg = output['error']
-        if msg.endswith('is currently loading'):
-            msg = msg.replace('Model', 'Mallia').replace('is currently loading', 'ladataan vielä.')
-
-        if 'estimated_time' in output:
-            msg = msg + ' Yritä uudelleen noin ' + str(round(output['estimated_time'])) + ' sekunnin päästä.'
-        raise Exception(msg)
+        if msg.endswith('is currently loading') and 'estimated_time' in output:
+            raise NotReadyException(msg, output['estimated_time'])
+        else:
+            raise Exception(msg)
     else:
         raise Exception(str(output))
 
@@ -39,7 +43,14 @@ def translate(frm, to, texts):
     })
 
     if type(output) != list:
-        raise Exception(get_error_message(output))
+        try:
+            raise_error(output)
+        except NotReadyException as err:
+            time.sleep(err.time)
+            output = query(get_url(frm, to), {
+	        'inputs': texts,
+            })
+
 
     return [ paragraph['translation_text'] for paragraph in output ]
 

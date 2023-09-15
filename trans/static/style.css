@@ -59,3 +59,16 @@ p {
 p + p {
     margin-top: 1em;
 }
+
+input {
+    width: 100%;
+}
+
+
+input[type="text"]:invalid {
+    box-shadow: 0 0 5px 1px red;
+}
+
+input[type="text"]:valid {
+    box-shadow: 0 0 5px 1px green;
+}

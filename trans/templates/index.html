@@ -15,19 +15,15 @@
       <div class="flash">{{ message }}</div>
       {% endfor %}
       <div class="grid">
-        <form method="post">
-          <select name="language">
+        <form method="post" name="translate">
+          <datalist id="models">
             {% for entry in models %}
-            <option
-              value="{{ entry['value'] }}"
-              {% if (request.form['language'] or "en fi") == entry['value'] %}
-                selected="selected"
-              {% endif %}
-            >
+            <option>
                 {{ entry['label'] }}
               </option>
             {% endfor %}
-          </select>
+          </datalist>
+          <input type="text" required autoComplete="on" list="models" name="language" value="{{ request.form['language'] or 'englanti - suomi' }}" />
           <textarea placeholder="Käännettävä teksti" id="text" name="text">{{ text }}</textarea>
           <input type="submit" value="Käännä">
         </form>
@@ -37,6 +33,10 @@
           {% endfor %}
         </div>
       </div>
+      <p>
+        Huom. Mallin vaihtamisen jälkeen ensimmäinen käännös yleensä kestää.
+      </p>
     </main>
+    <script type="text/javascript" src="{{ url_for('static', filename='index.js') }}"></script>
   </body>
 </html>
