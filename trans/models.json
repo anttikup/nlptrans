@@ -1,5278 +1,5266 @@
 [
   {
-    "label": "Austro-Asiatic languages \u2192 englanti",
-    "value": "aav en"
-  },
-  {
-    "label": "Argentine Sign Language \u2192 espanja",
-    "value": "aed es"
-  },
-  {
-    "label": "afrikaans \u2192 saksa",
-    "value": "af de"
-  },
-  {
-    "label": "afrikaans \u2192 englanti",
+    "label": "afrikaans - englanti",
     "value": "af en"
   },
   {
-    "label": "afrikaans \u2192 esperanto",
-    "value": "af eo"
-  },
-  {
-    "label": "afrikaans \u2192 espanja",
+    "label": "afrikaans - espanja",
     "value": "af es"
   },
   {
-    "label": "afrikaans \u2192 suomi",
-    "value": "af fi"
+    "label": "afrikaans - esperanto",
+    "value": "af eo"
   },
   {
-    "label": "afrikaans \u2192 ranska",
-    "value": "af fr"
-  },
-  {
-    "label": "afrikaans \u2192 hollanti",
+    "label": "afrikaans - hollanti",
     "value": "af nl"
   },
   {
-    "label": "afrikaans \u2192 ven\u00e4j\u00e4",
-    "value": "af ru"
+    "label": "afrikaans - ranska",
+    "value": "af fr"
   },
   {
-    "label": "afrikaans \u2192 ruotsi",
+    "label": "afrikaans - ruotsi",
     "value": "af sv"
   },
   {
-    "label": "Afro-Asiatic languages \u2192 Afro-Asiatic languages",
+    "label": "afrikaans - saksa",
+    "value": "af de"
+  },
+  {
+    "label": "afrikaans - suomi",
+    "value": "af fi"
+  },
+  {
+    "label": "afrikaans - ven\u00e4j\u00e4",
+    "value": "af ru"
+  },
+  {
+    "label": "Afro-Asiatic languages - Afro-Asiatic languages",
     "value": "afa afa"
   },
   {
-    "label": "Afro-Asiatic languages \u2192 englanti",
+    "label": "Afro-Asiatic languages - englanti",
     "value": "afa en"
   },
   {
-    "label": "Atlantic-Congo languages \u2192 englanti",
-    "value": "alv en"
-  },
-  {
-    "label": "amhara \u2192 ruotsi",
-    "value": "am sv"
-  },
-  {
-    "label": "arabia \u2192 saksa",
-    "value": "ar de"
-  },
-  {
-    "label": "arabia \u2192 kreikka",
-    "value": "ar el"
-  },
-  {
-    "label": "arabia \u2192 englanti",
-    "value": "ar en"
-  },
-  {
-    "label": "arabia \u2192 esperanto",
-    "value": "ar eo"
-  },
-  {
-    "label": "arabia \u2192 espanja",
-    "value": "ar es"
-  },
-  {
-    "label": "arabia \u2192 ranska",
-    "value": "ar fr"
-  },
-  {
-    "label": "arabia \u2192 heprea",
-    "value": "ar he"
-  },
-  {
-    "label": "arabia \u2192 italia",
-    "value": "ar it"
-  },
-  {
-    "label": "arabia \u2192 puola",
-    "value": "ar pl"
-  },
-  {
-    "label": "arabia \u2192 ven\u00e4j\u00e4",
-    "value": "ar ru"
-  },
-  {
-    "label": "arabia \u2192 turkki",
-    "value": "ar tr"
-  },
-  {
-    "label": "Artificial languages \u2192 englanti",
-    "value": "art en"
-  },
-  {
-    "label": "amerikkalainen viittomakieli \u2192 saksa",
-    "value": "ase de"
-  },
-  {
-    "label": "amerikkalainen viittomakieli \u2192 englanti",
-    "value": "ase en"
-  },
-  {
-    "label": "amerikkalainen viittomakieli \u2192 espanja",
-    "value": "ase es"
-  },
-  {
-    "label": "amerikkalainen viittomakieli \u2192 ranska",
-    "value": "ase fr"
-  },
-  {
-    "label": "amerikkalainen viittomakieli \u2192 ruotsi",
-    "value": "ase sv"
-  },
-  {
-    "label": "azeri \u2192 englanti",
-    "value": "az en"
-  },
-  {
-    "label": "azeri \u2192 espanja",
-    "value": "az es"
-  },
-  {
-    "label": "azeri \u2192 turkki",
-    "value": "az tr"
-  },
-  {
-    "label": "Baltic languages \u2192 englanti",
-    "value": "bat en"
-  },
-  {
-    "label": "Central Bikol \u2192 saksa",
-    "value": "bcl de"
-  },
-  {
-    "label": "Central Bikol \u2192 englanti",
-    "value": "bcl en"
-  },
-  {
-    "label": "Central Bikol \u2192 espanja",
-    "value": "bcl es"
-  },
-  {
-    "label": "Central Bikol \u2192 suomi",
-    "value": "bcl fi"
-  },
-  {
-    "label": "Central Bikol \u2192 ranska",
-    "value": "bcl fr"
-  },
-  {
-    "label": "Central Bikol \u2192 ruotsi",
-    "value": "bcl sv"
-  },
-  {
-    "label": "valkoven\u00e4j\u00e4 \u2192 espanja",
-    "value": "be es"
-  },
-  {
-    "label": "bemba \u2192 englanti",
-    "value": "bem en"
-  },
-  {
-    "label": "bemba \u2192 espanja",
-    "value": "bem es"
-  },
-  {
-    "label": "bemba \u2192 suomi",
-    "value": "bem fi"
-  },
-  {
-    "label": "bemba \u2192 ranska",
-    "value": "bem fr"
-  },
-  {
-    "label": "bemba \u2192 ruotsi",
-    "value": "bem sv"
-  },
-  {
-    "label": "Berber languages \u2192 englanti",
-    "value": "ber en"
-  },
-  {
-    "label": "Berber languages \u2192 espanja",
-    "value": "ber es"
-  },
-  {
-    "label": "Berber languages \u2192 ranska",
-    "value": "ber fr"
-  },
-  {
-    "label": "bulgaria \u2192 saksa",
-    "value": "bg de"
-  },
-  {
-    "label": "bulgaria \u2192 englanti",
-    "value": "bg en"
-  },
-  {
-    "label": "bulgaria \u2192 esperanto",
-    "value": "bg eo"
-  },
-  {
-    "label": "bulgaria \u2192 espanja",
-    "value": "bg es"
-  },
-  {
-    "label": "bulgaria \u2192 suomi",
-    "value": "bg fi"
-  },
-  {
-    "label": "bulgaria \u2192 ranska",
-    "value": "bg fr"
-  },
-  {
-    "label": "bulgaria \u2192 italia",
-    "value": "bg it"
-  },
-  {
-    "label": "bulgaria \u2192 ven\u00e4j\u00e4",
-    "value": "bg ru"
-  },
-  {
-    "label": "bulgaria \u2192 ruotsi",
-    "value": "bg sv"
-  },
-  {
-    "label": "bulgaria \u2192 turkki",
-    "value": "bg tr"
-  },
-  {
-    "label": "bulgaria \u2192 ukraina",
-    "value": "bg uk"
-  },
-  {
-    "label": "bislama \u2192 englanti",
-    "value": "bi en"
-  },
-  {
-    "label": "bislama \u2192 espanja",
-    "value": "bi es"
-  },
-  {
-    "label": "bislama \u2192 ranska",
-    "value": "bi fr"
-  },
-  {
-    "label": "bislama \u2192 ruotsi",
-    "value": "bi sv"
-  },
-  {
-    "label": "bengali \u2192 englanti",
-    "value": "bn en"
-  },
-  {
-    "label": "Bantu languages \u2192 englanti",
-    "value": "bnt en"
-  },
-  {
-    "label": "Brazilian Sign Language \u2192 englanti",
-    "value": "bzs en"
-  },
-  {
-    "label": "Brazilian Sign Language \u2192 espanja",
-    "value": "bzs es"
-  },
-  {
-    "label": "Brazilian Sign Language \u2192 suomi",
-    "value": "bzs fi"
-  },
-  {
-    "label": "Brazilian Sign Language \u2192 ranska",
-    "value": "bzs fr"
-  },
-  {
-    "label": "Brazilian Sign Language \u2192 ruotsi",
-    "value": "bzs sv"
-  },
-  {
-    "label": "katalaani \u2192 saksa",
-    "value": "ca de"
-  },
-  {
-    "label": "katalaani \u2192 englanti",
-    "value": "ca en"
-  },
-  {
-    "label": "katalaani \u2192 espanja",
-    "value": "ca es"
-  },
-  {
-    "label": "katalaani \u2192 ranska",
-    "value": "ca fr"
-  },
-  {
-    "label": "katalaani \u2192 italia",
-    "value": "ca it"
-  },
-  {
-    "label": "katalaani \u2192 hollanti",
-    "value": "ca nl"
-  },
-  {
-    "label": "katalaani \u2192 portugali",
-    "value": "ca pt"
-  },
-  {
-    "label": "katalaani \u2192 ukraina",
-    "value": "ca uk"
-  },
-  {
-    "label": "Caucasian languages \u2192 englanti",
-    "value": "cau en"
-  },
-  {
-    "label": "South Caucasian languages \u2192 englanti",
-    "value": "ccs en"
-  },
-  {
-    "label": "cebuano \u2192 englanti",
-    "value": "ceb en"
-  },
-  {
-    "label": "cebuano \u2192 espanja",
-    "value": "ceb es"
-  },
-  {
-    "label": "cebuano \u2192 suomi",
-    "value": "ceb fi"
-  },
-  {
-    "label": "cebuano \u2192 ranska",
-    "value": "ceb fr"
-  },
-  {
-    "label": "cebuano \u2192 ruotsi",
-    "value": "ceb sv"
-  },
-  {
-    "label": "Celtic languages \u2192 englanti",
-    "value": "cel en"
-  },
-  {
-    "label": "chuuk \u2192 englanti",
-    "value": "chk en"
-  },
-  {
-    "label": "chuuk \u2192 espanja",
-    "value": "chk es"
-  },
-  {
-    "label": "chuuk \u2192 ranska",
-    "value": "chk fr"
-  },
-  {
-    "label": "chuuk \u2192 ruotsi",
-    "value": "chk sv"
-  },
-  {
-    "label": "French-based creoles and pidgins \u2192 englanti",
-    "value": "cpf en"
-  },
-  {
-    "label": "Portuguese-based creoles and pidgins \u2192 Portuguese-based creoles and pidgins",
-    "value": "cpp cpp"
-  },
-  {
-    "label": "Portuguese-based creoles and pidgins \u2192 englanti",
-    "value": "cpp en"
-  },
-  {
-    "label": "seychellienkreoli \u2192 saksa",
-    "value": "crs de"
-  },
-  {
-    "label": "seychellienkreoli \u2192 englanti",
-    "value": "crs en"
-  },
-  {
-    "label": "seychellienkreoli \u2192 espanja",
-    "value": "crs es"
-  },
-  {
-    "label": "seychellienkreoli \u2192 suomi",
-    "value": "crs fi"
-  },
-  {
-    "label": "seychellienkreoli \u2192 ranska",
-    "value": "crs fr"
-  },
-  {
-    "label": "seychellienkreoli \u2192 ruotsi",
-    "value": "crs sv"
-  },
-  {
-    "label": "t\u0161ekki \u2192 saksa",
-    "value": "cs de"
-  },
-  {
-    "label": "t\u0161ekki \u2192 englanti",
-    "value": "cs en"
-  },
-  {
-    "label": "t\u0161ekki \u2192 esperanto",
-    "value": "cs eo"
-  },
-  {
-    "label": "t\u0161ekki \u2192 suomi",
-    "value": "cs fi"
-  },
-  {
-    "label": "t\u0161ekki \u2192 ranska",
-    "value": "cs fr"
-  },
-  {
-    "label": "t\u0161ekki \u2192 ruotsi",
-    "value": "cs sv"
-  },
-  {
-    "label": "t\u0161ekki \u2192 ukraina",
-    "value": "cs uk"
-  },
-  {
-    "label": "Chilean Sign Language \u2192 espanja",
-    "value": "csg es"
-  },
-  {
-    "label": "Colombian Sign Language \u2192 espanja",
-    "value": "csn es"
-  },
-  {
-    "label": "Cushitic languages \u2192 englanti",
-    "value": "cus en"
-  },
-  {
-    "label": "kymri \u2192 englanti",
-    "value": "cy en"
-  },
-  {
-    "label": "tanska \u2192 saksa",
-    "value": "da de"
-  },
-  {
-    "label": "tanska \u2192 englanti",
-    "value": "da en"
-  },
-  {
-    "label": "tanska \u2192 esperanto",
-    "value": "da eo"
-  },
-  {
-    "label": "tanska \u2192 espanja",
-    "value": "da es"
-  },
-  {
-    "label": "tanska \u2192 suomi",
-    "value": "da fi"
-  },
-  {
-    "label": "tanska \u2192 ranska",
-    "value": "da fr"
-  },
-  {
-    "label": "tanska \u2192 norja",
-    "value": "da no"
-  },
-  {
-    "label": "tanska \u2192 ven\u00e4j\u00e4",
-    "value": "da ru"
-  },
-  {
-    "label": "saksa \u2192 kiina",
-    "value": "de ZH"
-  },
-  {
-    "label": "saksa \u2192 afrikaans",
-    "value": "de af"
-  },
-  {
-    "label": "saksa \u2192 arabia",
-    "value": "de ar"
-  },
-  {
-    "label": "saksa \u2192 amerikkalainen viittomakieli",
-    "value": "de ase"
-  },
-  {
-    "label": "saksa \u2192 Central Bikol",
-    "value": "de bcl"
-  },
-  {
-    "label": "saksa \u2192 bulgaria",
-    "value": "de bg"
-  },
-  {
-    "label": "saksa \u2192 bislama",
-    "value": "de bi"
-  },
-  {
-    "label": "saksa \u2192 Brazilian Sign Language",
-    "value": "de bzs"
-  },
-  {
-    "label": "saksa \u2192 katalaani",
-    "value": "de ca"
-  },
-  {
-    "label": "saksa \u2192 seychellienkreoli",
-    "value": "de crs"
-  },
-  {
-    "label": "saksa \u2192 t\u0161ekki",
-    "value": "de cs"
-  },
-  {
-    "label": "saksa \u2192 tanska",
-    "value": "de da"
-  },
-  {
-    "label": "saksa \u2192 saksa",
-    "value": "de de"
-  },
-  {
-    "label": "saksa \u2192 ewe",
-    "value": "de ee"
-  },
-  {
-    "label": "saksa \u2192 efik",
-    "value": "de efi"
-  },
-  {
-    "label": "saksa \u2192 kreikka",
-    "value": "de el"
-  },
-  {
-    "label": "saksa \u2192 englanti",
-    "value": "de en"
-  },
-  {
-    "label": "saksa \u2192 esperanto",
-    "value": "de eo"
-  },
-  {
-    "label": "saksa \u2192 espanja",
-    "value": "de es"
-  },
-  {
-    "label": "saksa \u2192 viro",
-    "value": "de et"
-  },
-  {
-    "label": "saksa \u2192 baski",
-    "value": "de eu"
-  },
-  {
-    "label": "saksa \u2192 suomi",
-    "value": "de fi"
-  },
-  {
-    "label": "saksa \u2192 fid\u017ei",
-    "value": "de fj"
-  },
-  {
-    "label": "saksa \u2192 ranska",
-    "value": "de fr"
-  },
-  {
-    "label": "saksa \u2192 ga",
-    "value": "de gaa"
-  },
-  {
-    "label": "saksa \u2192 kiribati",
-    "value": "de gil"
-  },
-  {
-    "label": "saksa \u2192 Gun",
-    "value": "de guw"
-  },
-  {
-    "label": "saksa \u2192 hausa",
-    "value": "de ha"
-  },
-  {
-    "label": "saksa \u2192 heprea",
-    "value": "de he"
-  },
-  {
-    "label": "saksa \u2192 hiligaino",
-    "value": "de hil"
-  },
-  {
-    "label": "saksa \u2192 hiri-motu",
-    "value": "de ho"
-  },
-  {
-    "label": "saksa \u2192 kroatia",
-    "value": "de hr"
-  },
-  {
-    "label": "saksa \u2192 haiti",
-    "value": "de ht"
-  },
-  {
-    "label": "saksa \u2192 unkari",
-    "value": "de hu"
-  },
-  {
-    "label": "saksa \u2192 igbo",
-    "value": "de ig"
-  },
-  {
-    "label": "saksa \u2192 iloko",
-    "value": "de ilo"
-  },
-  {
-    "label": "saksa \u2192 islanti",
-    "value": "de is"
-  },
-  {
-    "label": "saksa \u2192 Isoko",
-    "value": "de iso"
-  },
-  {
-    "label": "saksa \u2192 italia",
-    "value": "de it"
-  },
-  {
-    "label": "saksa \u2192 kongo",
-    "value": "de kg"
-  },
-  {
-    "label": "saksa \u2192 lingala",
-    "value": "de ln"
-  },
-  {
-    "label": "saksa \u2192 lozi",
-    "value": "de loz"
-  },
-  {
-    "label": "saksa \u2192 liettua",
-    "value": "de lt"
-  },
-  {
-    "label": "saksa \u2192 luluanluba",
-    "value": "de lua"
-  },
-  {
-    "label": "saksa \u2192 malaiji",
-    "value": "de ms"
-  },
-  {
-    "label": "saksa \u2192 malta",
-    "value": "de mt"
-  },
-  {
-    "label": "saksa \u2192 niue",
-    "value": "de niu"
-  },
-  {
-    "label": "saksa \u2192 hollanti",
-    "value": "de nl"
-  },
-  {
-    "label": "saksa \u2192 norja",
-    "value": "de no"
-  },
-  {
-    "label": "saksa \u2192 pohjoissotho",
-    "value": "de nso"
-  },
-  {
-    "label": "saksa \u2192 njand\u017ea",
-    "value": "de ny"
-  },
-  {
-    "label": "saksa \u2192 pangasinan",
-    "value": "de pag"
-  },
-  {
-    "label": "saksa \u2192 papiamentu",
-    "value": "de pap"
-  },
-  {
-    "label": "saksa \u2192 Pijin",
-    "value": "de pis"
-  },
-  {
-    "label": "saksa \u2192 puola",
-    "value": "de pl"
-  },
-  {
-    "label": "saksa \u2192 pohnpei",
-    "value": "de pon"
-  },
-  {
-    "label": "saksa \u2192 filipino",
-    "value": "de tl"
-  },
-  {
-    "label": "saksa \u2192 ukraina",
-    "value": "de uk"
-  },
-  {
-    "label": "saksa \u2192 vietnam",
-    "value": "de vi"
-  },
-  {
-    "label": "Dravidian languages \u2192 englanti",
-    "value": "dra en"
-  },
-  {
-    "label": "ewe \u2192 saksa",
-    "value": "ee de"
-  },
-  {
-    "label": "ewe \u2192 englanti",
-    "value": "ee en"
-  },
-  {
-    "label": "ewe \u2192 espanja",
-    "value": "ee es"
-  },
-  {
-    "label": "ewe \u2192 suomi",
-    "value": "ee fi"
-  },
-  {
-    "label": "ewe \u2192 ranska",
-    "value": "ee fr"
-  },
-  {
-    "label": "ewe \u2192 ruotsi",
-    "value": "ee sv"
-  },
-  {
-    "label": "efik \u2192 saksa",
-    "value": "efi de"
-  },
-  {
-    "label": "efik \u2192 englanti",
-    "value": "efi en"
-  },
-  {
-    "label": "efik \u2192 suomi",
-    "value": "efi fi"
-  },
-  {
-    "label": "efik \u2192 ranska",
-    "value": "efi fr"
-  },
-  {
-    "label": "efik \u2192 ruotsi",
-    "value": "efi sv"
-  },
-  {
-    "label": "kreikka \u2192 arabia",
-    "value": "el ar"
-  },
-  {
-    "label": "kreikka \u2192 esperanto",
-    "value": "el eo"
-  },
-  {
-    "label": "kreikka \u2192 suomi",
-    "value": "el fi"
-  },
-  {
-    "label": "kreikka \u2192 ranska",
-    "value": "el fr"
-  },
-  {
-    "label": "kreikka \u2192 ruotsi",
-    "value": "el sv"
-  },
-  {
-    "label": "englanti \u2192 Austro-Asiatic languages",
-    "value": "en aav"
-  },
-  {
-    "label": "englanti \u2192 afrikaans",
-    "value": "en af"
-  },
-  {
-    "label": "englanti \u2192 Afro-Asiatic languages",
-    "value": "en afa"
-  },
-  {
-    "label": "englanti \u2192 Atlantic-Congo languages",
-    "value": "en alv"
-  },
-  {
-    "label": "englanti \u2192 arabia",
-    "value": "en ar"
-  },
-  {
-    "label": "englanti \u2192 azeri",
-    "value": "en az"
-  },
-  {
-    "label": "englanti \u2192 Baltic languages",
-    "value": "en bat"
-  },
-  {
-    "label": "englanti \u2192 Central Bikol",
-    "value": "en bcl"
-  },
-  {
-    "label": "englanti \u2192 bemba",
-    "value": "en bem"
-  },
-  {
-    "label": "englanti \u2192 Berber languages",
-    "value": "en ber"
-  },
-  {
-    "label": "englanti \u2192 bulgaria",
-    "value": "en bg"
-  },
-  {
-    "label": "englanti \u2192 bislama",
-    "value": "en bi"
-  },
-  {
-    "label": "englanti \u2192 Bantu languages",
-    "value": "en bnt"
-  },
-  {
-    "label": "englanti \u2192 Brazilian Sign Language",
-    "value": "en bzs"
-  },
-  {
-    "label": "englanti \u2192 katalaani",
-    "value": "en ca"
-  },
-  {
-    "label": "englanti \u2192 cebuano",
-    "value": "en ceb"
-  },
-  {
-    "label": "englanti \u2192 Celtic languages",
-    "value": "en cel"
-  },
-  {
-    "label": "englanti \u2192 chuuk",
-    "value": "en chk"
-  },
-  {
-    "label": "englanti \u2192 French-based creoles and pidgins",
-    "value": "en cpf"
-  },
-  {
-    "label": "englanti \u2192 Portuguese-based creoles and pidgins",
-    "value": "en cpp"
-  },
-  {
-    "label": "englanti \u2192 seychellienkreoli",
-    "value": "en crs"
-  },
-  {
-    "label": "englanti \u2192 t\u0161ekki",
-    "value": "en cs"
-  },
-  {
-    "label": "englanti \u2192 Cushitic languages",
-    "value": "en cus"
-  },
-  {
-    "label": "englanti \u2192 kymri",
-    "value": "en cy"
-  },
-  {
-    "label": "englanti \u2192 tanska",
-    "value": "en da"
-  },
-  {
-    "label": "englanti \u2192 saksa",
-    "value": "en de"
-  },
-  {
-    "label": "englanti \u2192 Dravidian languages",
-    "value": "en dra"
-  },
-  {
-    "label": "englanti \u2192 ewe",
-    "value": "en ee"
-  },
-  {
-    "label": "englanti \u2192 efik",
-    "value": "en efi"
-  },
-  {
-    "label": "englanti \u2192 kreikka",
-    "value": "en el"
-  },
-  {
-    "label": "englanti \u2192 esperanto",
-    "value": "en eo"
-  },
-  {
-    "label": "englanti \u2192 espanja",
-    "value": "en es"
-  },
-  {
-    "label": "englanti \u2192 viro",
-    "value": "en et"
-  },
-  {
-    "label": "englanti \u2192 baski",
-    "value": "en eu"
-  },
-  {
-    "label": "englanti \u2192 Basque (family)",
-    "value": "en euq"
-  },
-  {
-    "label": "englanti \u2192 suomi",
-    "value": "en fi"
-  },
-  {
-    "label": "englanti \u2192 Finno-Ugrian languages",
-    "value": "en fiu"
-  },
-  {
-    "label": "englanti \u2192 fid\u017ei",
-    "value": "en fj"
-  },
-  {
-    "label": "englanti \u2192 ranska",
-    "value": "en fr"
-  },
-  {
-    "label": "englanti \u2192 iiri",
-    "value": "en ga"
-  },
-  {
-    "label": "englanti \u2192 ga",
-    "value": "en gaa"
-  },
-  {
-    "label": "englanti \u2192 Germanic languages",
-    "value": "en gem"
-  },
-  {
-    "label": "englanti \u2192 kiribati",
-    "value": "en gil"
-  },
-  {
-    "label": "englanti \u2192 galicia",
-    "value": "en gl"
-  },
-  {
-    "label": "englanti \u2192 North Germanic languages",
-    "value": "en gmq"
-  },
-  {
-    "label": "englanti \u2192 West Germanic languages",
-    "value": "en gmw"
-  },
-  {
-    "label": "englanti \u2192 Greek languages",
-    "value": "en grk"
-  },
-  {
-    "label": "englanti \u2192 Gun",
-    "value": "en guw"
-  },
-  {
-    "label": "englanti \u2192 manksi",
-    "value": "en gv"
-  },
-  {
-    "label": "englanti \u2192 hausa",
-    "value": "en ha"
-  },
-  {
-    "label": "englanti \u2192 heprea",
-    "value": "en he"
-  },
-  {
-    "label": "englanti \u2192 hindi",
-    "value": "en hi"
-  },
-  {
-    "label": "englanti \u2192 hiligaino",
-    "value": "en hil"
-  },
-  {
-    "label": "englanti \u2192 hiri-motu",
-    "value": "en ho"
-  },
-  {
-    "label": "englanti \u2192 haiti",
-    "value": "en ht"
-  },
-  {
-    "label": "englanti \u2192 unkari",
-    "value": "en hu"
-  },
-  {
-    "label": "englanti \u2192 armenia",
-    "value": "en hy"
-  },
-  {
-    "label": "englanti \u2192 indonesia",
-    "value": "en id"
-  },
-  {
-    "label": "englanti \u2192 igbo",
-    "value": "en ig"
-  },
-  {
-    "label": "englanti \u2192 Indo-Iranian languages",
-    "value": "en iir"
-  },
-  {
-    "label": "englanti \u2192 iloko",
-    "value": "en ilo"
-  },
-  {
-    "label": "englanti \u2192 Indic languages",
-    "value": "en inc"
-  },
-  {
-    "label": "englanti \u2192 Indo-European languages",
-    "value": "en ine"
-  },
-  {
-    "label": "englanti \u2192 islanti",
-    "value": "en is"
-  },
-  {
-    "label": "englanti \u2192 Isoko",
-    "value": "en iso"
-  },
-  {
-    "label": "englanti \u2192 italia",
-    "value": "en it"
-  },
-  {
-    "label": "englanti \u2192 Italic languages",
-    "value": "en itc"
-  },
-  {
-    "label": "englanti \u2192 tuntematon kieli [jap]",
-    "value": "en jap"
-  },
-  {
-    "label": "englanti \u2192 kongo",
-    "value": "en kg"
-  },
-  {
-    "label": "englanti \u2192 kuanjama",
-    "value": "en kj"
-  },
-  {
-    "label": "englanti \u2192 Kaonde",
-    "value": "en kqn"
-  },
-  {
-    "label": "englanti \u2192 Kwangali",
-    "value": "en kwn"
-  },
-  {
-    "label": "englanti \u2192 San Salvador Kongo",
-    "value": "en kwy"
-  },
-  {
-    "label": "englanti \u2192 ganda",
-    "value": "en lg"
-  },
-  {
-    "label": "englanti \u2192 lingala",
-    "value": "en ln"
-  },
-  {
-    "label": "englanti \u2192 lozi",
-    "value": "en loz"
-  },
-  {
-    "label": "englanti \u2192 katanganluba",
-    "value": "en lu"
-  },
-  {
-    "label": "englanti \u2192 luluanluba",
-    "value": "en lua"
-  },
-  {
-    "label": "englanti \u2192 Luvale",
-    "value": "en lue"
-  },
-  {
-    "label": "englanti \u2192 lunda",
-    "value": "en lun"
-  },
-  {
-    "label": "englanti \u2192 Luo (Kenya and Tanzania)",
-    "value": "en luo"
-  },
-  {
-    "label": "englanti \u2192 lusai",
-    "value": "en lus"
-  },
-  {
-    "label": "englanti \u2192 Austronesian languages",
-    "value": "en map"
-  },
-  {
-    "label": "englanti \u2192 morisyen",
-    "value": "en mfe"
-  },
-  {
-    "label": "englanti \u2192 malagassi",
-    "value": "en mg"
-  },
-  {
-    "label": "englanti \u2192 marshall",
-    "value": "en mh"
-  },
-  {
-    "label": "englanti \u2192 makedonia",
-    "value": "en mk"
-  },
-  {
-    "label": "englanti \u2192 Mon-Khmer languages",
-    "value": "en mkh"
-  },
-  {
-    "label": "englanti \u2192 malajalam",
-    "value": "en ml"
-  },
-  {
-    "label": "englanti \u2192 mossi",
-    "value": "en mos"
-  },
-  {
-    "label": "englanti \u2192 marathi",
-    "value": "en mr"
-  },
-  {
-    "label": "englanti \u2192 malta",
-    "value": "en mt"
-  },
-  {
-    "label": "englanti \u2192 useita kieli\u00e4",
-    "value": "en mul"
-  },
-  {
-    "label": "englanti \u2192 ndonga",
-    "value": "en ng"
-  },
-  {
-    "label": "englanti \u2192 Niger-Kordofanian languages",
-    "value": "en nic"
-  },
-  {
-    "label": "englanti \u2192 niue",
-    "value": "en niu"
-  },
-  {
-    "label": "englanti \u2192 hollanti",
-    "value": "en nl"
-  },
-  {
-    "label": "englanti \u2192 pohjoissotho",
-    "value": "en nso"
-  },
-  {
-    "label": "englanti \u2192 njand\u017ea",
-    "value": "en ny"
-  },
-  {
-    "label": "englanti \u2192 Nyaneka",
-    "value": "en nyk"
-  },
-  {
-    "label": "englanti \u2192 oromo",
-    "value": "en om"
-  },
-  {
-    "label": "englanti \u2192 pangasinan",
-    "value": "en pag"
-  },
-  {
-    "label": "englanti \u2192 papiamentu",
-    "value": "en pap"
-  },
-  {
-    "label": "englanti \u2192 Philippine languages",
-    "value": "en phi"
-  },
-  {
-    "label": "englanti \u2192 Pijin",
-    "value": "en pis"
-  },
-  {
-    "label": "englanti \u2192 pohnpei",
-    "value": "en pon"
-  },
-  {
-    "label": "englanti \u2192 Malayo-Polynesian languages",
-    "value": "en poz"
-  },
-  {
-    "label": "englanti \u2192 Eastern Malayo-Polynesian languages",
-    "value": "en pqe"
-  },
-  {
-    "label": "englanti \u2192 Western Malayo-Polynesian languages",
-    "value": "en pqw"
-  },
-  {
-    "label": "englanti \u2192 rundi",
-    "value": "en rn"
-  },
-  {
-    "label": "englanti \u2192 Ruund",
-    "value": "en rnd"
-  },
-  {
-    "label": "englanti \u2192 romania",
-    "value": "en ro"
-  },
-  {
-    "label": "englanti \u2192 Romance languages",
-    "value": "en roa"
-  },
-  {
-    "label": "englanti \u2192 ven\u00e4j\u00e4",
-    "value": "en ru"
-  },
-  {
-    "label": "englanti \u2192 rundi",
-    "value": "en run"
-  },
-  {
-    "label": "englanti \u2192 ruanda",
-    "value": "en rw"
-  },
-  {
-    "label": "englanti \u2192 Salishan languages",
-    "value": "en sal"
-  },
-  {
-    "label": "englanti \u2192 Semitic languages",
-    "value": "en sem"
-  },
-  {
-    "label": "englanti \u2192 sango",
-    "value": "en sg"
-  },
-  {
-    "label": "englanti \u2192 Sino-Tibetan languages",
-    "value": "en sit"
-  },
-  {
-    "label": "englanti \u2192 slovakki",
-    "value": "en sk"
-  },
-  {
-    "label": "englanti \u2192 Slavic languages",
-    "value": "en sla"
-  },
-  {
-    "label": "englanti \u2192 samoa",
-    "value": "en sm"
-  },
-  {
-    "label": "englanti \u2192 \u0161ona",
-    "value": "en sn"
-  },
-  {
-    "label": "englanti \u2192 albania",
-    "value": "en sq"
-  },
-  {
-    "label": "englanti \u2192 swazi",
-    "value": "en ss"
-  },
-  {
-    "label": "englanti \u2192 etel\u00e4sotho",
-    "value": "en st"
-  },
-  {
-    "label": "englanti \u2192 ruotsi",
-    "value": "en sv"
-  },
-  {
-    "label": "englanti \u2192 swahili",
-    "value": "en sw"
-  },
-  {
-    "label": "englanti \u2192 swahili (Kongon demokraattinen tasavalta)",
-    "value": "en swc"
-  },
-  {
-    "label": "englanti \u2192 Tetun Dili",
-    "value": "en tdt"
-  },
-  {
-    "label": "englanti \u2192 tigrinja",
-    "value": "en ti"
-  },
-  {
-    "label": "englanti \u2192 Tiv",
-    "value": "en tiv"
-  },
-  {
-    "label": "englanti \u2192 filipino",
-    "value": "en tl"
-  },
-  {
-    "label": "englanti \u2192 Tetela",
-    "value": "en tll"
-  },
-  {
-    "label": "englanti \u2192 tswana",
-    "value": "en tn"
-  },
-  {
-    "label": "englanti \u2192 tonga",
-    "value": "en to"
-  },
-  {
-    "label": "englanti \u2192 Tonga (Zambia)",
-    "value": "en toi"
-  },
-  {
-    "label": "englanti \u2192 tok-pisin",
-    "value": "en tpi"
-  },
-  {
-    "label": "englanti \u2192 Turkic languages",
-    "value": "en trk"
-  },
-  {
-    "label": "englanti \u2192 tsonga",
-    "value": "en ts"
-  },
-  {
-    "label": "englanti \u2192 Altaic languages",
-    "value": "en tut"
-  },
-  {
-    "label": "englanti \u2192 tuvalu",
-    "value": "en tvl"
-  },
-  {
-    "label": "englanti \u2192 twi",
-    "value": "en tw"
-  },
-  {
-    "label": "englanti \u2192 tahiti",
-    "value": "en ty"
-  },
-  {
-    "label": "englanti \u2192 ukraina",
-    "value": "en uk"
-  },
-  {
-    "label": "englanti \u2192 mbundu",
-    "value": "en umb"
-  },
-  {
-    "label": "englanti \u2192 urdu",
-    "value": "en ur"
-  },
-  {
-    "label": "englanti \u2192 Uralic languages",
-    "value": "en urj"
-  },
-  {
-    "label": "englanti \u2192 vietnam",
-    "value": "en vi"
-  },
-  {
-    "label": "englanti \u2192 xhosa",
-    "value": "en xh"
-  },
-  {
-    "label": "englanti \u2192 kiina",
-    "value": "en zh"
-  },
-  {
-    "label": "englanti \u2192 East Slavic languages",
-    "value": "en zle"
-  },
-  {
-    "label": "englanti \u2192 South Slavic languages",
-    "value": "en zls"
-  },
-  {
-    "label": "englanti \u2192 West Slavic languages",
-    "value": "en zlw"
-  },
-  {
-    "label": "esperanto \u2192 afrikaans",
-    "value": "eo af"
-  },
-  {
-    "label": "esperanto \u2192 bulgaria",
-    "value": "eo bg"
-  },
-  {
-    "label": "esperanto \u2192 t\u0161ekki",
-    "value": "eo cs"
-  },
-  {
-    "label": "esperanto \u2192 tanska",
-    "value": "eo da"
-  },
-  {
-    "label": "esperanto \u2192 saksa",
-    "value": "eo de"
-  },
-  {
-    "label": "esperanto \u2192 kreikka",
-    "value": "eo el"
-  },
-  {
-    "label": "esperanto \u2192 englanti",
-    "value": "eo en"
-  },
-  {
-    "label": "esperanto \u2192 espanja",
-    "value": "eo es"
-  },
-  {
-    "label": "esperanto \u2192 suomi",
-    "value": "eo fi"
-  },
-  {
-    "label": "esperanto \u2192 ranska",
-    "value": "eo fr"
-  },
-  {
-    "label": "esperanto \u2192 heprea",
-    "value": "eo he"
-  },
-  {
-    "label": "esperanto \u2192 unkari",
-    "value": "eo hu"
-  },
-  {
-    "label": "esperanto \u2192 italia",
-    "value": "eo it"
-  },
-  {
-    "label": "esperanto \u2192 hollanti",
-    "value": "eo nl"
-  },
-  {
-    "label": "esperanto \u2192 puola",
-    "value": "eo pl"
-  },
-  {
-    "label": "esperanto \u2192 portugali",
-    "value": "eo pt"
-  },
-  {
-    "label": "esperanto \u2192 romania",
-    "value": "eo ro"
-  },
-  {
-    "label": "esperanto \u2192 ven\u00e4j\u00e4",
-    "value": "eo ru"
-  },
-  {
-    "label": "esperanto \u2192 serbia (latinalainen)",
-    "value": "eo sh"
-  },
-  {
-    "label": "esperanto \u2192 ruotsi",
-    "value": "eo sv"
-  },
-  {
-    "label": "espanja \u2192 Argentine Sign Language",
-    "value": "es aed"
-  },
-  {
-    "label": "espanja \u2192 afrikaans",
-    "value": "es af"
-  },
-  {
-    "label": "espanja \u2192 arabia",
-    "value": "es ar"
-  },
-  {
-    "label": "espanja \u2192 amerikkalainen viittomakieli",
-    "value": "es ase"
-  },
-  {
-    "label": "espanja \u2192 Central Bikol",
-    "value": "es bcl"
-  },
-  {
-    "label": "espanja \u2192 Berber languages",
-    "value": "es ber"
-  },
-  {
-    "label": "espanja \u2192 bulgaria",
-    "value": "es bg"
-  },
-  {
-    "label": "espanja \u2192 bislama",
-    "value": "es bi"
-  },
-  {
-    "label": "espanja \u2192 Brazilian Sign Language",
-    "value": "es bzs"
-  },
-  {
-    "label": "espanja \u2192 katalaani",
-    "value": "es ca"
-  },
-  {
-    "label": "espanja \u2192 cebuano",
-    "value": "es ceb"
-  },
-  {
-    "label": "espanja \u2192 seychellienkreoli",
-    "value": "es crs"
-  },
-  {
-    "label": "espanja \u2192 t\u0161ekki",
-    "value": "es cs"
-  },
-  {
-    "label": "espanja \u2192 Chilean Sign Language",
-    "value": "es csg"
-  },
-  {
-    "label": "espanja \u2192 Colombian Sign Language",
-    "value": "es csn"
-  },
-  {
-    "label": "espanja \u2192 tanska",
-    "value": "es da"
-  },
-  {
-    "label": "espanja \u2192 saksa",
-    "value": "es de"
-  },
-  {
-    "label": "espanja \u2192 ewe",
-    "value": "es ee"
-  },
-  {
-    "label": "espanja \u2192 efik",
-    "value": "es efi"
-  },
-  {
-    "label": "espanja \u2192 kreikka",
-    "value": "es el"
-  },
-  {
-    "label": "espanja \u2192 englanti",
-    "value": "es en"
-  },
-  {
-    "label": "espanja \u2192 esperanto",
-    "value": "es eo"
-  },
-  {
-    "label": "espanja \u2192 espanja",
-    "value": "es es"
-  },
-  {
-    "label": "espanja \u2192 viro",
-    "value": "es et"
-  },
-  {
-    "label": "espanja \u2192 baski",
-    "value": "es eu"
-  },
-  {
-    "label": "espanja \u2192 suomi",
-    "value": "es fi"
-  },
-  {
-    "label": "espanja \u2192 fid\u017ei",
-    "value": "es fj"
-  },
-  {
-    "label": "espanja \u2192 ranska",
-    "value": "es fr"
-  },
-  {
-    "label": "espanja \u2192 ga",
-    "value": "es gaa"
-  },
-  {
-    "label": "espanja \u2192 kiribati",
-    "value": "es gil"
-  },
-  {
-    "label": "espanja \u2192 galicia",
-    "value": "es gl"
-  },
-  {
-    "label": "espanja \u2192 Gun",
-    "value": "es guw"
-  },
-  {
-    "label": "espanja \u2192 hausa",
-    "value": "es ha"
-  },
-  {
-    "label": "espanja \u2192 heprea",
-    "value": "es he"
-  },
-  {
-    "label": "espanja \u2192 hiligaino",
-    "value": "es hil"
-  },
-  {
-    "label": "espanja \u2192 hiri-motu",
-    "value": "es ho"
-  },
-  {
-    "label": "espanja \u2192 kroatia",
-    "value": "es hr"
-  },
-  {
-    "label": "espanja \u2192 haiti",
-    "value": "es ht"
-  },
-  {
-    "label": "espanja \u2192 indonesia",
-    "value": "es id"
-  },
-  {
-    "label": "espanja \u2192 igbo",
-    "value": "es ig"
-  },
-  {
-    "label": "espanja \u2192 iloko",
-    "value": "es ilo"
-  },
-  {
-    "label": "espanja \u2192 islanti",
-    "value": "es is"
-  },
-  {
-    "label": "espanja \u2192 Isoko",
-    "value": "es iso"
-  },
-  {
-    "label": "espanja \u2192 italia",
-    "value": "es it"
-  },
-  {
-    "label": "espanja \u2192 kongo",
-    "value": "es kg"
-  },
-  {
-    "label": "espanja \u2192 lingala",
-    "value": "es ln"
-  },
-  {
-    "label": "espanja \u2192 lozi",
-    "value": "es loz"
-  },
-  {
-    "label": "espanja \u2192 liettua",
-    "value": "es lt"
-  },
-  {
-    "label": "espanja \u2192 luluanluba",
-    "value": "es lua"
-  },
-  {
-    "label": "espanja \u2192 lusai",
-    "value": "es lus"
-  },
-  {
-    "label": "espanja \u2192 Mexican Sign Language",
-    "value": "es mfs"
-  },
-  {
-    "label": "espanja \u2192 makedonia",
-    "value": "es mk"
-  },
-  {
-    "label": "espanja \u2192 malta",
-    "value": "es mt"
-  },
-  {
-    "label": "espanja \u2192 niue",
-    "value": "es niu"
-  },
-  {
-    "label": "espanja \u2192 hollanti",
-    "value": "es nl"
-  },
-  {
-    "label": "espanja \u2192 norja",
-    "value": "es no"
-  },
-  {
-    "label": "espanja \u2192 pohjoissotho",
-    "value": "es nso"
-  },
-  {
-    "label": "espanja \u2192 njand\u017ea",
-    "value": "es ny"
-  },
-  {
-    "label": "espanja \u2192 pangasinan",
-    "value": "es pag"
-  },
-  {
-    "label": "espanja \u2192 papiamentu",
-    "value": "es pap"
-  },
-  {
-    "label": "espanja \u2192 Pijin",
-    "value": "es pis"
-  },
-  {
-    "label": "espanja \u2192 puola",
-    "value": "es pl"
-  },
-  {
-    "label": "espanja \u2192 pohnpei",
-    "value": "es pon"
-  },
-  {
-    "label": "espanja \u2192 Peruvian Sign Language",
-    "value": "es prl"
-  },
-  {
-    "label": "espanja \u2192 rundi",
-    "value": "es rn"
-  },
-  {
-    "label": "espanja \u2192 romania",
-    "value": "es ro"
-  },
-  {
-    "label": "espanja \u2192 ven\u00e4j\u00e4",
-    "value": "es ru"
-  },
-  {
-    "label": "espanja \u2192 ruanda",
-    "value": "es rw"
-  },
-  {
-    "label": "espanja \u2192 sango",
-    "value": "es sg"
-  },
-  {
-    "label": "espanja \u2192 sloveeni",
-    "value": "es sl"
-  },
-  {
-    "label": "espanja \u2192 samoa",
-    "value": "es sm"
-  },
-  {
-    "label": "espanja \u2192 \u0161ona",
-    "value": "es sn"
-  },
-  {
-    "label": "espanja \u2192 sranan",
-    "value": "es srn"
-  },
-  {
-    "label": "espanja \u2192 etel\u00e4sotho",
-    "value": "es st"
-  },
-  {
-    "label": "espanja \u2192 swahili (Kongon demokraattinen tasavalta)",
-    "value": "es swc"
-  },
-  {
-    "label": "espanja \u2192 filipino",
-    "value": "es tl"
-  },
-  {
-    "label": "espanja \u2192 Tetela",
-    "value": "es tll"
-  },
-  {
-    "label": "espanja \u2192 tswana",
-    "value": "es tn"
-  },
-  {
-    "label": "espanja \u2192 tonga",
-    "value": "es to"
-  },
-  {
-    "label": "espanja \u2192 tok-pisin",
-    "value": "es tpi"
-  },
-  {
-    "label": "espanja \u2192 tuvalu",
-    "value": "es tvl"
-  },
-  {
-    "label": "espanja \u2192 twi",
-    "value": "es tw"
-  },
-  {
-    "label": "espanja \u2192 tahiti",
-    "value": "es ty"
-  },
-  {
-    "label": "espanja \u2192 Tzotzil",
-    "value": "es tzo"
-  },
-  {
-    "label": "espanja \u2192 ukraina",
-    "value": "es uk"
-  },
-  {
-    "label": "espanja \u2192 venda",
-    "value": "es ve"
-  },
-  {
-    "label": "espanja \u2192 vietnam",
-    "value": "es vi"
-  },
-  {
-    "label": "espanja \u2192 waray",
-    "value": "es war"
-  },
-  {
-    "label": "espanja \u2192 Wallisian",
-    "value": "es wls"
-  },
-  {
-    "label": "espanja \u2192 xhosa",
-    "value": "es xh"
-  },
-  {
-    "label": "espanja \u2192 joruba",
-    "value": "es yo"
-  },
-  {
-    "label": "espanja \u2192 Yucateco",
-    "value": "es yua"
-  },
-  {
-    "label": "espanja \u2192 Isthmus Zapotec",
-    "value": "es zai"
-  },
-  {
-    "label": "viro \u2192 saksa",
-    "value": "et de"
-  },
-  {
-    "label": "viro \u2192 englanti",
-    "value": "et en"
-  },
-  {
-    "label": "viro \u2192 espanja",
-    "value": "et es"
-  },
-  {
-    "label": "viro \u2192 suomi",
-    "value": "et fi"
-  },
-  {
-    "label": "viro \u2192 ranska",
-    "value": "et fr"
-  },
-  {
-    "label": "viro \u2192 ven\u00e4j\u00e4",
-    "value": "et ru"
-  },
-  {
-    "label": "viro \u2192 ruotsi",
-    "value": "et sv"
-  },
-  {
-    "label": "baski \u2192 saksa",
-    "value": "eu de"
-  },
-  {
-    "label": "baski \u2192 englanti",
-    "value": "eu en"
-  },
-  {
-    "label": "baski \u2192 espanja",
-    "value": "eu es"
-  },
-  {
-    "label": "baski \u2192 ven\u00e4j\u00e4",
-    "value": "eu ru"
-  },
-  {
-    "label": "Basque (family) \u2192 englanti",
-    "value": "euq en"
-  },
-  {
-    "label": "suomi \u2192 kiina",
-    "value": "fi ZH"
-  },
-  {
-    "label": "suomi \u2192 afrikaans",
-    "value": "fi af"
-  },
-  {
-    "label": "suomi \u2192 Central Bikol",
-    "value": "fi bcl"
-  },
-  {
-    "label": "suomi \u2192 bemba",
-    "value": "fi bem"
-  },
-  {
-    "label": "suomi \u2192 bulgaria",
-    "value": "fi bg"
-  },
-  {
-    "label": "suomi \u2192 Brazilian Sign Language",
-    "value": "fi bzs"
-  },
-  {
-    "label": "suomi \u2192 cebuano",
-    "value": "fi ceb"
-  },
-  {
-    "label": "suomi \u2192 seychellienkreoli",
-    "value": "fi crs"
-  },
-  {
-    "label": "suomi \u2192 t\u0161ekki",
-    "value": "fi cs"
-  },
-  {
-    "label": "suomi \u2192 saksa",
-    "value": "fi de"
-  },
-  {
-    "label": "suomi \u2192 ewe",
-    "value": "fi ee"
-  },
-  {
-    "label": "suomi \u2192 efik",
-    "value": "fi efi"
-  },
-  {
-    "label": "suomi \u2192 kreikka",
-    "value": "fi el"
-  },
-  {
-    "label": "suomi \u2192 englanti",
-    "value": "fi en"
-  },
-  {
-    "label": "suomi \u2192 esperanto",
-    "value": "fi eo"
-  },
-  {
-    "label": "suomi \u2192 espanja",
-    "value": "fi es"
-  },
-  {
-    "label": "suomi \u2192 viro",
-    "value": "fi et"
-  },
-  {
-    "label": "suomi \u2192 suomi",
-    "value": "fi fi"
-  },
-  {
-    "label": "suomi \u2192 fid\u017ei",
-    "value": "fi fj"
-  },
-  {
-    "label": "suomi \u2192 ranska",
-    "value": "fi fr"
-  },
-  {
-    "label": "suomi \u2192 Finnish Sign Language",
-    "value": "fi fse"
-  },
-  {
-    "label": "suomi \u2192 ga",
-    "value": "fi gaa"
-  },
-  {
-    "label": "suomi \u2192 kiribati",
-    "value": "fi gil"
-  },
-  {
-    "label": "suomi \u2192 Gun",
-    "value": "fi guw"
-  },
-  {
-    "label": "suomi \u2192 hausa",
-    "value": "fi ha"
-  },
-  {
-    "label": "suomi \u2192 heprea",
-    "value": "fi he"
-  },
-  {
-    "label": "suomi \u2192 hiligaino",
-    "value": "fi hil"
-  },
-  {
-    "label": "suomi \u2192 hiri-motu",
-    "value": "fi ho"
-  },
-  {
-    "label": "suomi \u2192 kroatia",
-    "value": "fi hr"
-  },
-  {
-    "label": "suomi \u2192 haiti",
-    "value": "fi ht"
-  },
-  {
-    "label": "suomi \u2192 unkari",
-    "value": "fi hu"
-  },
-  {
-    "label": "suomi \u2192 indonesia",
-    "value": "fi id"
-  },
-  {
-    "label": "suomi \u2192 igbo",
-    "value": "fi ig"
-  },
-  {
-    "label": "suomi \u2192 iloko",
-    "value": "fi ilo"
-  },
-  {
-    "label": "suomi \u2192 islanti",
-    "value": "fi is"
-  },
-  {
-    "label": "suomi \u2192 Isoko",
-    "value": "fi iso"
-  },
-  {
-    "label": "suomi \u2192 italia",
-    "value": "fi it"
-  },
-  {
-    "label": "suomi \u2192 kongo",
-    "value": "fi kg"
-  },
-  {
-    "label": "suomi \u2192 Kaonde",
-    "value": "fi kqn"
-  },
-  {
-    "label": "suomi \u2192 ganda",
-    "value": "fi lg"
-  },
-  {
-    "label": "suomi \u2192 lingala",
-    "value": "fi ln"
-  },
-  {
-    "label": "suomi \u2192 katanganluba",
-    "value": "fi lu"
-  },
-  {
-    "label": "suomi \u2192 luluanluba",
-    "value": "fi lua"
-  },
-  {
-    "label": "suomi \u2192 Luvale",
-    "value": "fi lue"
-  },
-  {
-    "label": "suomi \u2192 lusai",
-    "value": "fi lus"
-  },
-  {
-    "label": "suomi \u2192 latvia",
-    "value": "fi lv"
-  },
-  {
-    "label": "suomi \u2192 morisyen",
-    "value": "fi mfe"
-  },
-  {
-    "label": "suomi \u2192 malagassi",
-    "value": "fi mg"
-  },
-  {
-    "label": "suomi \u2192 marshall",
-    "value": "fi mh"
-  },
-  {
-    "label": "suomi \u2192 makedonia",
-    "value": "fi mk"
-  },
-  {
-    "label": "suomi \u2192 mossi",
-    "value": "fi mos"
-  },
-  {
-    "label": "suomi \u2192 malta",
-    "value": "fi mt"
-  },
-  {
-    "label": "suomi \u2192 niue",
-    "value": "fi niu"
-  },
-  {
-    "label": "suomi \u2192 hollanti",
-    "value": "fi nl"
-  },
-  {
-    "label": "suomi \u2192 norja",
-    "value": "fi no"
-  },
-  {
-    "label": "suomi \u2192 pohjoissotho",
-    "value": "fi nso"
-  },
-  {
-    "label": "suomi \u2192 njand\u017ea",
-    "value": "fi ny"
-  },
-  {
-    "label": "suomi \u2192 pangasinan",
-    "value": "fi pag"
-  },
-  {
-    "label": "suomi \u2192 papiamentu",
-    "value": "fi pap"
-  },
-  {
-    "label": "suomi \u2192 Pijin",
-    "value": "fi pis"
-  },
-  {
-    "label": "suomi \u2192 pohnpei",
-    "value": "fi pon"
-  },
-  {
-    "label": "suomi \u2192 romania",
-    "value": "fi ro"
-  },
-  {
-    "label": "suomi \u2192 ven\u00e4j\u00e4",
-    "value": "fi ru"
-  },
-  {
-    "label": "suomi \u2192 rundi",
-    "value": "fi run"
-  },
-  {
-    "label": "suomi \u2192 ruanda",
-    "value": "fi rw"
-  },
-  {
-    "label": "suomi \u2192 sango",
-    "value": "fi sg"
-  },
-  {
-    "label": "suomi \u2192 slovakki",
-    "value": "fi sk"
-  },
-  {
-    "label": "suomi \u2192 sloveeni",
-    "value": "fi sl"
-  },
-  {
-    "label": "suomi \u2192 samoa",
-    "value": "fi sm"
-  },
-  {
-    "label": "suomi \u2192 \u0161ona",
-    "value": "fi sn"
-  },
-  {
-    "label": "suomi \u2192 albania",
-    "value": "fi sq"
-  },
-  {
-    "label": "suomi \u2192 sranan",
-    "value": "fi srn"
-  },
-  {
-    "label": "suomi \u2192 etel\u00e4sotho",
-    "value": "fi st"
-  },
-  {
-    "label": "suomi \u2192 ruotsi",
-    "value": "fi sv"
-  },
-  {
-    "label": "suomi \u2192 swahili",
-    "value": "fi sw"
-  },
-  {
-    "label": "suomi \u2192 swahili (Kongon demokraattinen tasavalta)",
-    "value": "fi swc"
-  },
-  {
-    "label": "suomi \u2192 Tiv",
-    "value": "fi tiv"
-  },
-  {
-    "label": "suomi \u2192 Tetela",
-    "value": "fi tll"
-  },
-  {
-    "label": "suomi \u2192 tswana",
-    "value": "fi tn"
-  },
-  {
-    "label": "suomi \u2192 tonga",
-    "value": "fi to"
-  },
-  {
-    "label": "suomi \u2192 Tonga (Zambia)",
-    "value": "fi toi"
-  },
-  {
-    "label": "suomi \u2192 tok-pisin",
-    "value": "fi tpi"
-  },
-  {
-    "label": "suomi \u2192 turkki",
-    "value": "fi tr"
-  },
-  {
-    "label": "suomi \u2192 tsonga",
-    "value": "fi ts"
-  },
-  {
-    "label": "suomi \u2192 tuvalu",
-    "value": "fi tvl"
-  },
-  {
-    "label": "suomi \u2192 twi",
-    "value": "fi tw"
-  },
-  {
-    "label": "suomi \u2192 tahiti",
-    "value": "fi ty"
-  },
-  {
-    "label": "suomi \u2192 ukraina",
-    "value": "fi uk"
-  },
-  {
-    "label": "suomi \u2192 venda",
-    "value": "fi ve"
-  },
-  {
-    "label": "suomi \u2192 waray",
-    "value": "fi war"
-  },
-  {
-    "label": "suomi \u2192 Wallisian",
-    "value": "fi wls"
-  },
-  {
-    "label": "suomi \u2192 xhosa",
-    "value": "fi xh"
-  },
-  {
-    "label": "suomi \u2192 japi",
-    "value": "fi yap"
-  },
-  {
-    "label": "suomi \u2192 joruba",
-    "value": "fi yo"
-  },
-  {
-    "label": "suomi \u2192 Zande (individual language)",
-    "value": "fi zne"
-  },
-  {
-    "label": "Finno-Ugrian languages \u2192 englanti",
-    "value": "fiu en"
-  },
-  {
-    "label": "Finno-Ugrian languages \u2192 Finno-Ugrian languages",
-    "value": "fiu fiu"
-  },
-  {
-    "label": "fid\u017ei \u2192 englanti",
-    "value": "fj en"
-  },
-  {
-    "label": "fid\u017ei \u2192 ranska",
-    "value": "fj fr"
-  },
-  {
-    "label": "ranska \u2192 afrikaans",
-    "value": "fr af"
-  },
-  {
-    "label": "ranska \u2192 arabia",
-    "value": "fr ar"
-  },
-  {
-    "label": "ranska \u2192 amerikkalainen viittomakieli",
-    "value": "fr ase"
-  },
-  {
-    "label": "ranska \u2192 Central Bikol",
-    "value": "fr bcl"
-  },
-  {
-    "label": "ranska \u2192 bemba",
-    "value": "fr bem"
-  },
-  {
-    "label": "ranska \u2192 Berber languages",
-    "value": "fr ber"
-  },
-  {
-    "label": "ranska \u2192 bulgaria",
-    "value": "fr bg"
-  },
-  {
-    "label": "ranska \u2192 bislama",
-    "value": "fr bi"
-  },
-  {
-    "label": "ranska \u2192 Brazilian Sign Language",
-    "value": "fr bzs"
-  },
-  {
-    "label": "ranska \u2192 katalaani",
-    "value": "fr ca"
-  },
-  {
-    "label": "ranska \u2192 cebuano",
-    "value": "fr ceb"
-  },
-  {
-    "label": "ranska \u2192 seychellienkreoli",
-    "value": "fr crs"
-  },
-  {
-    "label": "ranska \u2192 saksa",
-    "value": "fr de"
-  },
-  {
-    "label": "ranska \u2192 ewe",
-    "value": "fr ee"
-  },
-  {
-    "label": "ranska \u2192 efik",
-    "value": "fr efi"
-  },
-  {
-    "label": "ranska \u2192 kreikka",
-    "value": "fr el"
-  },
-  {
-    "label": "ranska \u2192 englanti",
-    "value": "fr en"
-  },
-  {
-    "label": "ranska \u2192 esperanto",
-    "value": "fr eo"
-  },
-  {
-    "label": "ranska \u2192 espanja",
-    "value": "fr es"
-  },
-  {
-    "label": "ranska \u2192 fid\u017ei",
-    "value": "fr fj"
-  },
-  {
-    "label": "ranska \u2192 ga",
-    "value": "fr gaa"
-  },
-  {
-    "label": "ranska \u2192 kiribati",
-    "value": "fr gil"
-  },
-  {
-    "label": "ranska \u2192 Gun",
-    "value": "fr guw"
-  },
-  {
-    "label": "ranska \u2192 hausa",
-    "value": "fr ha"
-  },
-  {
-    "label": "ranska \u2192 heprea",
-    "value": "fr he"
-  },
-  {
-    "label": "ranska \u2192 hiligaino",
-    "value": "fr hil"
-  },
-  {
-    "label": "ranska \u2192 hiri-motu",
-    "value": "fr ho"
-  },
-  {
-    "label": "ranska \u2192 kroatia",
-    "value": "fr hr"
-  },
-  {
-    "label": "ranska \u2192 haiti",
-    "value": "fr ht"
-  },
-  {
-    "label": "ranska \u2192 unkari",
-    "value": "fr hu"
-  },
-  {
-    "label": "ranska \u2192 indonesia",
-    "value": "fr id"
-  },
-  {
-    "label": "ranska \u2192 igbo",
-    "value": "fr ig"
-  },
-  {
-    "label": "ranska \u2192 iloko",
-    "value": "fr ilo"
-  },
-  {
-    "label": "ranska \u2192 Isoko",
-    "value": "fr iso"
-  },
-  {
-    "label": "ranska \u2192 kongo",
-    "value": "fr kg"
-  },
-  {
-    "label": "ranska \u2192 Kaonde",
-    "value": "fr kqn"
-  },
-  {
-    "label": "ranska \u2192 San Salvador Kongo",
-    "value": "fr kwy"
-  },
-  {
-    "label": "ranska \u2192 ganda",
-    "value": "fr lg"
-  },
-  {
-    "label": "ranska \u2192 lingala",
-    "value": "fr ln"
-  },
-  {
-    "label": "ranska \u2192 lozi",
-    "value": "fr loz"
-  },
-  {
-    "label": "ranska \u2192 katanganluba",
-    "value": "fr lu"
-  },
-  {
-    "label": "ranska \u2192 luluanluba",
-    "value": "fr lua"
-  },
-  {
-    "label": "ranska \u2192 Luvale",
-    "value": "fr lue"
-  },
-  {
-    "label": "ranska \u2192 lusai",
-    "value": "fr lus"
-  },
-  {
-    "label": "ranska \u2192 morisyen",
-    "value": "fr mfe"
-  },
-  {
-    "label": "ranska \u2192 marshall",
-    "value": "fr mh"
-  },
-  {
-    "label": "ranska \u2192 mossi",
-    "value": "fr mos"
-  },
-  {
-    "label": "ranska \u2192 malaiji",
-    "value": "fr ms"
-  },
-  {
-    "label": "ranska \u2192 malta",
-    "value": "fr mt"
-  },
-  {
-    "label": "ranska \u2192 niue",
-    "value": "fr niu"
-  },
-  {
-    "label": "ranska \u2192 norja",
-    "value": "fr no"
-  },
-  {
-    "label": "ranska \u2192 pohjoissotho",
-    "value": "fr nso"
-  },
-  {
-    "label": "ranska \u2192 njand\u017ea",
-    "value": "fr ny"
-  },
-  {
-    "label": "ranska \u2192 pangasinan",
-    "value": "fr pag"
-  },
-  {
-    "label": "ranska \u2192 papiamentu",
-    "value": "fr pap"
-  },
-  {
-    "label": "ranska \u2192 Pijin",
-    "value": "fr pis"
-  },
-  {
-    "label": "ranska \u2192 puola",
-    "value": "fr pl"
-  },
-  {
-    "label": "ranska \u2192 pohnpei",
-    "value": "fr pon"
-  },
-  {
-    "label": "ranska \u2192 Ruund",
-    "value": "fr rnd"
-  },
-  {
-    "label": "ranska \u2192 romania",
-    "value": "fr ro"
-  },
-  {
-    "label": "ranska \u2192 ven\u00e4j\u00e4",
-    "value": "fr ru"
-  },
-  {
-    "label": "ranska \u2192 rundi",
-    "value": "fr run"
-  },
-  {
-    "label": "ranska \u2192 ruanda",
-    "value": "fr rw"
-  },
-  {
-    "label": "ranska \u2192 sango",
-    "value": "fr sg"
-  },
-  {
-    "label": "ranska \u2192 slovakki",
-    "value": "fr sk"
-  },
-  {
-    "label": "ranska \u2192 sloveeni",
-    "value": "fr sl"
-  },
-  {
-    "label": "ranska \u2192 samoa",
-    "value": "fr sm"
-  },
-  {
-    "label": "ranska \u2192 \u0161ona",
-    "value": "fr sn"
-  },
-  {
-    "label": "ranska \u2192 sranan",
-    "value": "fr srn"
-  },
-  {
-    "label": "ranska \u2192 etel\u00e4sotho",
-    "value": "fr st"
-  },
-  {
-    "label": "ranska \u2192 ruotsi",
-    "value": "fr sv"
-  },
-  {
-    "label": "ranska \u2192 swahili (Kongon demokraattinen tasavalta)",
-    "value": "fr swc"
-  },
-  {
-    "label": "ranska \u2192 Tiv",
-    "value": "fr tiv"
-  },
-  {
-    "label": "ranska \u2192 filipino",
-    "value": "fr tl"
-  },
-  {
-    "label": "ranska \u2192 Tetela",
-    "value": "fr tll"
-  },
-  {
-    "label": "ranska \u2192 tswana",
-    "value": "fr tn"
-  },
-  {
-    "label": "ranska \u2192 tonga",
-    "value": "fr to"
-  },
-  {
-    "label": "ranska \u2192 tok-pisin",
-    "value": "fr tpi"
-  },
-  {
-    "label": "ranska \u2192 tsonga",
-    "value": "fr ts"
-  },
-  {
-    "label": "ranska \u2192 tumbuka",
-    "value": "fr tum"
-  },
-  {
-    "label": "ranska \u2192 tuvalu",
-    "value": "fr tvl"
-  },
-  {
-    "label": "ranska \u2192 twi",
-    "value": "fr tw"
-  },
-  {
-    "label": "ranska \u2192 tahiti",
-    "value": "fr ty"
-  },
-  {
-    "label": "ranska \u2192 ukraina",
-    "value": "fr uk"
-  },
-  {
-    "label": "ranska \u2192 venda",
-    "value": "fr ve"
-  },
-  {
-    "label": "ranska \u2192 vietnam",
-    "value": "fr vi"
-  },
-  {
-    "label": "ranska \u2192 waray",
-    "value": "fr war"
-  },
-  {
-    "label": "ranska \u2192 Wallisian",
-    "value": "fr wls"
-  },
-  {
-    "label": "ranska \u2192 xhosa",
-    "value": "fr xh"
-  },
-  {
-    "label": "ranska \u2192 japi",
-    "value": "fr yap"
-  },
-  {
-    "label": "ranska \u2192 joruba",
-    "value": "fr yo"
-  },
-  {
-    "label": "ranska \u2192 Zande (individual language)",
-    "value": "fr zne"
-  },
-  {
-    "label": "Finnish Sign Language \u2192 suomi",
-    "value": "fse fi"
-  },
-  {
-    "label": "iiri \u2192 englanti",
-    "value": "ga en"
-  },
-  {
-    "label": "ga \u2192 saksa",
-    "value": "gaa de"
-  },
-  {
-    "label": "ga \u2192 englanti",
-    "value": "gaa en"
-  },
-  {
-    "label": "ga \u2192 espanja",
-    "value": "gaa es"
-  },
-  {
-    "label": "ga \u2192 suomi",
-    "value": "gaa fi"
-  },
-  {
-    "label": "ga \u2192 ranska",
-    "value": "gaa fr"
-  },
-  {
-    "label": "ga \u2192 ruotsi",
-    "value": "gaa sv"
-  },
-  {
-    "label": "Germanic languages \u2192 englanti",
-    "value": "gem en"
-  },
-  {
-    "label": "Germanic languages \u2192 Germanic languages",
-    "value": "gem gem"
-  },
-  {
-    "label": "kiribati \u2192 englanti",
-    "value": "gil en"
-  },
-  {
-    "label": "kiribati \u2192 espanja",
-    "value": "gil es"
-  },
-  {
-    "label": "kiribati \u2192 suomi",
-    "value": "gil fi"
-  },
-  {
-    "label": "kiribati \u2192 ranska",
-    "value": "gil fr"
-  },
-  {
-    "label": "kiribati \u2192 ruotsi",
-    "value": "gil sv"
-  },
-  {
-    "label": "galicia \u2192 englanti",
-    "value": "gl en"
-  },
-  {
-    "label": "galicia \u2192 espanja",
-    "value": "gl es"
-  },
-  {
-    "label": "galicia \u2192 portugali",
-    "value": "gl pt"
-  },
-  {
-    "label": "North Germanic languages \u2192 englanti",
-    "value": "gmq en"
-  },
-  {
-    "label": "North Germanic languages \u2192 North Germanic languages",
-    "value": "gmq gmq"
-  },
-  {
-    "label": "West Germanic languages \u2192 englanti",
-    "value": "gmw en"
-  },
-  {
-    "label": "West Germanic languages \u2192 West Germanic languages",
-    "value": "gmw gmw"
-  },
-  {
-    "label": "Greek languages \u2192 englanti",
-    "value": "grk en"
-  },
-  {
-    "label": "Gun \u2192 saksa",
-    "value": "guw de"
-  },
-  {
-    "label": "Gun \u2192 englanti",
-    "value": "guw en"
-  },
-  {
-    "label": "Gun \u2192 espanja",
-    "value": "guw es"
-  },
-  {
-    "label": "Gun \u2192 suomi",
-    "value": "guw fi"
-  },
-  {
-    "label": "Gun \u2192 ranska",
-    "value": "guw fr"
-  },
-  {
-    "label": "Gun \u2192 ruotsi",
-    "value": "guw sv"
-  },
-  {
-    "label": "manksi \u2192 englanti",
-    "value": "gv en"
-  },
-  {
-    "label": "hausa \u2192 englanti",
-    "value": "ha en"
-  },
-  {
-    "label": "hausa \u2192 espanja",
-    "value": "ha es"
-  },
-  {
-    "label": "hausa \u2192 suomi",
-    "value": "ha fi"
-  },
-  {
-    "label": "hausa \u2192 ranska",
-    "value": "ha fr"
-  },
-  {
-    "label": "hausa \u2192 ruotsi",
-    "value": "ha sv"
-  },
-  {
-    "label": "heprea \u2192 arabia",
-    "value": "he ar"
-  },
-  {
-    "label": "heprea \u2192 saksa",
-    "value": "he de"
-  },
-  {
-    "label": "heprea \u2192 esperanto",
-    "value": "he eo"
-  },
-  {
-    "label": "heprea \u2192 espanja",
-    "value": "he es"
-  },
-  {
-    "label": "heprea \u2192 suomi",
-    "value": "he fi"
-  },
-  {
-    "label": "heprea \u2192 ranska",
-    "value": "he fr"
-  },
-  {
-    "label": "heprea \u2192 italia",
-    "value": "he it"
-  },
-  {
-    "label": "heprea \u2192 ven\u00e4j\u00e4",
-    "value": "he ru"
-  },
-  {
-    "label": "heprea \u2192 ruotsi",
-    "value": "he sv"
-  },
-  {
-    "label": "heprea \u2192 ukraina",
-    "value": "he uk"
-  },
-  {
-    "label": "hindi \u2192 englanti",
-    "value": "hi en"
-  },
-  {
-    "label": "hindi \u2192 urdu",
-    "value": "hi ur"
-  },
-  {
-    "label": "hiligaino \u2192 saksa",
-    "value": "hil de"
-  },
-  {
-    "label": "hiligaino \u2192 englanti",
-    "value": "hil en"
-  },
-  {
-    "label": "hiligaino \u2192 suomi",
-    "value": "hil fi"
-  },
-  {
-    "label": "hiri-motu \u2192 englanti",
-    "value": "ho en"
-  },
-  {
-    "label": "kroatia \u2192 espanja",
-    "value": "hr es"
-  },
-  {
-    "label": "kroatia \u2192 suomi",
-    "value": "hr fi"
-  },
-  {
-    "label": "kroatia \u2192 ranska",
-    "value": "hr fr"
-  },
-  {
-    "label": "kroatia \u2192 ruotsi",
-    "value": "hr sv"
-  },
-  {
-    "label": "haiti \u2192 englanti",
-    "value": "ht en"
-  },
-  {
-    "label": "haiti \u2192 espanja",
-    "value": "ht es"
-  },
-  {
-    "label": "haiti \u2192 suomi",
-    "value": "ht fi"
-  },
-  {
-    "label": "haiti \u2192 ranska",
-    "value": "ht fr"
-  },
-  {
-    "label": "haiti \u2192 ruotsi",
-    "value": "ht sv"
-  },
-  {
-    "label": "unkari \u2192 saksa",
-    "value": "hu de"
-  },
-  {
-    "label": "unkari \u2192 englanti",
-    "value": "hu en"
-  },
-  {
-    "label": "unkari \u2192 esperanto",
-    "value": "hu eo"
-  },
-  {
-    "label": "unkari \u2192 suomi",
-    "value": "hu fi"
-  },
-  {
-    "label": "unkari \u2192 ranska",
-    "value": "hu fr"
-  },
-  {
-    "label": "unkari \u2192 ruotsi",
-    "value": "hu sv"
-  },
-  {
-    "label": "unkari \u2192 ukraina",
-    "value": "hu uk"
-  },
-  {
-    "label": "armenia \u2192 englanti",
-    "value": "hy en"
-  },
-  {
-    "label": "armenia \u2192 ven\u00e4j\u00e4",
-    "value": "hy ru"
-  },
-  {
-    "label": "indonesia \u2192 englanti",
-    "value": "id en"
-  },
-  {
-    "label": "indonesia \u2192 espanja",
-    "value": "id es"
-  },
-  {
-    "label": "indonesia \u2192 suomi",
-    "value": "id fi"
-  },
-  {
-    "label": "indonesia \u2192 ranska",
-    "value": "id fr"
-  },
-  {
-    "label": "indonesia \u2192 ruotsi",
-    "value": "id sv"
-  },
-  {
-    "label": "igbo \u2192 saksa",
-    "value": "ig de"
-  },
-  {
-    "label": "igbo \u2192 englanti",
-    "value": "ig en"
-  },
-  {
-    "label": "igbo \u2192 espanja",
-    "value": "ig es"
-  },
-  {
-    "label": "igbo \u2192 suomi",
-    "value": "ig fi"
-  },
-  {
-    "label": "igbo \u2192 ranska",
-    "value": "ig fr"
-  },
-  {
-    "label": "igbo \u2192 ruotsi",
-    "value": "ig sv"
-  },
-  {
-    "label": "Indo-Iranian languages \u2192 englanti",
-    "value": "iir en"
-  },
-  {
-    "label": "Indo-Iranian languages \u2192 Indo-Iranian languages",
-    "value": "iir iir"
-  },
-  {
-    "label": "iloko \u2192 saksa",
-    "value": "ilo de"
-  },
-  {
-    "label": "iloko \u2192 englanti",
-    "value": "ilo en"
-  },
-  {
-    "label": "iloko \u2192 espanja",
-    "value": "ilo es"
-  },
-  {
-    "label": "iloko \u2192 suomi",
-    "value": "ilo fi"
-  },
-  {
-    "label": "iloko \u2192 ruotsi",
-    "value": "ilo sv"
-  },
-  {
-    "label": "Indic languages \u2192 englanti",
-    "value": "inc en"
-  },
-  {
-    "label": "Indic languages \u2192 Indic languages",
-    "value": "inc inc"
-  },
-  {
-    "label": "Indo-European languages \u2192 englanti",
-    "value": "ine en"
-  },
-  {
-    "label": "Indo-European languages \u2192 Indo-European languages",
-    "value": "ine ine"
-  },
-  {
-    "label": "islanti \u2192 saksa",
-    "value": "is de"
-  },
-  {
-    "label": "islanti \u2192 englanti",
-    "value": "is en"
-  },
-  {
-    "label": "islanti \u2192 esperanto",
-    "value": "is eo"
-  },
-  {
-    "label": "islanti \u2192 espanja",
-    "value": "is es"
-  },
-  {
-    "label": "islanti \u2192 suomi",
-    "value": "is fi"
-  },
-  {
-    "label": "islanti \u2192 ranska",
-    "value": "is fr"
-  },
-  {
-    "label": "islanti \u2192 italia",
-    "value": "is it"
-  },
-  {
-    "label": "islanti \u2192 ruotsi",
-    "value": "is sv"
-  },
-  {
-    "label": "Isoko \u2192 englanti",
-    "value": "iso en"
-  },
-  {
-    "label": "Isoko \u2192 espanja",
-    "value": "iso es"
-  },
-  {
-    "label": "Isoko \u2192 suomi",
-    "value": "iso fi"
-  },
-  {
-    "label": "Isoko \u2192 ranska",
-    "value": "iso fr"
-  },
-  {
-    "label": "Isoko \u2192 ruotsi",
-    "value": "iso sv"
-  },
-  {
-    "label": "italia \u2192 arabia",
-    "value": "it ar"
-  },
-  {
-    "label": "italia \u2192 bulgaria",
-    "value": "it bg"
-  },
-  {
-    "label": "italia \u2192 katalaani",
-    "value": "it ca"
-  },
-  {
-    "label": "italia \u2192 saksa",
-    "value": "it de"
-  },
-  {
-    "label": "italia \u2192 englanti",
-    "value": "it en"
-  },
-  {
-    "label": "italia \u2192 esperanto",
-    "value": "it eo"
-  },
-  {
-    "label": "italia \u2192 espanja",
-    "value": "it es"
-  },
-  {
-    "label": "italia \u2192 ranska",
-    "value": "it fr"
-  },
-  {
-    "label": "italia \u2192 islanti",
-    "value": "it is"
-  },
-  {
-    "label": "italia \u2192 liettua",
-    "value": "it lt"
-  },
-  {
-    "label": "italia \u2192 malaiji",
-    "value": "it ms"
-  },
-  {
-    "label": "italia \u2192 ruotsi",
-    "value": "it sv"
-  },
-  {
-    "label": "italia \u2192 ukraina",
-    "value": "it uk"
-  },
-  {
-    "label": "italia \u2192 vietnam",
-    "value": "it vi"
-  },
-  {
-    "label": "Italic languages \u2192 englanti",
-    "value": "itc en"
-  },
-  {
-    "label": "Italic languages \u2192 Italic languages",
-    "value": "itc itc"
-  },
-  {
-    "label": "japani \u2192 arabia",
-    "value": "ja ar"
-  },
-  {
-    "label": "japani \u2192 bulgaria",
-    "value": "ja bg"
-  },
-  {
-    "label": "japani \u2192 tanska",
-    "value": "ja da"
-  },
-  {
-    "label": "japani \u2192 saksa",
-    "value": "ja de"
-  },
-  {
-    "label": "japani \u2192 englanti",
-    "value": "ja en"
-  },
-  {
-    "label": "japani \u2192 espanja",
-    "value": "ja es"
-  },
-  {
-    "label": "japani \u2192 suomi",
-    "value": "ja fi"
-  },
-  {
-    "label": "japani \u2192 ranska",
-    "value": "ja fr"
-  },
-  {
-    "label": "japani \u2192 heprea",
-    "value": "ja he"
-  },
-  {
-    "label": "japani \u2192 unkari",
-    "value": "ja hu"
-  },
-  {
-    "label": "japani \u2192 italia",
-    "value": "ja it"
-  },
-  {
-    "label": "japani \u2192 malaiji",
-    "value": "ja ms"
-  },
-  {
-    "label": "japani \u2192 hollanti",
-    "value": "ja nl"
-  },
-  {
-    "label": "japani \u2192 puola",
-    "value": "ja pl"
-  },
-  {
-    "label": "japani \u2192 portugali",
-    "value": "ja pt"
-  },
-  {
-    "label": "japani \u2192 ven\u00e4j\u00e4",
-    "value": "ja ru"
-  },
-  {
-    "label": "japani \u2192 serbia (latinalainen)",
-    "value": "ja sh"
-  },
-  {
-    "label": "japani \u2192 ruotsi",
-    "value": "ja sv"
-  },
-  {
-    "label": "japani \u2192 turkki",
-    "value": "ja tr"
-  },
-  {
-    "label": "japani \u2192 vietnam",
-    "value": "ja vi"
-  },
-  {
-    "label": "tuntematon kieli [jap] \u2192 englanti",
-    "value": "jap en"
-  },
-  {
-    "label": "georgia \u2192 englanti",
-    "value": "ka en"
-  },
-  {
-    "label": "georgia \u2192 ven\u00e4j\u00e4",
-    "value": "ka ru"
-  },
-  {
-    "label": "kabyyli \u2192 englanti",
-    "value": "kab en"
-  },
-  {
-    "label": "kongo \u2192 englanti",
-    "value": "kg en"
-  },
-  {
-    "label": "kongo \u2192 espanja",
-    "value": "kg es"
-  },
-  {
-    "label": "kongo \u2192 ranska",
-    "value": "kg fr"
-  },
-  {
-    "label": "kongo \u2192 ruotsi",
-    "value": "kg sv"
-  },
-  {
-    "label": "kuanjama \u2192 englanti",
-    "value": "kj en"
-  },
-  {
-    "label": "kalaallisut \u2192 englanti",
-    "value": "kl en"
-  },
-  {
-    "label": "korea \u2192 saksa",
-    "value": "ko de"
-  },
-  {
-    "label": "korea \u2192 englanti",
-    "value": "ko en"
-  },
-  {
-    "label": "korea \u2192 espanja",
-    "value": "ko es"
-  },
-  {
-    "label": "korea \u2192 suomi",
-    "value": "ko fi"
-  },
-  {
-    "label": "korea \u2192 ranska",
-    "value": "ko fr"
-  },
-  {
-    "label": "korea \u2192 unkari",
-    "value": "ko hu"
-  },
-  {
-    "label": "korea \u2192 ven\u00e4j\u00e4",
-    "value": "ko ru"
-  },
-  {
-    "label": "korea \u2192 ruotsi",
-    "value": "ko sv"
-  },
-  {
-    "label": "Kaonde \u2192 englanti",
-    "value": "kqn en"
-  },
-  {
-    "label": "Kaonde \u2192 espanja",
-    "value": "kqn es"
-  },
-  {
-    "label": "Kaonde \u2192 ranska",
-    "value": "kqn fr"
-  },
-  {
-    "label": "Kaonde \u2192 ruotsi",
-    "value": "kqn sv"
-  },
-  {
-    "label": "Kwangali \u2192 englanti",
-    "value": "kwn en"
-  },
-  {
-    "label": "San Salvador Kongo \u2192 englanti",
-    "value": "kwy en"
-  },
-  {
-    "label": "San Salvador Kongo \u2192 ranska",
-    "value": "kwy fr"
-  },
-  {
-    "label": "San Salvador Kongo \u2192 ruotsi",
-    "value": "kwy sv"
-  },
-  {
-    "label": "ganda \u2192 englanti",
-    "value": "lg en"
-  },
-  {
-    "label": "ganda \u2192 espanja",
-    "value": "lg es"
-  },
-  {
-    "label": "ganda \u2192 suomi",
-    "value": "lg fi"
-  },
-  {
-    "label": "ganda \u2192 ranska",
-    "value": "lg fr"
-  },
-  {
-    "label": "ganda \u2192 ruotsi",
-    "value": "lg sv"
-  },
-  {
-    "label": "lingala \u2192 saksa",
-    "value": "ln de"
-  },
-  {
-    "label": "lingala \u2192 englanti",
-    "value": "ln en"
-  },
-  {
-    "label": "lingala \u2192 espanja",
-    "value": "ln es"
-  },
-  {
-    "label": "lingala \u2192 ranska",
-    "value": "ln fr"
-  },
-  {
-    "label": "lozi \u2192 saksa",
-    "value": "loz de"
-  },
-  {
-    "label": "lozi \u2192 englanti",
-    "value": "loz en"
-  },
-  {
-    "label": "lozi \u2192 espanja",
-    "value": "loz es"
-  },
-  {
-    "label": "lozi \u2192 suomi",
-    "value": "loz fi"
-  },
-  {
-    "label": "lozi \u2192 ranska",
-    "value": "loz fr"
-  },
-  {
-    "label": "lozi \u2192 ruotsi",
-    "value": "loz sv"
-  },
-  {
-    "label": "liettua \u2192 saksa",
-    "value": "lt de"
-  },
-  {
-    "label": "liettua \u2192 esperanto",
-    "value": "lt eo"
-  },
-  {
-    "label": "liettua \u2192 espanja",
-    "value": "lt es"
-  },
-  {
-    "label": "liettua \u2192 ranska",
-    "value": "lt fr"
-  },
-  {
-    "label": "liettua \u2192 italia",
-    "value": "lt it"
-  },
-  {
-    "label": "liettua \u2192 puola",
-    "value": "lt pl"
-  },
-  {
-    "label": "liettua \u2192 ven\u00e4j\u00e4",
-    "value": "lt ru"
-  },
-  {
-    "label": "liettua \u2192 ruotsi",
-    "value": "lt sv"
-  },
-  {
-    "label": "liettua \u2192 turkki",
-    "value": "lt tr"
-  },
-  {
-    "label": "katanganluba \u2192 englanti",
-    "value": "lu en"
-  },
-  {
-    "label": "katanganluba \u2192 espanja",
-    "value": "lu es"
-  },
-  {
-    "label": "katanganluba \u2192 suomi",
-    "value": "lu fi"
-  },
-  {
-    "label": "katanganluba \u2192 ranska",
-    "value": "lu fr"
-  },
-  {
-    "label": "katanganluba \u2192 ruotsi",
-    "value": "lu sv"
-  },
-  {
-    "label": "luluanluba \u2192 englanti",
-    "value": "lua en"
-  },
-  {
-    "label": "luluanluba \u2192 espanja",
-    "value": "lua es"
-  },
-  {
-    "label": "luluanluba \u2192 suomi",
-    "value": "lua fi"
-  },
-  {
-    "label": "luluanluba \u2192 ranska",
-    "value": "lua fr"
-  },
-  {
-    "label": "luluanluba \u2192 ruotsi",
-    "value": "lua sv"
-  },
-  {
-    "label": "Luvale \u2192 englanti",
-    "value": "lue en"
-  },
-  {
-    "label": "Luvale \u2192 espanja",
-    "value": "lue es"
-  },
-  {
-    "label": "Luvale \u2192 suomi",
-    "value": "lue fi"
-  },
-  {
-    "label": "Luvale \u2192 ranska",
-    "value": "lue fr"
-  },
-  {
-    "label": "Luvale \u2192 ruotsi",
-    "value": "lue sv"
-  },
-  {
-    "label": "lunda \u2192 englanti",
-    "value": "lun en"
-  },
-  {
-    "label": "Luo (Kenya and Tanzania) \u2192 englanti",
-    "value": "luo en"
-  },
-  {
-    "label": "lusai \u2192 englanti",
-    "value": "lus en"
-  },
-  {
-    "label": "lusai \u2192 espanja",
-    "value": "lus es"
-  },
-  {
-    "label": "lusai \u2192 suomi",
-    "value": "lus fi"
-  },
-  {
-    "label": "lusai \u2192 ranska",
-    "value": "lus fr"
-  },
-  {
-    "label": "lusai \u2192 ruotsi",
-    "value": "lus sv"
-  },
-  {
-    "label": "latvia \u2192 englanti",
-    "value": "lv en"
-  },
-  {
-    "label": "latvia \u2192 espanja",
-    "value": "lv es"
-  },
-  {
-    "label": "latvia \u2192 suomi",
-    "value": "lv fi"
-  },
-  {
-    "label": "latvia \u2192 ranska",
-    "value": "lv fr"
-  },
-  {
-    "label": "latvia \u2192 ven\u00e4j\u00e4",
-    "value": "lv ru"
-  },
-  {
-    "label": "latvia \u2192 ruotsi",
-    "value": "lv sv"
-  },
-  {
-    "label": "morisyen \u2192 englanti",
-    "value": "mfe en"
-  },
-  {
-    "label": "morisyen \u2192 espanja",
-    "value": "mfe es"
-  },
-  {
-    "label": "Mexican Sign Language \u2192 espanja",
-    "value": "mfs es"
-  },
-  {
-    "label": "malagassi \u2192 englanti",
-    "value": "mg en"
-  },
-  {
-    "label": "malagassi \u2192 espanja",
-    "value": "mg es"
-  },
-  {
-    "label": "marshall \u2192 englanti",
-    "value": "mh en"
-  },
-  {
-    "label": "marshall \u2192 espanja",
-    "value": "mh es"
-  },
-  {
-    "label": "marshall \u2192 suomi",
-    "value": "mh fi"
-  },
-  {
-    "label": "makedonia \u2192 englanti",
-    "value": "mk en"
-  },
-  {
-    "label": "makedonia \u2192 espanja",
-    "value": "mk es"
-  },
-  {
-    "label": "makedonia \u2192 suomi",
-    "value": "mk fi"
-  },
-  {
-    "label": "makedonia \u2192 ranska",
-    "value": "mk fr"
-  },
-  {
-    "label": "Mon-Khmer languages \u2192 englanti",
-    "value": "mkh en"
-  },
-  {
-    "label": "malajalam \u2192 englanti",
-    "value": "ml en"
-  },
-  {
-    "label": "mossi \u2192 englanti",
-    "value": "mos en"
-  },
-  {
-    "label": "marathi \u2192 englanti",
-    "value": "mr en"
-  },
-  {
-    "label": "malaiji \u2192 saksa",
-    "value": "ms de"
-  },
-  {
-    "label": "malaiji \u2192 ranska",
-    "value": "ms fr"
-  },
-  {
-    "label": "malaiji \u2192 italia",
-    "value": "ms it"
-  },
-  {
-    "label": "malaiji \u2192 malaiji",
-    "value": "ms ms"
-  },
-  {
-    "label": "malta \u2192 englanti",
-    "value": "mt en"
-  },
-  {
-    "label": "malta \u2192 espanja",
-    "value": "mt es"
-  },
-  {
-    "label": "malta \u2192 suomi",
-    "value": "mt fi"
-  },
-  {
-    "label": "malta \u2192 ranska",
-    "value": "mt fr"
-  },
-  {
-    "label": "malta \u2192 ruotsi",
-    "value": "mt sv"
-  },
-  {
-    "label": "useita kieli\u00e4 \u2192 englanti",
-    "value": "mul en"
-  },
-  {
-    "label": "ndonga \u2192 englanti",
-    "value": "ng en"
-  },
-  {
-    "label": "Niger-Kordofanian languages \u2192 englanti",
-    "value": "nic en"
-  },
-  {
-    "label": "niue \u2192 saksa",
-    "value": "niu de"
-  },
-  {
-    "label": "niue \u2192 englanti",
-    "value": "niu en"
-  },
-  {
-    "label": "niue \u2192 espanja",
-    "value": "niu es"
-  },
-  {
-    "label": "niue \u2192 suomi",
-    "value": "niu fi"
-  },
-  {
-    "label": "niue \u2192 ranska",
-    "value": "niu fr"
-  },
-  {
-    "label": "niue \u2192 ruotsi",
-    "value": "niu sv"
-  },
-  {
-    "label": "hollanti \u2192 afrikaans",
-    "value": "nl af"
-  },
-  {
-    "label": "hollanti \u2192 katalaani",
-    "value": "nl ca"
-  },
-  {
-    "label": "hollanti \u2192 englanti",
-    "value": "nl en"
-  },
-  {
-    "label": "hollanti \u2192 esperanto",
-    "value": "nl eo"
-  },
-  {
-    "label": "hollanti \u2192 espanja",
-    "value": "nl es"
-  },
-  {
-    "label": "hollanti \u2192 suomi",
-    "value": "nl fi"
-  },
-  {
-    "label": "hollanti \u2192 ranska",
-    "value": "nl fr"
-  },
-  {
-    "label": "hollanti \u2192 norja",
-    "value": "nl no"
-  },
-  {
-    "label": "hollanti \u2192 ruotsi",
-    "value": "nl sv"
-  },
-  {
-    "label": "hollanti \u2192 ukraina",
-    "value": "nl uk"
-  },
-  {
-    "label": "norja \u2192 tanska",
-    "value": "no da"
-  },
-  {
-    "label": "norja \u2192 saksa",
-    "value": "no de"
-  },
-  {
-    "label": "norja \u2192 espanja",
-    "value": "no es"
-  },
-  {
-    "label": "norja \u2192 suomi",
-    "value": "no fi"
-  },
-  {
-    "label": "norja \u2192 ranska",
-    "value": "no fr"
-  },
-  {
-    "label": "norja \u2192 hollanti",
-    "value": "no nl"
-  },
-  {
-    "label": "norja \u2192 norja",
-    "value": "no no"
-  },
-  {
-    "label": "norja \u2192 puola",
-    "value": "no pl"
-  },
-  {
-    "label": "norja \u2192 ven\u00e4j\u00e4",
-    "value": "no ru"
-  },
-  {
-    "label": "norja \u2192 ruotsi",
-    "value": "no sv"
-  },
-  {
-    "label": "norja \u2192 ukraina",
-    "value": "no uk"
-  },
-  {
-    "label": "pohjoissotho \u2192 saksa",
-    "value": "nso de"
-  },
-  {
-    "label": "pohjoissotho \u2192 englanti",
-    "value": "nso en"
-  },
-  {
-    "label": "pohjoissotho \u2192 espanja",
-    "value": "nso es"
-  },
-  {
-    "label": "pohjoissotho \u2192 suomi",
-    "value": "nso fi"
-  },
-  {
-    "label": "pohjoissotho \u2192 ranska",
-    "value": "nso fr"
-  },
-  {
-    "label": "pohjoissotho \u2192 ruotsi",
-    "value": "nso sv"
-  },
-  {
-    "label": "njand\u017ea \u2192 saksa",
-    "value": "ny de"
-  },
-  {
-    "label": "njand\u017ea \u2192 englanti",
-    "value": "ny en"
-  },
-  {
-    "label": "njand\u017ea \u2192 espanja",
-    "value": "ny es"
-  },
-  {
-    "label": "Nyaneka \u2192 englanti",
-    "value": "nyk en"
-  },
-  {
-    "label": "oromo \u2192 englanti",
-    "value": "om en"
-  },
-  {
-    "label": "pand\u017eabi \u2192 englanti",
-    "value": "pa en"
-  },
-  {
-    "label": "pangasinan \u2192 saksa",
-    "value": "pag de"
-  },
-  {
-    "label": "pangasinan \u2192 englanti",
-    "value": "pag en"
-  },
-  {
-    "label": "pangasinan \u2192 espanja",
-    "value": "pag es"
-  },
-  {
-    "label": "pangasinan \u2192 suomi",
-    "value": "pag fi"
-  },
-  {
-    "label": "pangasinan \u2192 ruotsi",
-    "value": "pag sv"
-  },
-  {
-    "label": "papiamentu \u2192 saksa",
-    "value": "pap de"
-  },
-  {
-    "label": "papiamentu \u2192 englanti",
-    "value": "pap en"
-  },
-  {
-    "label": "papiamentu \u2192 espanja",
-    "value": "pap es"
-  },
-  {
-    "label": "papiamentu \u2192 suomi",
-    "value": "pap fi"
-  },
-  {
-    "label": "papiamentu \u2192 ranska",
-    "value": "pap fr"
-  },
-  {
-    "label": "Philippine languages \u2192 englanti",
-    "value": "phi en"
-  },
-  {
-    "label": "Pijin \u2192 englanti",
-    "value": "pis en"
-  },
-  {
-    "label": "Pijin \u2192 espanja",
-    "value": "pis es"
-  },
-  {
-    "label": "Pijin \u2192 suomi",
-    "value": "pis fi"
-  },
-  {
-    "label": "Pijin \u2192 ranska",
-    "value": "pis fr"
-  },
-  {
-    "label": "Pijin \u2192 ruotsi",
-    "value": "pis sv"
-  },
-  {
-    "label": "puola \u2192 arabia",
-    "value": "pl ar"
-  },
-  {
-    "label": "puola \u2192 saksa",
-    "value": "pl de"
-  },
-  {
-    "label": "puola \u2192 englanti",
-    "value": "pl en"
-  },
-  {
-    "label": "puola \u2192 esperanto",
-    "value": "pl eo"
-  },
-  {
-    "label": "puola \u2192 espanja",
-    "value": "pl es"
-  },
-  {
-    "label": "puola \u2192 ranska",
-    "value": "pl fr"
-  },
-  {
-    "label": "puola \u2192 liettua",
-    "value": "pl lt"
-  },
-  {
-    "label": "puola \u2192 norja",
-    "value": "pl no"
-  },
-  {
-    "label": "puola \u2192 ruotsi",
-    "value": "pl sv"
-  },
-  {
-    "label": "puola \u2192 ukraina",
-    "value": "pl uk"
-  },
-  {
-    "label": "pohnpei \u2192 englanti",
-    "value": "pon en"
-  },
-  {
-    "label": "pohnpei \u2192 espanja",
-    "value": "pon es"
-  },
-  {
-    "label": "pohnpei \u2192 suomi",
-    "value": "pon fi"
-  },
-  {
-    "label": "pohnpei \u2192 ranska",
-    "value": "pon fr"
-  },
-  {
-    "label": "pohnpei \u2192 ruotsi",
-    "value": "pon sv"
-  },
-  {
-    "label": "Eastern Malayo-Polynesian languages \u2192 englanti",
-    "value": "pqe en"
-  },
-  {
-    "label": "Peruvian Sign Language \u2192 espanja",
-    "value": "prl es"
-  },
-  {
-    "label": "portugali \u2192 katalaani",
-    "value": "pt ca"
-  },
-  {
-    "label": "portugali \u2192 esperanto",
-    "value": "pt eo"
-  },
-  {
-    "label": "portugali \u2192 galicia",
-    "value": "pt gl"
-  },
-  {
-    "label": "portugali \u2192 filipino",
-    "value": "pt tl"
-  },
-  {
-    "label": "portugali \u2192 ukraina",
-    "value": "pt uk"
-  },
-  {
-    "label": "rundi \u2192 saksa",
-    "value": "rn de"
-  },
-  {
-    "label": "rundi \u2192 englanti",
-    "value": "rn en"
-  },
-  {
-    "label": "rundi \u2192 espanja",
-    "value": "rn es"
-  },
-  {
-    "label": "rundi \u2192 ranska",
-    "value": "rn fr"
-  },
-  {
-    "label": "rundi \u2192 ven\u00e4j\u00e4",
-    "value": "rn ru"
-  },
-  {
-    "label": "Ruund \u2192 englanti",
-    "value": "rnd en"
-  },
-  {
-    "label": "Ruund \u2192 ranska",
-    "value": "rnd fr"
-  },
-  {
-    "label": "Ruund \u2192 ruotsi",
-    "value": "rnd sv"
-  },
-  {
-    "label": "romania \u2192 esperanto",
-    "value": "ro eo"
-  },
-  {
-    "label": "romania \u2192 suomi",
-    "value": "ro fi"
-  },
-  {
-    "label": "romania \u2192 ranska",
-    "value": "ro fr"
-  },
-  {
-    "label": "romania \u2192 ruotsi",
-    "value": "ro sv"
-  },
-  {
-    "label": "Romance languages \u2192 englanti",
-    "value": "roa en"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 afrikaans",
-    "value": "ru af"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 arabia",
-    "value": "ru ar"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 bulgaria",
-    "value": "ru bg"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 tanska",
-    "value": "ru da"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 englanti",
-    "value": "ru en"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 esperanto",
-    "value": "ru eo"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 espanja",
-    "value": "ru es"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 viro",
-    "value": "ru et"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 baski",
-    "value": "ru eu"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 suomi",
-    "value": "ru fi"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 ranska",
-    "value": "ru fr"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 heprea",
-    "value": "ru he"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 armenia",
-    "value": "ru hy"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 liettua",
-    "value": "ru lt"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 latvia",
-    "value": "ru lv"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 norja",
-    "value": "ru no"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 sloveeni",
-    "value": "ru sl"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 ruotsi",
-    "value": "ru sv"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 ukraina",
-    "value": "ru uk"
-  },
-  {
-    "label": "ven\u00e4j\u00e4 \u2192 vietnam",
-    "value": "ru vi"
-  },
-  {
-    "label": "rundi \u2192 englanti",
-    "value": "run en"
-  },
-  {
-    "label": "rundi \u2192 espanja",
-    "value": "run es"
-  },
-  {
-    "label": "rundi \u2192 ruotsi",
-    "value": "run sv"
-  },
-  {
-    "label": "ruanda \u2192 englanti",
-    "value": "rw en"
-  },
-  {
-    "label": "ruanda \u2192 espanja",
-    "value": "rw es"
-  },
-  {
-    "label": "ruanda \u2192 ranska",
-    "value": "rw fr"
-  },
-  {
-    "label": "ruanda \u2192 ruotsi",
-    "value": "rw sv"
-  },
-  {
-    "label": "Salishan languages \u2192 englanti",
-    "value": "sal en"
-  },
-  {
-    "label": "Semitic languages \u2192 englanti",
-    "value": "sem en"
-  },
-  {
-    "label": "Semitic languages \u2192 Semitic languages",
-    "value": "sem sem"
-  },
-  {
-    "label": "sango \u2192 englanti",
-    "value": "sg en"
-  },
-  {
-    "label": "sango \u2192 espanja",
-    "value": "sg es"
-  },
-  {
-    "label": "sango \u2192 suomi",
-    "value": "sg fi"
-  },
-  {
-    "label": "sango \u2192 ranska",
-    "value": "sg fr"
-  },
-  {
-    "label": "sango \u2192 ruotsi",
-    "value": "sg sv"
-  },
-  {
-    "label": "serbia (latinalainen) \u2192 esperanto",
-    "value": "sh eo"
-  },
-  {
-    "label": "serbia (latinalainen) \u2192 ukraina",
-    "value": "sh uk"
-  },
-  {
-    "label": "slovakki \u2192 englanti",
-    "value": "sk en"
-  },
-  {
-    "label": "slovakki \u2192 espanja",
-    "value": "sk es"
-  },
-  {
-    "label": "slovakki \u2192 suomi",
-    "value": "sk fi"
-  },
-  {
-    "label": "slovakki \u2192 ranska",
-    "value": "sk fr"
-  },
-  {
-    "label": "slovakki \u2192 ruotsi",
-    "value": "sk sv"
-  },
-  {
-    "label": "sloveeni \u2192 espanja",
-    "value": "sl es"
-  },
-  {
-    "label": "sloveeni \u2192 suomi",
-    "value": "sl fi"
-  },
-  {
-    "label": "sloveeni \u2192 ranska",
-    "value": "sl fr"
-  },
-  {
-    "label": "sloveeni \u2192 ven\u00e4j\u00e4",
-    "value": "sl ru"
-  },
-  {
-    "label": "sloveeni \u2192 ruotsi",
-    "value": "sl sv"
-  },
-  {
-    "label": "sloveeni \u2192 ukraina",
-    "value": "sl uk"
-  },
-  {
-    "label": "Slavic languages \u2192 englanti",
-    "value": "sla en"
-  },
-  {
-    "label": "Slavic languages \u2192 Slavic languages",
-    "value": "sla sla"
-  },
-  {
-    "label": "samoa \u2192 englanti",
-    "value": "sm en"
-  },
-  {
-    "label": "samoa \u2192 espanja",
-    "value": "sm es"
-  },
-  {
-    "label": "samoa \u2192 ranska",
-    "value": "sm fr"
-  },
-  {
-    "label": "\u0161ona \u2192 englanti",
-    "value": "sn en"
-  },
-  {
-    "label": "\u0161ona \u2192 espanja",
-    "value": "sn es"
-  },
-  {
-    "label": "\u0161ona \u2192 ranska",
-    "value": "sn fr"
-  },
-  {
-    "label": "\u0161ona \u2192 ruotsi",
-    "value": "sn sv"
-  },
-  {
-    "label": "albania \u2192 englanti",
+    "label": "albania - englanti",
     "value": "sq en"
   },
   {
-    "label": "albania \u2192 espanja",
+    "label": "albania - espanja",
     "value": "sq es"
   },
   {
-    "label": "albania \u2192 ruotsi",
+    "label": "albania - ruotsi",
     "value": "sq sv"
   },
   {
-    "label": "sranan \u2192 englanti",
-    "value": "srn en"
+    "label": "amerikkalainen viittomakieli - englanti",
+    "value": "ase en"
   },
   {
-    "label": "sranan \u2192 espanja",
-    "value": "srn es"
+    "label": "amerikkalainen viittomakieli - espanja",
+    "value": "ase es"
   },
   {
-    "label": "sranan \u2192 ranska",
-    "value": "srn fr"
+    "label": "amerikkalainen viittomakieli - ranska",
+    "value": "ase fr"
   },
   {
-    "label": "sranan \u2192 ruotsi",
-    "value": "srn sv"
+    "label": "amerikkalainen viittomakieli - ruotsi",
+    "value": "ase sv"
   },
   {
-    "label": "swazi \u2192 englanti",
-    "value": "ss en"
+    "label": "amerikkalainen viittomakieli - saksa",
+    "value": "ase de"
   },
   {
-    "label": "Spanish Sign Language \u2192 espanja",
-    "value": "ssp es"
+    "label": "amhara - ruotsi",
+    "value": "am sv"
   },
   {
-    "label": "etel\u00e4sotho \u2192 englanti",
-    "value": "st en"
+    "label": "arabia - englanti",
+    "value": "ar en"
   },
   {
-    "label": "etel\u00e4sotho \u2192 espanja",
-    "value": "st es"
+    "label": "arabia - espanja",
+    "value": "ar es"
   },
   {
-    "label": "etel\u00e4sotho \u2192 suomi",
-    "value": "st fi"
+    "label": "arabia - esperanto",
+    "value": "ar eo"
   },
   {
-    "label": "etel\u00e4sotho \u2192 ranska",
-    "value": "st fr"
+    "label": "arabia - heprea",
+    "value": "ar he"
   },
   {
-    "label": "etel\u00e4sotho \u2192 ruotsi",
-    "value": "st sv"
+    "label": "arabia - italia",
+    "value": "ar it"
   },
   {
-    "label": "ruotsi \u2192 kiina",
-    "value": "sv ZH"
+    "label": "arabia - kreikka",
+    "value": "ar el"
   },
   {
-    "label": "ruotsi \u2192 afrikaans",
-    "value": "sv af"
+    "label": "arabia - puola",
+    "value": "ar pl"
   },
   {
-    "label": "ruotsi \u2192 amerikkalainen viittomakieli",
-    "value": "sv ase"
+    "label": "arabia - ranska",
+    "value": "ar fr"
   },
   {
-    "label": "ruotsi \u2192 Central Bikol",
-    "value": "sv bcl"
+    "label": "arabia - saksa",
+    "value": "ar de"
   },
   {
-    "label": "ruotsi \u2192 bemba",
-    "value": "sv bem"
+    "label": "arabia - turkki",
+    "value": "ar tr"
   },
   {
-    "label": "ruotsi \u2192 bulgaria",
-    "value": "sv bg"
+    "label": "arabia - ven\u00e4j\u00e4",
+    "value": "ar ru"
   },
   {
-    "label": "ruotsi \u2192 bislama",
-    "value": "sv bi"
+    "label": "Argentine Sign Language - espanja",
+    "value": "aed es"
   },
   {
-    "label": "ruotsi \u2192 Brazilian Sign Language",
-    "value": "sv bzs"
+    "label": "armenia - englanti",
+    "value": "hy en"
   },
   {
-    "label": "ruotsi \u2192 cebuano",
-    "value": "sv ceb"
+    "label": "armenia - ven\u00e4j\u00e4",
+    "value": "hy ru"
   },
   {
-    "label": "ruotsi \u2192 chuuk",
-    "value": "sv chk"
+    "label": "Artificial languages - englanti",
+    "value": "art en"
   },
   {
-    "label": "ruotsi \u2192 seychellienkreoli",
-    "value": "sv crs"
+    "label": "Atlantic-Congo languages - englanti",
+    "value": "alv en"
   },
   {
-    "label": "ruotsi \u2192 t\u0161ekki",
-    "value": "sv cs"
+    "label": "Austro-Asiatic languages - englanti",
+    "value": "aav en"
   },
   {
-    "label": "ruotsi \u2192 ewe",
-    "value": "sv ee"
+    "label": "azeri - englanti",
+    "value": "az en"
   },
   {
-    "label": "ruotsi \u2192 efik",
-    "value": "sv efi"
+    "label": "azeri - espanja",
+    "value": "az es"
   },
   {
-    "label": "ruotsi \u2192 kreikka",
-    "value": "sv el"
+    "label": "azeri - turkki",
+    "value": "az tr"
   },
   {
-    "label": "ruotsi \u2192 englanti",
-    "value": "sv en"
+    "label": "Baltic languages - englanti",
+    "value": "bat en"
   },
   {
-    "label": "ruotsi \u2192 esperanto",
-    "value": "sv eo"
+    "label": "Bantu languages - englanti",
+    "value": "bnt en"
   },
   {
-    "label": "ruotsi \u2192 espanja",
-    "value": "sv es"
+    "label": "baski - englanti",
+    "value": "eu en"
   },
   {
-    "label": "ruotsi \u2192 viro",
-    "value": "sv et"
+    "label": "baski - espanja",
+    "value": "eu es"
   },
   {
-    "label": "ruotsi \u2192 suomi",
-    "value": "sv fi"
+    "label": "baski - saksa",
+    "value": "eu de"
   },
   {
-    "label": "ruotsi \u2192 fid\u017ei",
-    "value": "sv fj"
+    "label": "baski - ven\u00e4j\u00e4",
+    "value": "eu ru"
   },
   {
-    "label": "ruotsi \u2192 ranska",
-    "value": "sv fr"
+    "label": "Basque (family) - englanti",
+    "value": "euq en"
   },
   {
-    "label": "ruotsi \u2192 ga",
-    "value": "sv gaa"
+    "label": "bemba - englanti",
+    "value": "bem en"
   },
   {
-    "label": "ruotsi \u2192 kiribati",
-    "value": "sv gil"
+    "label": "bemba - espanja",
+    "value": "bem es"
   },
   {
-    "label": "ruotsi \u2192 Gun",
-    "value": "sv guw"
+    "label": "bemba - ranska",
+    "value": "bem fr"
   },
   {
-    "label": "ruotsi \u2192 hausa",
-    "value": "sv ha"
+    "label": "bemba - ruotsi",
+    "value": "bem sv"
   },
   {
-    "label": "ruotsi \u2192 heprea",
-    "value": "sv he"
+    "label": "bemba - suomi",
+    "value": "bem fi"
   },
   {
-    "label": "ruotsi \u2192 hiligaino",
-    "value": "sv hil"
+    "label": "bengali - englanti",
+    "value": "bn en"
   },
   {
-    "label": "ruotsi \u2192 hiri-motu",
-    "value": "sv ho"
+    "label": "Berber languages - englanti",
+    "value": "ber en"
   },
   {
-    "label": "ruotsi \u2192 kroatia",
-    "value": "sv hr"
+    "label": "Berber languages - espanja",
+    "value": "ber es"
   },
   {
-    "label": "ruotsi \u2192 haiti",
-    "value": "sv ht"
+    "label": "Berber languages - ranska",
+    "value": "ber fr"
   },
   {
-    "label": "ruotsi \u2192 unkari",
-    "value": "sv hu"
+    "label": "bislama - englanti",
+    "value": "bi en"
   },
   {
-    "label": "ruotsi \u2192 indonesia",
-    "value": "sv id"
+    "label": "bislama - espanja",
+    "value": "bi es"
   },
   {
-    "label": "ruotsi \u2192 igbo",
-    "value": "sv ig"
+    "label": "bislama - ranska",
+    "value": "bi fr"
   },
   {
-    "label": "ruotsi \u2192 iloko",
-    "value": "sv ilo"
+    "label": "bislama - ruotsi",
+    "value": "bi sv"
   },
   {
-    "label": "ruotsi \u2192 islanti",
-    "value": "sv is"
+    "label": "Brazilian Sign Language - englanti",
+    "value": "bzs en"
   },
   {
-    "label": "ruotsi \u2192 Isoko",
-    "value": "sv iso"
+    "label": "Brazilian Sign Language - espanja",
+    "value": "bzs es"
   },
   {
-    "label": "ruotsi \u2192 kongo",
-    "value": "sv kg"
+    "label": "Brazilian Sign Language - ranska",
+    "value": "bzs fr"
   },
   {
-    "label": "ruotsi \u2192 Kaonde",
-    "value": "sv kqn"
+    "label": "Brazilian Sign Language - ruotsi",
+    "value": "bzs sv"
   },
   {
-    "label": "ruotsi \u2192 San Salvador Kongo",
-    "value": "sv kwy"
+    "label": "Brazilian Sign Language - suomi",
+    "value": "bzs fi"
   },
   {
-    "label": "ruotsi \u2192 ganda",
-    "value": "sv lg"
+    "label": "bulgaria - englanti",
+    "value": "bg en"
   },
   {
-    "label": "ruotsi \u2192 lingala",
-    "value": "sv ln"
+    "label": "bulgaria - espanja",
+    "value": "bg es"
   },
   {
-    "label": "ruotsi \u2192 katanganluba",
-    "value": "sv lu"
+    "label": "bulgaria - esperanto",
+    "value": "bg eo"
   },
   {
-    "label": "ruotsi \u2192 luluanluba",
-    "value": "sv lua"
+    "label": "bulgaria - italia",
+    "value": "bg it"
   },
   {
-    "label": "ruotsi \u2192 Luvale",
-    "value": "sv lue"
+    "label": "bulgaria - ranska",
+    "value": "bg fr"
   },
   {
-    "label": "ruotsi \u2192 lusai",
-    "value": "sv lus"
+    "label": "bulgaria - ruotsi",
+    "value": "bg sv"
   },
   {
-    "label": "ruotsi \u2192 latvia",
-    "value": "sv lv"
+    "label": "bulgaria - saksa",
+    "value": "bg de"
   },
   {
-    "label": "ruotsi \u2192 morisyen",
-    "value": "sv mfe"
+    "label": "bulgaria - suomi",
+    "value": "bg fi"
   },
   {
-    "label": "ruotsi \u2192 marshall",
-    "value": "sv mh"
+    "label": "bulgaria - turkki",
+    "value": "bg tr"
   },
   {
-    "label": "ruotsi \u2192 mossi",
-    "value": "sv mos"
+    "label": "bulgaria - ukraina",
+    "value": "bg uk"
   },
   {
-    "label": "ruotsi \u2192 malta",
-    "value": "sv mt"
+    "label": "bulgaria - ven\u00e4j\u00e4",
+    "value": "bg ru"
   },
   {
-    "label": "ruotsi \u2192 niue",
-    "value": "sv niu"
+    "label": "Caucasian languages - englanti",
+    "value": "cau en"
   },
   {
-    "label": "ruotsi \u2192 hollanti",
-    "value": "sv nl"
+    "label": "cebuano - englanti",
+    "value": "ceb en"
   },
   {
-    "label": "ruotsi \u2192 norja",
-    "value": "sv no"
+    "label": "cebuano - espanja",
+    "value": "ceb es"
   },
   {
-    "label": "ruotsi \u2192 pohjoissotho",
-    "value": "sv nso"
+    "label": "cebuano - ranska",
+    "value": "ceb fr"
   },
   {
-    "label": "ruotsi \u2192 njand\u017ea",
-    "value": "sv ny"
+    "label": "cebuano - ruotsi",
+    "value": "ceb sv"
   },
   {
-    "label": "ruotsi \u2192 pangasinan",
-    "value": "sv pag"
+    "label": "cebuano - suomi",
+    "value": "ceb fi"
   },
   {
-    "label": "ruotsi \u2192 papiamentu",
-    "value": "sv pap"
+    "label": "Celtic languages - englanti",
+    "value": "cel en"
   },
   {
-    "label": "ruotsi \u2192 Pijin",
-    "value": "sv pis"
+    "label": "Central Bikol - englanti",
+    "value": "bcl en"
   },
   {
-    "label": "ruotsi \u2192 pohnpei",
-    "value": "sv pon"
+    "label": "Central Bikol - espanja",
+    "value": "bcl es"
   },
   {
-    "label": "ruotsi \u2192 Ruund",
-    "value": "sv rnd"
+    "label": "Central Bikol - ranska",
+    "value": "bcl fr"
   },
   {
-    "label": "ruotsi \u2192 romania",
-    "value": "sv ro"
+    "label": "Central Bikol - ruotsi",
+    "value": "bcl sv"
   },
   {
-    "label": "ruotsi \u2192 ven\u00e4j\u00e4",
-    "value": "sv ru"
+    "label": "Central Bikol - saksa",
+    "value": "bcl de"
   },
   {
-    "label": "ruotsi \u2192 rundi",
-    "value": "sv run"
+    "label": "Central Bikol - suomi",
+    "value": "bcl fi"
   },
   {
-    "label": "ruotsi \u2192 ruanda",
-    "value": "sv rw"
+    "label": "Chilean Sign Language - espanja",
+    "value": "csg es"
   },
   {
-    "label": "ruotsi \u2192 sango",
-    "value": "sv sg"
+    "label": "chuuk - englanti",
+    "value": "chk en"
   },
   {
-    "label": "ruotsi \u2192 slovakki",
-    "value": "sv sk"
+    "label": "chuuk - espanja",
+    "value": "chk es"
   },
   {
-    "label": "ruotsi \u2192 sloveeni",
-    "value": "sv sl"
+    "label": "chuuk - ranska",
+    "value": "chk fr"
   },
   {
-    "label": "ruotsi \u2192 samoa",
-    "value": "sv sm"
+    "label": "chuuk - ruotsi",
+    "value": "chk sv"
   },
   {
-    "label": "ruotsi \u2192 \u0161ona",
-    "value": "sv sn"
+    "label": "Colombian Sign Language - espanja",
+    "value": "csn es"
   },
   {
-    "label": "ruotsi \u2192 albania",
-    "value": "sv sq"
+    "label": "Cushitic languages - englanti",
+    "value": "cus en"
   },
   {
-    "label": "ruotsi \u2192 sranan",
-    "value": "sv srn"
+    "label": "Dravidian languages - englanti",
+    "value": "dra en"
   },
   {
-    "label": "ruotsi \u2192 etel\u00e4sotho",
-    "value": "sv st"
+    "label": "Eastern Malayo-Polynesian languages - englanti",
+    "value": "pqe en"
   },
   {
-    "label": "ruotsi \u2192 ruotsi",
-    "value": "sv sv"
-  },
-  {
-    "label": "ruotsi \u2192 swahili (Kongon demokraattinen tasavalta)",
-    "value": "sv swc"
-  },
-  {
-    "label": "ruotsi \u2192 thai",
-    "value": "sv th"
-  },
-  {
-    "label": "ruotsi \u2192 Tiv",
-    "value": "sv tiv"
-  },
-  {
-    "label": "ruotsi \u2192 Tetela",
-    "value": "sv tll"
-  },
-  {
-    "label": "ruotsi \u2192 tswana",
-    "value": "sv tn"
-  },
-  {
-    "label": "ruotsi \u2192 tonga",
-    "value": "sv to"
-  },
-  {
-    "label": "ruotsi \u2192 Tonga (Zambia)",
-    "value": "sv toi"
-  },
-  {
-    "label": "ruotsi \u2192 tok-pisin",
-    "value": "sv tpi"
-  },
-  {
-    "label": "ruotsi \u2192 tsonga",
-    "value": "sv ts"
-  },
-  {
-    "label": "ruotsi \u2192 tumbuka",
-    "value": "sv tum"
-  },
-  {
-    "label": "ruotsi \u2192 tuvalu",
-    "value": "sv tvl"
-  },
-  {
-    "label": "ruotsi \u2192 twi",
-    "value": "sv tw"
-  },
-  {
-    "label": "ruotsi \u2192 tahiti",
-    "value": "sv ty"
-  },
-  {
-    "label": "ruotsi \u2192 ukraina",
-    "value": "sv uk"
-  },
-  {
-    "label": "ruotsi \u2192 mbundu",
-    "value": "sv umb"
-  },
-  {
-    "label": "ruotsi \u2192 venda",
-    "value": "sv ve"
-  },
-  {
-    "label": "ruotsi \u2192 waray",
-    "value": "sv war"
-  },
-  {
-    "label": "ruotsi \u2192 Wallisian",
-    "value": "sv wls"
-  },
-  {
-    "label": "ruotsi \u2192 xhosa",
-    "value": "sv xh"
-  },
-  {
-    "label": "ruotsi \u2192 japi",
-    "value": "sv yap"
-  },
-  {
-    "label": "ruotsi \u2192 joruba",
-    "value": "sv yo"
-  },
-  {
-    "label": "ruotsi \u2192 Zande (individual language)",
-    "value": "sv zne"
-  },
-  {
-    "label": "swahili (Kongon demokraattinen tasavalta) \u2192 englanti",
-    "value": "swc en"
-  },
-  {
-    "label": "swahili (Kongon demokraattinen tasavalta) \u2192 espanja",
-    "value": "swc es"
-  },
-  {
-    "label": "swahili (Kongon demokraattinen tasavalta) \u2192 suomi",
-    "value": "swc fi"
-  },
-  {
-    "label": "swahili (Kongon demokraattinen tasavalta) \u2192 ranska",
-    "value": "swc fr"
-  },
-  {
-    "label": "swahili (Kongon demokraattinen tasavalta) \u2192 ruotsi",
-    "value": "swc sv"
-  },
-  {
-    "label": "Kalam-Tai \u2192 englanti",
-    "value": "taw en"
-  },
-  {
-    "label": "thai \u2192 englanti",
-    "value": "th en"
-  },
-  {
-    "label": "thai \u2192 ranska",
-    "value": "th fr"
-  },
-  {
-    "label": "tigrinja \u2192 englanti",
-    "value": "ti en"
-  },
-  {
-    "label": "Tiv \u2192 englanti",
-    "value": "tiv en"
-  },
-  {
-    "label": "Tiv \u2192 ranska",
-    "value": "tiv fr"
-  },
-  {
-    "label": "Tiv \u2192 ruotsi",
-    "value": "tiv sv"
-  },
-  {
-    "label": "filipino \u2192 saksa",
-    "value": "tl de"
-  },
-  {
-    "label": "filipino \u2192 englanti",
-    "value": "tl en"
-  },
-  {
-    "label": "filipino \u2192 espanja",
-    "value": "tl es"
-  },
-  {
-    "label": "filipino \u2192 portugali",
-    "value": "tl pt"
-  },
-  {
-    "label": "Tetela \u2192 englanti",
-    "value": "tll en"
-  },
-  {
-    "label": "Tetela \u2192 espanja",
-    "value": "tll es"
-  },
-  {
-    "label": "Tetela \u2192 suomi",
-    "value": "tll fi"
-  },
-  {
-    "label": "Tetela \u2192 ranska",
-    "value": "tll fr"
-  },
-  {
-    "label": "Tetela \u2192 ruotsi",
-    "value": "tll sv"
-  },
-  {
-    "label": "tswana \u2192 englanti",
-    "value": "tn en"
-  },
-  {
-    "label": "tswana \u2192 espanja",
-    "value": "tn es"
-  },
-  {
-    "label": "tswana \u2192 ranska",
-    "value": "tn fr"
-  },
-  {
-    "label": "tswana \u2192 ruotsi",
-    "value": "tn sv"
-  },
-  {
-    "label": "tonga \u2192 englanti",
-    "value": "to en"
-  },
-  {
-    "label": "tonga \u2192 espanja",
-    "value": "to es"
-  },
-  {
-    "label": "tonga \u2192 ranska",
-    "value": "to fr"
-  },
-  {
-    "label": "tonga \u2192 ruotsi",
-    "value": "to sv"
-  },
-  {
-    "label": "Tonga (Zambia) \u2192 englanti",
-    "value": "toi en"
-  },
-  {
-    "label": "Tonga (Zambia) \u2192 espanja",
-    "value": "toi es"
-  },
-  {
-    "label": "Tonga (Zambia) \u2192 suomi",
-    "value": "toi fi"
-  },
-  {
-    "label": "Tonga (Zambia) \u2192 ranska",
-    "value": "toi fr"
-  },
-  {
-    "label": "Tonga (Zambia) \u2192 ruotsi",
-    "value": "toi sv"
-  },
-  {
-    "label": "tok-pisin \u2192 englanti",
-    "value": "tpi en"
-  },
-  {
-    "label": "tok-pisin \u2192 ruotsi",
-    "value": "tpi sv"
-  },
-  {
-    "label": "turkki \u2192 arabia",
-    "value": "tr ar"
-  },
-  {
-    "label": "turkki \u2192 azeri",
-    "value": "tr az"
-  },
-  {
-    "label": "turkki \u2192 englanti",
-    "value": "tr en"
-  },
-  {
-    "label": "turkki \u2192 esperanto",
-    "value": "tr eo"
-  },
-  {
-    "label": "turkki \u2192 espanja",
-    "value": "tr es"
-  },
-  {
-    "label": "turkki \u2192 ranska",
-    "value": "tr fr"
-  },
-  {
-    "label": "turkki \u2192 liettua",
-    "value": "tr lt"
-  },
-  {
-    "label": "turkki \u2192 ruotsi",
-    "value": "tr sv"
-  },
-  {
-    "label": "turkki \u2192 ukraina",
-    "value": "tr uk"
-  },
-  {
-    "label": "Turkic languages \u2192 englanti",
-    "value": "trk en"
-  },
-  {
-    "label": "tsonga \u2192 englanti",
-    "value": "ts en"
-  },
-  {
-    "label": "tsonga \u2192 espanja",
-    "value": "ts es"
-  },
-  {
-    "label": "tsonga \u2192 suomi",
-    "value": "ts fi"
-  },
-  {
-    "label": "tsonga \u2192 ranska",
-    "value": "ts fr"
-  },
-  {
-    "label": "tsonga \u2192 ruotsi",
-    "value": "ts sv"
-  },
-  {
-    "label": "tumbuka \u2192 englanti",
-    "value": "tum en"
-  },
-  {
-    "label": "tumbuka \u2192 espanja",
-    "value": "tum es"
-  },
-  {
-    "label": "tumbuka \u2192 ranska",
-    "value": "tum fr"
-  },
-  {
-    "label": "tumbuka \u2192 ruotsi",
-    "value": "tum sv"
-  },
-  {
-    "label": "tuvalu \u2192 englanti",
-    "value": "tvl en"
-  },
-  {
-    "label": "tuvalu \u2192 espanja",
-    "value": "tvl es"
-  },
-  {
-    "label": "tuvalu \u2192 suomi",
-    "value": "tvl fi"
-  },
-  {
-    "label": "tuvalu \u2192 ranska",
-    "value": "tvl fr"
-  },
-  {
-    "label": "tuvalu \u2192 ruotsi",
-    "value": "tvl sv"
-  },
-  {
-    "label": "twi \u2192 espanja",
-    "value": "tw es"
-  },
-  {
-    "label": "twi \u2192 suomi",
-    "value": "tw fi"
-  },
-  {
-    "label": "twi \u2192 ranska",
-    "value": "tw fr"
-  },
-  {
-    "label": "twi \u2192 ruotsi",
-    "value": "tw sv"
-  },
-  {
-    "label": "tahiti \u2192 espanja",
-    "value": "ty es"
-  },
-  {
-    "label": "tahiti \u2192 suomi",
-    "value": "ty fi"
-  },
-  {
-    "label": "tahiti \u2192 ranska",
-    "value": "ty fr"
-  },
-  {
-    "label": "tahiti \u2192 ruotsi",
-    "value": "ty sv"
-  },
-  {
-    "label": "Tzotzil \u2192 espanja",
-    "value": "tzo es"
-  },
-  {
-    "label": "ukraina \u2192 bulgaria",
-    "value": "uk bg"
-  },
-  {
-    "label": "ukraina \u2192 katalaani",
-    "value": "uk ca"
-  },
-  {
-    "label": "ukraina \u2192 t\u0161ekki",
-    "value": "uk cs"
-  },
-  {
-    "label": "ukraina \u2192 saksa",
-    "value": "uk de"
-  },
-  {
-    "label": "ukraina \u2192 englanti",
-    "value": "uk en"
-  },
-  {
-    "label": "ukraina \u2192 espanja",
-    "value": "uk es"
-  },
-  {
-    "label": "ukraina \u2192 suomi",
-    "value": "uk fi"
-  },
-  {
-    "label": "ukraina \u2192 ranska",
-    "value": "uk fr"
-  },
-  {
-    "label": "ukraina \u2192 heprea",
-    "value": "uk he"
-  },
-  {
-    "label": "ukraina \u2192 unkari",
-    "value": "uk hu"
-  },
-  {
-    "label": "ukraina \u2192 italia",
-    "value": "uk it"
-  },
-  {
-    "label": "ukraina \u2192 hollanti",
-    "value": "uk nl"
-  },
-  {
-    "label": "ukraina \u2192 norja",
-    "value": "uk no"
-  },
-  {
-    "label": "ukraina \u2192 puola",
-    "value": "uk pl"
-  },
-  {
-    "label": "ukraina \u2192 portugali",
-    "value": "uk pt"
-  },
-  {
-    "label": "ukraina \u2192 ven\u00e4j\u00e4",
-    "value": "uk ru"
-  },
-  {
-    "label": "ukraina \u2192 serbia (latinalainen)",
-    "value": "uk sh"
-  },
-  {
-    "label": "ukraina \u2192 sloveeni",
-    "value": "uk sl"
-  },
-  {
-    "label": "ukraina \u2192 ruotsi",
-    "value": "uk sv"
-  },
-  {
-    "label": "ukraina \u2192 turkki",
-    "value": "uk tr"
-  },
-  {
-    "label": "mbundu \u2192 englanti",
-    "value": "umb en"
-  },
-  {
-    "label": "urdu \u2192 englanti",
-    "value": "ur en"
-  },
-  {
-    "label": "Uralic languages \u2192 englanti",
-    "value": "urj en"
-  },
-  {
-    "label": "Uralic languages \u2192 Uralic languages",
-    "value": "urj urj"
-  },
-  {
-    "label": "venda \u2192 englanti",
-    "value": "ve en"
-  },
-  {
-    "label": "venda \u2192 espanja",
-    "value": "ve es"
-  },
-  {
-    "label": "vietnam \u2192 saksa",
-    "value": "vi de"
-  },
-  {
-    "label": "vietnam \u2192 englanti",
-    "value": "vi en"
-  },
-  {
-    "label": "vietnam \u2192 esperanto",
-    "value": "vi eo"
-  },
-  {
-    "label": "vietnam \u2192 espanja",
-    "value": "vi es"
-  },
-  {
-    "label": "vietnam \u2192 ranska",
-    "value": "vi fr"
-  },
-  {
-    "label": "vietnam \u2192 italia",
-    "value": "vi it"
-  },
-  {
-    "label": "vietnam \u2192 ven\u00e4j\u00e4",
-    "value": "vi ru"
-  },
-  {
-    "label": "Venezuelan Sign Language \u2192 espanja",
-    "value": "vsl es"
-  },
-  {
-    "label": "valloni \u2192 englanti",
-    "value": "wa en"
-  },
-  {
-    "label": "wolaitta \u2192 englanti",
-    "value": "wal en"
-  },
-  {
-    "label": "waray \u2192 englanti",
-    "value": "war en"
-  },
-  {
-    "label": "waray \u2192 espanja",
-    "value": "war es"
-  },
-  {
-    "label": "waray \u2192 suomi",
-    "value": "war fi"
-  },
-  {
-    "label": "waray \u2192 ranska",
-    "value": "war fr"
-  },
-  {
-    "label": "waray \u2192 ruotsi",
-    "value": "war sv"
-  },
-  {
-    "label": "Wallisian \u2192 englanti",
-    "value": "wls en"
-  },
-  {
-    "label": "Wallisian \u2192 ranska",
-    "value": "wls fr"
-  },
-  {
-    "label": "Wallisian \u2192 ruotsi",
-    "value": "wls sv"
-  },
-  {
-    "label": "xhosa \u2192 englanti",
-    "value": "xh en"
-  },
-  {
-    "label": "xhosa \u2192 espanja",
-    "value": "xh es"
-  },
-  {
-    "label": "xhosa \u2192 ranska",
-    "value": "xh fr"
-  },
-  {
-    "label": "xhosa \u2192 ruotsi",
-    "value": "xh sv"
-  },
-  {
-    "label": "japi \u2192 englanti",
-    "value": "yap en"
-  },
-  {
-    "label": "japi \u2192 ranska",
-    "value": "yap fr"
-  },
-  {
-    "label": "japi \u2192 ruotsi",
-    "value": "yap sv"
-  },
-  {
-    "label": "joruba \u2192 englanti",
-    "value": "yo en"
-  },
-  {
-    "label": "joruba \u2192 espanja",
-    "value": "yo es"
-  },
-  {
-    "label": "joruba \u2192 suomi",
-    "value": "yo fi"
-  },
-  {
-    "label": "joruba \u2192 ranska",
-    "value": "yo fr"
-  },
-  {
-    "label": "joruba \u2192 ruotsi",
-    "value": "yo sv"
-  },
-  {
-    "label": "Isthmus Zapotec \u2192 espanja",
-    "value": "zai es"
-  },
-  {
-    "label": "kiina \u2192 bulgaria",
-    "value": "zh bg"
-  },
-  {
-    "label": "kiina \u2192 saksa",
-    "value": "zh de"
-  },
-  {
-    "label": "kiina \u2192 englanti",
-    "value": "zh en"
-  },
-  {
-    "label": "kiina \u2192 suomi",
-    "value": "zh fi"
-  },
-  {
-    "label": "kiina \u2192 heprea",
-    "value": "zh he"
-  },
-  {
-    "label": "kiina \u2192 italia",
-    "value": "zh it"
-  },
-  {
-    "label": "kiina \u2192 malaiji",
-    "value": "zh ms"
-  },
-  {
-    "label": "kiina \u2192 hollanti",
-    "value": "zh nl"
-  },
-  {
-    "label": "kiina \u2192 ruotsi",
-    "value": "zh sv"
-  },
-  {
-    "label": "kiina \u2192 ukraina",
-    "value": "zh uk"
-  },
-  {
-    "label": "kiina \u2192 vietnam",
-    "value": "zh vi"
-  },
-  {
-    "label": "East Slavic languages \u2192 englanti",
-    "value": "zle en"
-  },
-  {
-    "label": "East Slavic languages \u2192 East Slavic languages",
+    "label": "East Slavic languages - East Slavic languages",
     "value": "zle zle"
   },
   {
-    "label": "South Slavic languages \u2192 englanti",
+    "label": "East Slavic languages - englanti",
+    "value": "zle en"
+  },
+  {
+    "label": "efik - englanti",
+    "value": "efi en"
+  },
+  {
+    "label": "efik - ranska",
+    "value": "efi fr"
+  },
+  {
+    "label": "efik - ruotsi",
+    "value": "efi sv"
+  },
+  {
+    "label": "efik - saksa",
+    "value": "efi de"
+  },
+  {
+    "label": "efik - suomi",
+    "value": "efi fi"
+  },
+  {
+    "label": "englanti - afrikaans",
+    "value": "en af"
+  },
+  {
+    "label": "englanti - Afro-Asiatic languages",
+    "value": "en afa"
+  },
+  {
+    "label": "englanti - albania",
+    "value": "en sq"
+  },
+  {
+    "label": "englanti - Altaic languages",
+    "value": "en tut"
+  },
+  {
+    "label": "englanti - arabia",
+    "value": "en ar"
+  },
+  {
+    "label": "englanti - armenia",
+    "value": "en hy"
+  },
+  {
+    "label": "englanti - Atlantic-Congo languages",
+    "value": "en alv"
+  },
+  {
+    "label": "englanti - Austro-Asiatic languages",
+    "value": "en aav"
+  },
+  {
+    "label": "englanti - Austronesian languages",
+    "value": "en map"
+  },
+  {
+    "label": "englanti - azeri",
+    "value": "en az"
+  },
+  {
+    "label": "englanti - Baltic languages",
+    "value": "en bat"
+  },
+  {
+    "label": "englanti - Bantu languages",
+    "value": "en bnt"
+  },
+  {
+    "label": "englanti - baski",
+    "value": "en eu"
+  },
+  {
+    "label": "englanti - Basque (family)",
+    "value": "en euq"
+  },
+  {
+    "label": "englanti - bemba",
+    "value": "en bem"
+  },
+  {
+    "label": "englanti - Berber languages",
+    "value": "en ber"
+  },
+  {
+    "label": "englanti - bislama",
+    "value": "en bi"
+  },
+  {
+    "label": "englanti - Brazilian Sign Language",
+    "value": "en bzs"
+  },
+  {
+    "label": "englanti - bulgaria",
+    "value": "en bg"
+  },
+  {
+    "label": "englanti - cebuano",
+    "value": "en ceb"
+  },
+  {
+    "label": "englanti - Celtic languages",
+    "value": "en cel"
+  },
+  {
+    "label": "englanti - Central Bikol",
+    "value": "en bcl"
+  },
+  {
+    "label": "englanti - chuuk",
+    "value": "en chk"
+  },
+  {
+    "label": "englanti - Cushitic languages",
+    "value": "en cus"
+  },
+  {
+    "label": "englanti - Dravidian languages",
+    "value": "en dra"
+  },
+  {
+    "label": "englanti - Eastern Malayo-Polynesian languages",
+    "value": "en pqe"
+  },
+  {
+    "label": "englanti - East Slavic languages",
+    "value": "en zle"
+  },
+  {
+    "label": "englanti - efik",
+    "value": "en efi"
+  },
+  {
+    "label": "englanti - espanja",
+    "value": "en es"
+  },
+  {
+    "label": "englanti - esperanto",
+    "value": "en eo"
+  },
+  {
+    "label": "englanti - etel\u00e4sotho",
+    "value": "en st"
+  },
+  {
+    "label": "englanti - ewe",
+    "value": "en ee"
+  },
+  {
+    "label": "englanti - fid\u017ei",
+    "value": "en fj"
+  },
+  {
+    "label": "englanti - filipino",
+    "value": "en tl"
+  },
+  {
+    "label": "englanti - Finno-Ugrian languages",
+    "value": "en fiu"
+  },
+  {
+    "label": "englanti - French-based creoles and pidgins",
+    "value": "en cpf"
+  },
+  {
+    "label": "englanti - ga",
+    "value": "en gaa"
+  },
+  {
+    "label": "englanti - galicia",
+    "value": "en gl"
+  },
+  {
+    "label": "englanti - ganda",
+    "value": "en lg"
+  },
+  {
+    "label": "englanti - Germanic languages",
+    "value": "en gem"
+  },
+  {
+    "label": "englanti - Greek languages",
+    "value": "en grk"
+  },
+  {
+    "label": "englanti - Gun",
+    "value": "en guw"
+  },
+  {
+    "label": "englanti - haiti",
+    "value": "en ht"
+  },
+  {
+    "label": "englanti - hausa",
+    "value": "en ha"
+  },
+  {
+    "label": "englanti - heprea",
+    "value": "en he"
+  },
+  {
+    "label": "englanti - hiligaino",
+    "value": "en hil"
+  },
+  {
+    "label": "englanti - hindi",
+    "value": "en hi"
+  },
+  {
+    "label": "englanti - hiri-motu",
+    "value": "en ho"
+  },
+  {
+    "label": "englanti - hollanti",
+    "value": "en nl"
+  },
+  {
+    "label": "englanti - igbo",
+    "value": "en ig"
+  },
+  {
+    "label": "englanti - iiri",
+    "value": "en ga"
+  },
+  {
+    "label": "englanti - iloko",
+    "value": "en ilo"
+  },
+  {
+    "label": "englanti - Indic languages",
+    "value": "en inc"
+  },
+  {
+    "label": "englanti - Indo-European languages",
+    "value": "en ine"
+  },
+  {
+    "label": "englanti - Indo-Iranian languages",
+    "value": "en iir"
+  },
+  {
+    "label": "englanti - indonesia",
+    "value": "en id"
+  },
+  {
+    "label": "englanti - islanti",
+    "value": "en is"
+  },
+  {
+    "label": "englanti - Isoko",
+    "value": "en iso"
+  },
+  {
+    "label": "englanti - italia",
+    "value": "en it"
+  },
+  {
+    "label": "englanti - Italic languages",
+    "value": "en itc"
+  },
+  {
+    "label": "englanti - Kaonde",
+    "value": "en kqn"
+  },
+  {
+    "label": "englanti - katalaani",
+    "value": "en ca"
+  },
+  {
+    "label": "englanti - katanganluba",
+    "value": "en lu"
+  },
+  {
+    "label": "englanti - kiina",
+    "value": "en zh"
+  },
+  {
+    "label": "englanti - kiribati",
+    "value": "en gil"
+  },
+  {
+    "label": "englanti - kongo",
+    "value": "en kg"
+  },
+  {
+    "label": "englanti - kreikka",
+    "value": "en el"
+  },
+  {
+    "label": "englanti - kuanjama",
+    "value": "en kj"
+  },
+  {
+    "label": "englanti - Kwangali",
+    "value": "en kwn"
+  },
+  {
+    "label": "englanti - kymri",
+    "value": "en cy"
+  },
+  {
+    "label": "englanti - lingala",
+    "value": "en ln"
+  },
+  {
+    "label": "englanti - lozi",
+    "value": "en loz"
+  },
+  {
+    "label": "englanti - luluanluba",
+    "value": "en lua"
+  },
+  {
+    "label": "englanti - lunda",
+    "value": "en lun"
+  },
+  {
+    "label": "englanti - Luo (Kenya and Tanzania)",
+    "value": "en luo"
+  },
+  {
+    "label": "englanti - lusai",
+    "value": "en lus"
+  },
+  {
+    "label": "englanti - Luvale",
+    "value": "en lue"
+  },
+  {
+    "label": "englanti - makedonia",
+    "value": "en mk"
+  },
+  {
+    "label": "englanti - malagassi",
+    "value": "en mg"
+  },
+  {
+    "label": "englanti - malajalam",
+    "value": "en ml"
+  },
+  {
+    "label": "englanti - Malayo-Polynesian languages",
+    "value": "en poz"
+  },
+  {
+    "label": "englanti - malta",
+    "value": "en mt"
+  },
+  {
+    "label": "englanti - manksi",
+    "value": "en gv"
+  },
+  {
+    "label": "englanti - marathi",
+    "value": "en mr"
+  },
+  {
+    "label": "englanti - marshall",
+    "value": "en mh"
+  },
+  {
+    "label": "englanti - mbundu",
+    "value": "en umb"
+  },
+  {
+    "label": "englanti - Mon-Khmer languages",
+    "value": "en mkh"
+  },
+  {
+    "label": "englanti - morisyen",
+    "value": "en mfe"
+  },
+  {
+    "label": "englanti - mossi",
+    "value": "en mos"
+  },
+  {
+    "label": "englanti - ndonga",
+    "value": "en ng"
+  },
+  {
+    "label": "englanti - Niger-Kordofanian languages",
+    "value": "en nic"
+  },
+  {
+    "label": "englanti - niue",
+    "value": "en niu"
+  },
+  {
+    "label": "englanti - njand\u017ea",
+    "value": "en ny"
+  },
+  {
+    "label": "englanti - North Germanic languages",
+    "value": "en gmq"
+  },
+  {
+    "label": "englanti - Nyaneka",
+    "value": "en nyk"
+  },
+  {
+    "label": "englanti - oromo",
+    "value": "en om"
+  },
+  {
+    "label": "englanti - pangasinan",
+    "value": "en pag"
+  },
+  {
+    "label": "englanti - papiamentu",
+    "value": "en pap"
+  },
+  {
+    "label": "englanti - Philippine languages",
+    "value": "en phi"
+  },
+  {
+    "label": "englanti - Pijin",
+    "value": "en pis"
+  },
+  {
+    "label": "englanti - pohjoissotho",
+    "value": "en nso"
+  },
+  {
+    "label": "englanti - pohnpei",
+    "value": "en pon"
+  },
+  {
+    "label": "englanti - Portuguese-based creoles and pidgins",
+    "value": "en cpp"
+  },
+  {
+    "label": "englanti - ranska",
+    "value": "en fr"
+  },
+  {
+    "label": "englanti - Romance languages",
+    "value": "en roa"
+  },
+  {
+    "label": "englanti - romania",
+    "value": "en ro"
+  },
+  {
+    "label": "englanti - ruanda",
+    "value": "en rw"
+  },
+  {
+    "label": "englanti - rundi",
+    "value": "en rn"
+  },
+  {
+    "label": "englanti - rundi",
+    "value": "en run"
+  },
+  {
+    "label": "englanti - ruotsi",
+    "value": "en sv"
+  },
+  {
+    "label": "englanti - Ruund",
+    "value": "en rnd"
+  },
+  {
+    "label": "englanti - saksa",
+    "value": "en de"
+  },
+  {
+    "label": "englanti - Salishan languages",
+    "value": "en sal"
+  },
+  {
+    "label": "englanti - samoa",
+    "value": "en sm"
+  },
+  {
+    "label": "englanti - sango",
+    "value": "en sg"
+  },
+  {
+    "label": "englanti - San Salvador Kongo",
+    "value": "en kwy"
+  },
+  {
+    "label": "englanti - Semitic languages",
+    "value": "en sem"
+  },
+  {
+    "label": "englanti - seychellienkreoli",
+    "value": "en crs"
+  },
+  {
+    "label": "englanti - Sino-Tibetan languages",
+    "value": "en sit"
+  },
+  {
+    "label": "englanti - Slavic languages",
+    "value": "en sla"
+  },
+  {
+    "label": "englanti - slovakki",
+    "value": "en sk"
+  },
+  {
+    "label": "englanti - \u0161ona",
+    "value": "en sn"
+  },
+  {
+    "label": "englanti - South Slavic languages",
+    "value": "en zls"
+  },
+  {
+    "label": "englanti - suomi",
+    "value": "en fi"
+  },
+  {
+    "label": "englanti - swahili",
+    "value": "en sw"
+  },
+  {
+    "label": "englanti - swahili (Kongon demokraattinen tasavalta)",
+    "value": "en swc"
+  },
+  {
+    "label": "englanti - swazi",
+    "value": "en ss"
+  },
+  {
+    "label": "englanti - tahiti",
+    "value": "en ty"
+  },
+  {
+    "label": "englanti - tanska",
+    "value": "en da"
+  },
+  {
+    "label": "englanti - Tetela",
+    "value": "en tll"
+  },
+  {
+    "label": "englanti - Tetun Dili",
+    "value": "en tdt"
+  },
+  {
+    "label": "englanti - tigrinja",
+    "value": "en ti"
+  },
+  {
+    "label": "englanti - Tiv",
+    "value": "en tiv"
+  },
+  {
+    "label": "englanti - tok-pisin",
+    "value": "en tpi"
+  },
+  {
+    "label": "englanti - tonga",
+    "value": "en to"
+  },
+  {
+    "label": "englanti - Tonga (Zambia)",
+    "value": "en toi"
+  },
+  {
+    "label": "englanti - t\u0161ekki",
+    "value": "en cs"
+  },
+  {
+    "label": "englanti - tsonga",
+    "value": "en ts"
+  },
+  {
+    "label": "englanti - tswana",
+    "value": "en tn"
+  },
+  {
+    "label": "englanti - tuntematon kieli [jap]",
+    "value": "en jap"
+  },
+  {
+    "label": "englanti - Turkic languages",
+    "value": "en trk"
+  },
+  {
+    "label": "englanti - tuvalu",
+    "value": "en tvl"
+  },
+  {
+    "label": "englanti - twi",
+    "value": "en tw"
+  },
+  {
+    "label": "englanti - ukraina",
+    "value": "en uk"
+  },
+  {
+    "label": "englanti - unkari",
+    "value": "en hu"
+  },
+  {
+    "label": "englanti - Uralic languages",
+    "value": "en urj"
+  },
+  {
+    "label": "englanti - urdu",
+    "value": "en ur"
+  },
+  {
+    "label": "englanti - useita kieli\u00e4",
+    "value": "en mul"
+  },
+  {
+    "label": "englanti - ven\u00e4j\u00e4",
+    "value": "en ru"
+  },
+  {
+    "label": "englanti - vietnam",
+    "value": "en vi"
+  },
+  {
+    "label": "englanti - viro",
+    "value": "en et"
+  },
+  {
+    "label": "englanti - Western Malayo-Polynesian languages",
+    "value": "en pqw"
+  },
+  {
+    "label": "englanti - West Germanic languages",
+    "value": "en gmw"
+  },
+  {
+    "label": "englanti - West Slavic languages",
+    "value": "en zlw"
+  },
+  {
+    "label": "englanti - xhosa",
+    "value": "en xh"
+  },
+  {
+    "label": "espanja - afrikaans",
+    "value": "es af"
+  },
+  {
+    "label": "espanja - amerikkalainen viittomakieli",
+    "value": "es ase"
+  },
+  {
+    "label": "espanja - arabia",
+    "value": "es ar"
+  },
+  {
+    "label": "espanja - Argentine Sign Language",
+    "value": "es aed"
+  },
+  {
+    "label": "espanja - baski",
+    "value": "es eu"
+  },
+  {
+    "label": "espanja - Berber languages",
+    "value": "es ber"
+  },
+  {
+    "label": "espanja - bislama",
+    "value": "es bi"
+  },
+  {
+    "label": "espanja - Brazilian Sign Language",
+    "value": "es bzs"
+  },
+  {
+    "label": "espanja - bulgaria",
+    "value": "es bg"
+  },
+  {
+    "label": "espanja - cebuano",
+    "value": "es ceb"
+  },
+  {
+    "label": "espanja - Central Bikol",
+    "value": "es bcl"
+  },
+  {
+    "label": "espanja - Chilean Sign Language",
+    "value": "es csg"
+  },
+  {
+    "label": "espanja - Colombian Sign Language",
+    "value": "es csn"
+  },
+  {
+    "label": "espanja - efik",
+    "value": "es efi"
+  },
+  {
+    "label": "espanja - englanti",
+    "value": "es en"
+  },
+  {
+    "label": "espanja - espanja",
+    "value": "es es"
+  },
+  {
+    "label": "espanja - esperanto",
+    "value": "es eo"
+  },
+  {
+    "label": "espanja - etel\u00e4sotho",
+    "value": "es st"
+  },
+  {
+    "label": "espanja - ewe",
+    "value": "es ee"
+  },
+  {
+    "label": "espanja - fid\u017ei",
+    "value": "es fj"
+  },
+  {
+    "label": "espanja - filipino",
+    "value": "es tl"
+  },
+  {
+    "label": "espanja - ga",
+    "value": "es gaa"
+  },
+  {
+    "label": "espanja - galicia",
+    "value": "es gl"
+  },
+  {
+    "label": "espanja - Gun",
+    "value": "es guw"
+  },
+  {
+    "label": "espanja - haiti",
+    "value": "es ht"
+  },
+  {
+    "label": "espanja - hausa",
+    "value": "es ha"
+  },
+  {
+    "label": "espanja - heprea",
+    "value": "es he"
+  },
+  {
+    "label": "espanja - hiligaino",
+    "value": "es hil"
+  },
+  {
+    "label": "espanja - hiri-motu",
+    "value": "es ho"
+  },
+  {
+    "label": "espanja - hollanti",
+    "value": "es nl"
+  },
+  {
+    "label": "espanja - igbo",
+    "value": "es ig"
+  },
+  {
+    "label": "espanja - iloko",
+    "value": "es ilo"
+  },
+  {
+    "label": "espanja - indonesia",
+    "value": "es id"
+  },
+  {
+    "label": "espanja - islanti",
+    "value": "es is"
+  },
+  {
+    "label": "espanja - Isoko",
+    "value": "es iso"
+  },
+  {
+    "label": "espanja - Isthmus Zapotec",
+    "value": "es zai"
+  },
+  {
+    "label": "espanja - italia",
+    "value": "es it"
+  },
+  {
+    "label": "espanja - joruba",
+    "value": "es yo"
+  },
+  {
+    "label": "espanja - katalaani",
+    "value": "es ca"
+  },
+  {
+    "label": "espanja - kiribati",
+    "value": "es gil"
+  },
+  {
+    "label": "espanja - kongo",
+    "value": "es kg"
+  },
+  {
+    "label": "espanja - kreikka",
+    "value": "es el"
+  },
+  {
+    "label": "espanja - kroatia",
+    "value": "es hr"
+  },
+  {
+    "label": "espanja - liettua",
+    "value": "es lt"
+  },
+  {
+    "label": "espanja - lingala",
+    "value": "es ln"
+  },
+  {
+    "label": "espanja - lozi",
+    "value": "es loz"
+  },
+  {
+    "label": "espanja - luluanluba",
+    "value": "es lua"
+  },
+  {
+    "label": "espanja - lusai",
+    "value": "es lus"
+  },
+  {
+    "label": "espanja - makedonia",
+    "value": "es mk"
+  },
+  {
+    "label": "espanja - malta",
+    "value": "es mt"
+  },
+  {
+    "label": "espanja - Mexican Sign Language",
+    "value": "es mfs"
+  },
+  {
+    "label": "espanja - niue",
+    "value": "es niu"
+  },
+  {
+    "label": "espanja - njand\u017ea",
+    "value": "es ny"
+  },
+  {
+    "label": "espanja - norja",
+    "value": "es no"
+  },
+  {
+    "label": "espanja - pangasinan",
+    "value": "es pag"
+  },
+  {
+    "label": "espanja - papiamentu",
+    "value": "es pap"
+  },
+  {
+    "label": "espanja - Peruvian Sign Language",
+    "value": "es prl"
+  },
+  {
+    "label": "espanja - Pijin",
+    "value": "es pis"
+  },
+  {
+    "label": "espanja - pohjoissotho",
+    "value": "es nso"
+  },
+  {
+    "label": "espanja - pohnpei",
+    "value": "es pon"
+  },
+  {
+    "label": "espanja - puola",
+    "value": "es pl"
+  },
+  {
+    "label": "espanja - ranska",
+    "value": "es fr"
+  },
+  {
+    "label": "espanja - romania",
+    "value": "es ro"
+  },
+  {
+    "label": "espanja - ruanda",
+    "value": "es rw"
+  },
+  {
+    "label": "espanja - rundi",
+    "value": "es rn"
+  },
+  {
+    "label": "espanja - saksa",
+    "value": "es de"
+  },
+  {
+    "label": "espanja - samoa",
+    "value": "es sm"
+  },
+  {
+    "label": "espanja - sango",
+    "value": "es sg"
+  },
+  {
+    "label": "espanja - seychellienkreoli",
+    "value": "es crs"
+  },
+  {
+    "label": "espanja - sloveeni",
+    "value": "es sl"
+  },
+  {
+    "label": "espanja - \u0161ona",
+    "value": "es sn"
+  },
+  {
+    "label": "espanja - sranan",
+    "value": "es srn"
+  },
+  {
+    "label": "espanja - suomi",
+    "value": "es fi"
+  },
+  {
+    "label": "espanja - swahili (Kongon demokraattinen tasavalta)",
+    "value": "es swc"
+  },
+  {
+    "label": "espanja - tahiti",
+    "value": "es ty"
+  },
+  {
+    "label": "espanja - tanska",
+    "value": "es da"
+  },
+  {
+    "label": "espanja - Tetela",
+    "value": "es tll"
+  },
+  {
+    "label": "espanja - tok-pisin",
+    "value": "es tpi"
+  },
+  {
+    "label": "espanja - tonga",
+    "value": "es to"
+  },
+  {
+    "label": "espanja - t\u0161ekki",
+    "value": "es cs"
+  },
+  {
+    "label": "espanja - tswana",
+    "value": "es tn"
+  },
+  {
+    "label": "espanja - tuvalu",
+    "value": "es tvl"
+  },
+  {
+    "label": "espanja - twi",
+    "value": "es tw"
+  },
+  {
+    "label": "espanja - Tzotzil",
+    "value": "es tzo"
+  },
+  {
+    "label": "espanja - ukraina",
+    "value": "es uk"
+  },
+  {
+    "label": "espanja - venda",
+    "value": "es ve"
+  },
+  {
+    "label": "espanja - ven\u00e4j\u00e4",
+    "value": "es ru"
+  },
+  {
+    "label": "espanja - vietnam",
+    "value": "es vi"
+  },
+  {
+    "label": "espanja - viro",
+    "value": "es et"
+  },
+  {
+    "label": "espanja - Wallisian",
+    "value": "es wls"
+  },
+  {
+    "label": "espanja - waray",
+    "value": "es war"
+  },
+  {
+    "label": "espanja - xhosa",
+    "value": "es xh"
+  },
+  {
+    "label": "espanja - Yucateco",
+    "value": "es yua"
+  },
+  {
+    "label": "esperanto - afrikaans",
+    "value": "eo af"
+  },
+  {
+    "label": "esperanto - bulgaria",
+    "value": "eo bg"
+  },
+  {
+    "label": "esperanto - englanti",
+    "value": "eo en"
+  },
+  {
+    "label": "esperanto - espanja",
+    "value": "eo es"
+  },
+  {
+    "label": "esperanto - heprea",
+    "value": "eo he"
+  },
+  {
+    "label": "esperanto - hollanti",
+    "value": "eo nl"
+  },
+  {
+    "label": "esperanto - italia",
+    "value": "eo it"
+  },
+  {
+    "label": "esperanto - kreikka",
+    "value": "eo el"
+  },
+  {
+    "label": "esperanto - portugali",
+    "value": "eo pt"
+  },
+  {
+    "label": "esperanto - puola",
+    "value": "eo pl"
+  },
+  {
+    "label": "esperanto - ranska",
+    "value": "eo fr"
+  },
+  {
+    "label": "esperanto - romania",
+    "value": "eo ro"
+  },
+  {
+    "label": "esperanto - ruotsi",
+    "value": "eo sv"
+  },
+  {
+    "label": "esperanto - saksa",
+    "value": "eo de"
+  },
+  {
+    "label": "esperanto - serbia (latinalainen)",
+    "value": "eo sh"
+  },
+  {
+    "label": "esperanto - suomi",
+    "value": "eo fi"
+  },
+  {
+    "label": "esperanto - tanska",
+    "value": "eo da"
+  },
+  {
+    "label": "esperanto - t\u0161ekki",
+    "value": "eo cs"
+  },
+  {
+    "label": "esperanto - unkari",
+    "value": "eo hu"
+  },
+  {
+    "label": "esperanto - ven\u00e4j\u00e4",
+    "value": "eo ru"
+  },
+  {
+    "label": "etel\u00e4sotho - englanti",
+    "value": "st en"
+  },
+  {
+    "label": "etel\u00e4sotho - espanja",
+    "value": "st es"
+  },
+  {
+    "label": "etel\u00e4sotho - ranska",
+    "value": "st fr"
+  },
+  {
+    "label": "etel\u00e4sotho - ruotsi",
+    "value": "st sv"
+  },
+  {
+    "label": "etel\u00e4sotho - suomi",
+    "value": "st fi"
+  },
+  {
+    "label": "ewe - englanti",
+    "value": "ee en"
+  },
+  {
+    "label": "ewe - espanja",
+    "value": "ee es"
+  },
+  {
+    "label": "ewe - ranska",
+    "value": "ee fr"
+  },
+  {
+    "label": "ewe - ruotsi",
+    "value": "ee sv"
+  },
+  {
+    "label": "ewe - saksa",
+    "value": "ee de"
+  },
+  {
+    "label": "ewe - suomi",
+    "value": "ee fi"
+  },
+  {
+    "label": "fid\u017ei - englanti",
+    "value": "fj en"
+  },
+  {
+    "label": "fid\u017ei - ranska",
+    "value": "fj fr"
+  },
+  {
+    "label": "filipino - englanti",
+    "value": "tl en"
+  },
+  {
+    "label": "filipino - espanja",
+    "value": "tl es"
+  },
+  {
+    "label": "filipino - portugali",
+    "value": "tl pt"
+  },
+  {
+    "label": "filipino - saksa",
+    "value": "tl de"
+  },
+  {
+    "label": "Finnish Sign Language - suomi",
+    "value": "fse fi"
+  },
+  {
+    "label": "Finno-Ugrian languages - englanti",
+    "value": "fiu en"
+  },
+  {
+    "label": "Finno-Ugrian languages - Finno-Ugrian languages",
+    "value": "fiu fiu"
+  },
+  {
+    "label": "French-based creoles and pidgins - englanti",
+    "value": "cpf en"
+  },
+  {
+    "label": "ga - englanti",
+    "value": "gaa en"
+  },
+  {
+    "label": "ga - espanja",
+    "value": "gaa es"
+  },
+  {
+    "label": "galicia - englanti",
+    "value": "gl en"
+  },
+  {
+    "label": "galicia - espanja",
+    "value": "gl es"
+  },
+  {
+    "label": "galicia - portugali",
+    "value": "gl pt"
+  },
+  {
+    "label": "ganda - englanti",
+    "value": "lg en"
+  },
+  {
+    "label": "ganda - espanja",
+    "value": "lg es"
+  },
+  {
+    "label": "ganda - ranska",
+    "value": "lg fr"
+  },
+  {
+    "label": "ganda - ruotsi",
+    "value": "lg sv"
+  },
+  {
+    "label": "ganda - suomi",
+    "value": "lg fi"
+  },
+  {
+    "label": "ga - ranska",
+    "value": "gaa fr"
+  },
+  {
+    "label": "ga - ruotsi",
+    "value": "gaa sv"
+  },
+  {
+    "label": "ga - saksa",
+    "value": "gaa de"
+  },
+  {
+    "label": "ga - suomi",
+    "value": "gaa fi"
+  },
+  {
+    "label": "georgia - englanti",
+    "value": "ka en"
+  },
+  {
+    "label": "georgia - ven\u00e4j\u00e4",
+    "value": "ka ru"
+  },
+  {
+    "label": "Germanic languages - englanti",
+    "value": "gem en"
+  },
+  {
+    "label": "Germanic languages - Germanic languages",
+    "value": "gem gem"
+  },
+  {
+    "label": "Greek languages - englanti",
+    "value": "grk en"
+  },
+  {
+    "label": "Gun - englanti",
+    "value": "guw en"
+  },
+  {
+    "label": "Gun - espanja",
+    "value": "guw es"
+  },
+  {
+    "label": "Gun - ranska",
+    "value": "guw fr"
+  },
+  {
+    "label": "Gun - ruotsi",
+    "value": "guw sv"
+  },
+  {
+    "label": "Gun - saksa",
+    "value": "guw de"
+  },
+  {
+    "label": "Gun - suomi",
+    "value": "guw fi"
+  },
+  {
+    "label": "haiti - englanti",
+    "value": "ht en"
+  },
+  {
+    "label": "haiti - espanja",
+    "value": "ht es"
+  },
+  {
+    "label": "haiti - ranska",
+    "value": "ht fr"
+  },
+  {
+    "label": "haiti - ruotsi",
+    "value": "ht sv"
+  },
+  {
+    "label": "haiti - suomi",
+    "value": "ht fi"
+  },
+  {
+    "label": "hausa - englanti",
+    "value": "ha en"
+  },
+  {
+    "label": "hausa - espanja",
+    "value": "ha es"
+  },
+  {
+    "label": "hausa - ranska",
+    "value": "ha fr"
+  },
+  {
+    "label": "hausa - ruotsi",
+    "value": "ha sv"
+  },
+  {
+    "label": "hausa - suomi",
+    "value": "ha fi"
+  },
+  {
+    "label": "heprea - arabia",
+    "value": "he ar"
+  },
+  {
+    "label": "heprea - espanja",
+    "value": "he es"
+  },
+  {
+    "label": "heprea - esperanto",
+    "value": "he eo"
+  },
+  {
+    "label": "heprea - italia",
+    "value": "he it"
+  },
+  {
+    "label": "heprea - ranska",
+    "value": "he fr"
+  },
+  {
+    "label": "heprea - ruotsi",
+    "value": "he sv"
+  },
+  {
+    "label": "heprea - saksa",
+    "value": "he de"
+  },
+  {
+    "label": "heprea - suomi",
+    "value": "he fi"
+  },
+  {
+    "label": "heprea - ukraina",
+    "value": "he uk"
+  },
+  {
+    "label": "heprea - ven\u00e4j\u00e4",
+    "value": "he ru"
+  },
+  {
+    "label": "hiligaino - englanti",
+    "value": "hil en"
+  },
+  {
+    "label": "hiligaino - saksa",
+    "value": "hil de"
+  },
+  {
+    "label": "hiligaino - suomi",
+    "value": "hil fi"
+  },
+  {
+    "label": "hindi - englanti",
+    "value": "hi en"
+  },
+  {
+    "label": "hindi - urdu",
+    "value": "hi ur"
+  },
+  {
+    "label": "hiri-motu - englanti",
+    "value": "ho en"
+  },
+  {
+    "label": "hollanti - afrikaans",
+    "value": "nl af"
+  },
+  {
+    "label": "hollanti - englanti",
+    "value": "nl en"
+  },
+  {
+    "label": "hollanti - espanja",
+    "value": "nl es"
+  },
+  {
+    "label": "hollanti - esperanto",
+    "value": "nl eo"
+  },
+  {
+    "label": "hollanti - katalaani",
+    "value": "nl ca"
+  },
+  {
+    "label": "hollanti - norja",
+    "value": "nl no"
+  },
+  {
+    "label": "hollanti - ranska",
+    "value": "nl fr"
+  },
+  {
+    "label": "hollanti - ruotsi",
+    "value": "nl sv"
+  },
+  {
+    "label": "hollanti - suomi",
+    "value": "nl fi"
+  },
+  {
+    "label": "hollanti - ukraina",
+    "value": "nl uk"
+  },
+  {
+    "label": "igbo - englanti",
+    "value": "ig en"
+  },
+  {
+    "label": "igbo - espanja",
+    "value": "ig es"
+  },
+  {
+    "label": "igbo - ranska",
+    "value": "ig fr"
+  },
+  {
+    "label": "igbo - ruotsi",
+    "value": "ig sv"
+  },
+  {
+    "label": "igbo - saksa",
+    "value": "ig de"
+  },
+  {
+    "label": "igbo - suomi",
+    "value": "ig fi"
+  },
+  {
+    "label": "iiri - englanti",
+    "value": "ga en"
+  },
+  {
+    "label": "iloko - englanti",
+    "value": "ilo en"
+  },
+  {
+    "label": "iloko - espanja",
+    "value": "ilo es"
+  },
+  {
+    "label": "iloko - ruotsi",
+    "value": "ilo sv"
+  },
+  {
+    "label": "iloko - saksa",
+    "value": "ilo de"
+  },
+  {
+    "label": "iloko - suomi",
+    "value": "ilo fi"
+  },
+  {
+    "label": "Indic languages - englanti",
+    "value": "inc en"
+  },
+  {
+    "label": "Indic languages - Indic languages",
+    "value": "inc inc"
+  },
+  {
+    "label": "Indo-European languages - englanti",
+    "value": "ine en"
+  },
+  {
+    "label": "Indo-European languages - Indo-European languages",
+    "value": "ine ine"
+  },
+  {
+    "label": "Indo-Iranian languages - englanti",
+    "value": "iir en"
+  },
+  {
+    "label": "Indo-Iranian languages - Indo-Iranian languages",
+    "value": "iir iir"
+  },
+  {
+    "label": "indonesia - englanti",
+    "value": "id en"
+  },
+  {
+    "label": "indonesia - espanja",
+    "value": "id es"
+  },
+  {
+    "label": "indonesia - ranska",
+    "value": "id fr"
+  },
+  {
+    "label": "indonesia - ruotsi",
+    "value": "id sv"
+  },
+  {
+    "label": "indonesia - suomi",
+    "value": "id fi"
+  },
+  {
+    "label": "islanti - englanti",
+    "value": "is en"
+  },
+  {
+    "label": "islanti - espanja",
+    "value": "is es"
+  },
+  {
+    "label": "islanti - esperanto",
+    "value": "is eo"
+  },
+  {
+    "label": "islanti - italia",
+    "value": "is it"
+  },
+  {
+    "label": "islanti - ranska",
+    "value": "is fr"
+  },
+  {
+    "label": "islanti - ruotsi",
+    "value": "is sv"
+  },
+  {
+    "label": "islanti - saksa",
+    "value": "is de"
+  },
+  {
+    "label": "islanti - suomi",
+    "value": "is fi"
+  },
+  {
+    "label": "Isoko - englanti",
+    "value": "iso en"
+  },
+  {
+    "label": "Isoko - espanja",
+    "value": "iso es"
+  },
+  {
+    "label": "Isoko - ranska",
+    "value": "iso fr"
+  },
+  {
+    "label": "Isoko - ruotsi",
+    "value": "iso sv"
+  },
+  {
+    "label": "Isoko - suomi",
+    "value": "iso fi"
+  },
+  {
+    "label": "Isthmus Zapotec - espanja",
+    "value": "zai es"
+  },
+  {
+    "label": "italia - arabia",
+    "value": "it ar"
+  },
+  {
+    "label": "italia - bulgaria",
+    "value": "it bg"
+  },
+  {
+    "label": "italia - englanti",
+    "value": "it en"
+  },
+  {
+    "label": "italia - espanja",
+    "value": "it es"
+  },
+  {
+    "label": "italia - esperanto",
+    "value": "it eo"
+  },
+  {
+    "label": "italia - islanti",
+    "value": "it is"
+  },
+  {
+    "label": "italia - katalaani",
+    "value": "it ca"
+  },
+  {
+    "label": "italia - liettua",
+    "value": "it lt"
+  },
+  {
+    "label": "italia - malaiji",
+    "value": "it ms"
+  },
+  {
+    "label": "italia - ranska",
+    "value": "it fr"
+  },
+  {
+    "label": "italia - ruotsi",
+    "value": "it sv"
+  },
+  {
+    "label": "italia - saksa",
+    "value": "it de"
+  },
+  {
+    "label": "italia - ukraina",
+    "value": "it uk"
+  },
+  {
+    "label": "italia - vietnam",
+    "value": "it vi"
+  },
+  {
+    "label": "Italic languages - englanti",
+    "value": "itc en"
+  },
+  {
+    "label": "Italic languages - Italic languages",
+    "value": "itc itc"
+  },
+  {
+    "label": "japani - arabia",
+    "value": "ja ar"
+  },
+  {
+    "label": "japani - bulgaria",
+    "value": "ja bg"
+  },
+  {
+    "label": "japani - englanti",
+    "value": "ja en"
+  },
+  {
+    "label": "japani - espanja",
+    "value": "ja es"
+  },
+  {
+    "label": "japani - heprea",
+    "value": "ja he"
+  },
+  {
+    "label": "japani - hollanti",
+    "value": "ja nl"
+  },
+  {
+    "label": "japani - italia",
+    "value": "ja it"
+  },
+  {
+    "label": "japani - malaiji",
+    "value": "ja ms"
+  },
+  {
+    "label": "japani - portugali",
+    "value": "ja pt"
+  },
+  {
+    "label": "japani - puola",
+    "value": "ja pl"
+  },
+  {
+    "label": "japani - ranska",
+    "value": "ja fr"
+  },
+  {
+    "label": "japani - ruotsi",
+    "value": "ja sv"
+  },
+  {
+    "label": "japani - saksa",
+    "value": "ja de"
+  },
+  {
+    "label": "japani - serbia (latinalainen)",
+    "value": "ja sh"
+  },
+  {
+    "label": "japani - suomi",
+    "value": "ja fi"
+  },
+  {
+    "label": "japani - tanska",
+    "value": "ja da"
+  },
+  {
+    "label": "japani - turkki",
+    "value": "ja tr"
+  },
+  {
+    "label": "japani - unkari",
+    "value": "ja hu"
+  },
+  {
+    "label": "japani - ven\u00e4j\u00e4",
+    "value": "ja ru"
+  },
+  {
+    "label": "japani - vietnam",
+    "value": "ja vi"
+  },
+  {
+    "label": "japi - englanti",
+    "value": "yap en"
+  },
+  {
+    "label": "japi - ranska",
+    "value": "yap fr"
+  },
+  {
+    "label": "japi - ruotsi",
+    "value": "yap sv"
+  },
+  {
+    "label": "joruba - englanti",
+    "value": "yo en"
+  },
+  {
+    "label": "joruba - espanja",
+    "value": "yo es"
+  },
+  {
+    "label": "joruba - ranska",
+    "value": "yo fr"
+  },
+  {
+    "label": "joruba - ruotsi",
+    "value": "yo sv"
+  },
+  {
+    "label": "joruba - suomi",
+    "value": "yo fi"
+  },
+  {
+    "label": "kabyyli - englanti",
+    "value": "kab en"
+  },
+  {
+    "label": "kalaallisut - englanti",
+    "value": "kl en"
+  },
+  {
+    "label": "Kalam-Tai - englanti",
+    "value": "taw en"
+  },
+  {
+    "label": "Kaonde - englanti",
+    "value": "kqn en"
+  },
+  {
+    "label": "Kaonde - espanja",
+    "value": "kqn es"
+  },
+  {
+    "label": "Kaonde - ranska",
+    "value": "kqn fr"
+  },
+  {
+    "label": "Kaonde - ruotsi",
+    "value": "kqn sv"
+  },
+  {
+    "label": "katalaani - englanti",
+    "value": "ca en"
+  },
+  {
+    "label": "katalaani - espanja",
+    "value": "ca es"
+  },
+  {
+    "label": "katalaani - hollanti",
+    "value": "ca nl"
+  },
+  {
+    "label": "katalaani - italia",
+    "value": "ca it"
+  },
+  {
+    "label": "katalaani - portugali",
+    "value": "ca pt"
+  },
+  {
+    "label": "katalaani - ranska",
+    "value": "ca fr"
+  },
+  {
+    "label": "katalaani - saksa",
+    "value": "ca de"
+  },
+  {
+    "label": "katalaani - ukraina",
+    "value": "ca uk"
+  },
+  {
+    "label": "katanganluba - englanti",
+    "value": "lu en"
+  },
+  {
+    "label": "katanganluba - espanja",
+    "value": "lu es"
+  },
+  {
+    "label": "katanganluba - ranska",
+    "value": "lu fr"
+  },
+  {
+    "label": "katanganluba - ruotsi",
+    "value": "lu sv"
+  },
+  {
+    "label": "katanganluba - suomi",
+    "value": "lu fi"
+  },
+  {
+    "label": "kiina - bulgaria",
+    "value": "zh bg"
+  },
+  {
+    "label": "kiina - englanti",
+    "value": "zh en"
+  },
+  {
+    "label": "kiina - heprea",
+    "value": "zh he"
+  },
+  {
+    "label": "kiina - hollanti",
+    "value": "zh nl"
+  },
+  {
+    "label": "kiina - italia",
+    "value": "zh it"
+  },
+  {
+    "label": "kiina - malaiji",
+    "value": "zh ms"
+  },
+  {
+    "label": "kiina - ruotsi",
+    "value": "zh sv"
+  },
+  {
+    "label": "kiina - saksa",
+    "value": "zh de"
+  },
+  {
+    "label": "kiina - suomi",
+    "value": "zh fi"
+  },
+  {
+    "label": "kiina - ukraina",
+    "value": "zh uk"
+  },
+  {
+    "label": "kiina - vietnam",
+    "value": "zh vi"
+  },
+  {
+    "label": "kiribati - englanti",
+    "value": "gil en"
+  },
+  {
+    "label": "kiribati - espanja",
+    "value": "gil es"
+  },
+  {
+    "label": "kiribati - ranska",
+    "value": "gil fr"
+  },
+  {
+    "label": "kiribati - ruotsi",
+    "value": "gil sv"
+  },
+  {
+    "label": "kiribati - suomi",
+    "value": "gil fi"
+  },
+  {
+    "label": "kongo - englanti",
+    "value": "kg en"
+  },
+  {
+    "label": "kongo - espanja",
+    "value": "kg es"
+  },
+  {
+    "label": "kongo - ranska",
+    "value": "kg fr"
+  },
+  {
+    "label": "kongo - ruotsi",
+    "value": "kg sv"
+  },
+  {
+    "label": "korea - englanti",
+    "value": "ko en"
+  },
+  {
+    "label": "korea - espanja",
+    "value": "ko es"
+  },
+  {
+    "label": "korea - ranska",
+    "value": "ko fr"
+  },
+  {
+    "label": "korea - ruotsi",
+    "value": "ko sv"
+  },
+  {
+    "label": "korea - saksa",
+    "value": "ko de"
+  },
+  {
+    "label": "korea - suomi",
+    "value": "ko fi"
+  },
+  {
+    "label": "korea - unkari",
+    "value": "ko hu"
+  },
+  {
+    "label": "korea - ven\u00e4j\u00e4",
+    "value": "ko ru"
+  },
+  {
+    "label": "kreikka - arabia",
+    "value": "el ar"
+  },
+  {
+    "label": "kreikka - esperanto",
+    "value": "el eo"
+  },
+  {
+    "label": "kreikka - ranska",
+    "value": "el fr"
+  },
+  {
+    "label": "kreikka - ruotsi",
+    "value": "el sv"
+  },
+  {
+    "label": "kreikka - suomi",
+    "value": "el fi"
+  },
+  {
+    "label": "kroatia - espanja",
+    "value": "hr es"
+  },
+  {
+    "label": "kroatia - ranska",
+    "value": "hr fr"
+  },
+  {
+    "label": "kroatia - ruotsi",
+    "value": "hr sv"
+  },
+  {
+    "label": "kroatia - suomi",
+    "value": "hr fi"
+  },
+  {
+    "label": "kuanjama - englanti",
+    "value": "kj en"
+  },
+  {
+    "label": "Kwangali - englanti",
+    "value": "kwn en"
+  },
+  {
+    "label": "kymri - englanti",
+    "value": "cy en"
+  },
+  {
+    "label": "latvia - englanti",
+    "value": "lv en"
+  },
+  {
+    "label": "latvia - espanja",
+    "value": "lv es"
+  },
+  {
+    "label": "latvia - ranska",
+    "value": "lv fr"
+  },
+  {
+    "label": "latvia - ruotsi",
+    "value": "lv sv"
+  },
+  {
+    "label": "latvia - suomi",
+    "value": "lv fi"
+  },
+  {
+    "label": "latvia - ven\u00e4j\u00e4",
+    "value": "lv ru"
+  },
+  {
+    "label": "liettua - espanja",
+    "value": "lt es"
+  },
+  {
+    "label": "liettua - esperanto",
+    "value": "lt eo"
+  },
+  {
+    "label": "liettua - italia",
+    "value": "lt it"
+  },
+  {
+    "label": "liettua - puola",
+    "value": "lt pl"
+  },
+  {
+    "label": "liettua - ranska",
+    "value": "lt fr"
+  },
+  {
+    "label": "liettua - ruotsi",
+    "value": "lt sv"
+  },
+  {
+    "label": "liettua - saksa",
+    "value": "lt de"
+  },
+  {
+    "label": "liettua - turkki",
+    "value": "lt tr"
+  },
+  {
+    "label": "liettua - ven\u00e4j\u00e4",
+    "value": "lt ru"
+  },
+  {
+    "label": "lingala - englanti",
+    "value": "ln en"
+  },
+  {
+    "label": "lingala - espanja",
+    "value": "ln es"
+  },
+  {
+    "label": "lingala - ranska",
+    "value": "ln fr"
+  },
+  {
+    "label": "lingala - saksa",
+    "value": "ln de"
+  },
+  {
+    "label": "lozi - englanti",
+    "value": "loz en"
+  },
+  {
+    "label": "lozi - espanja",
+    "value": "loz es"
+  },
+  {
+    "label": "lozi - ranska",
+    "value": "loz fr"
+  },
+  {
+    "label": "lozi - ruotsi",
+    "value": "loz sv"
+  },
+  {
+    "label": "lozi - saksa",
+    "value": "loz de"
+  },
+  {
+    "label": "lozi - suomi",
+    "value": "loz fi"
+  },
+  {
+    "label": "luluanluba - englanti",
+    "value": "lua en"
+  },
+  {
+    "label": "luluanluba - espanja",
+    "value": "lua es"
+  },
+  {
+    "label": "luluanluba - ranska",
+    "value": "lua fr"
+  },
+  {
+    "label": "luluanluba - ruotsi",
+    "value": "lua sv"
+  },
+  {
+    "label": "luluanluba - suomi",
+    "value": "lua fi"
+  },
+  {
+    "label": "lunda - englanti",
+    "value": "lun en"
+  },
+  {
+    "label": "Luo (Kenya and Tanzania) - englanti",
+    "value": "luo en"
+  },
+  {
+    "label": "lusai - englanti",
+    "value": "lus en"
+  },
+  {
+    "label": "lusai - espanja",
+    "value": "lus es"
+  },
+  {
+    "label": "lusai - ranska",
+    "value": "lus fr"
+  },
+  {
+    "label": "lusai - ruotsi",
+    "value": "lus sv"
+  },
+  {
+    "label": "lusai - suomi",
+    "value": "lus fi"
+  },
+  {
+    "label": "Luvale - englanti",
+    "value": "lue en"
+  },
+  {
+    "label": "Luvale - espanja",
+    "value": "lue es"
+  },
+  {
+    "label": "Luvale - ranska",
+    "value": "lue fr"
+  },
+  {
+    "label": "Luvale - ruotsi",
+    "value": "lue sv"
+  },
+  {
+    "label": "Luvale - suomi",
+    "value": "lue fi"
+  },
+  {
+    "label": "makedonia - englanti",
+    "value": "mk en"
+  },
+  {
+    "label": "makedonia - espanja",
+    "value": "mk es"
+  },
+  {
+    "label": "makedonia - ranska",
+    "value": "mk fr"
+  },
+  {
+    "label": "makedonia - suomi",
+    "value": "mk fi"
+  },
+  {
+    "label": "malagassi - englanti",
+    "value": "mg en"
+  },
+  {
+    "label": "malagassi - espanja",
+    "value": "mg es"
+  },
+  {
+    "label": "malaiji - italia",
+    "value": "ms it"
+  },
+  {
+    "label": "malaiji - malaiji",
+    "value": "ms ms"
+  },
+  {
+    "label": "malaiji - ranska",
+    "value": "ms fr"
+  },
+  {
+    "label": "malaiji - saksa",
+    "value": "ms de"
+  },
+  {
+    "label": "malajalam - englanti",
+    "value": "ml en"
+  },
+  {
+    "label": "malta - englanti",
+    "value": "mt en"
+  },
+  {
+    "label": "malta - espanja",
+    "value": "mt es"
+  },
+  {
+    "label": "malta - ranska",
+    "value": "mt fr"
+  },
+  {
+    "label": "malta - ruotsi",
+    "value": "mt sv"
+  },
+  {
+    "label": "malta - suomi",
+    "value": "mt fi"
+  },
+  {
+    "label": "manksi - englanti",
+    "value": "gv en"
+  },
+  {
+    "label": "marathi - englanti",
+    "value": "mr en"
+  },
+  {
+    "label": "marshall - englanti",
+    "value": "mh en"
+  },
+  {
+    "label": "marshall - espanja",
+    "value": "mh es"
+  },
+  {
+    "label": "marshall - suomi",
+    "value": "mh fi"
+  },
+  {
+    "label": "mbundu - englanti",
+    "value": "umb en"
+  },
+  {
+    "label": "Mexican Sign Language - espanja",
+    "value": "mfs es"
+  },
+  {
+    "label": "Mon-Khmer languages - englanti",
+    "value": "mkh en"
+  },
+  {
+    "label": "morisyen - englanti",
+    "value": "mfe en"
+  },
+  {
+    "label": "morisyen - espanja",
+    "value": "mfe es"
+  },
+  {
+    "label": "mossi - englanti",
+    "value": "mos en"
+  },
+  {
+    "label": "ndonga - englanti",
+    "value": "ng en"
+  },
+  {
+    "label": "Niger-Kordofanian languages - englanti",
+    "value": "nic en"
+  },
+  {
+    "label": "niue - englanti",
+    "value": "niu en"
+  },
+  {
+    "label": "niue - espanja",
+    "value": "niu es"
+  },
+  {
+    "label": "niue - ranska",
+    "value": "niu fr"
+  },
+  {
+    "label": "niue - ruotsi",
+    "value": "niu sv"
+  },
+  {
+    "label": "niue - saksa",
+    "value": "niu de"
+  },
+  {
+    "label": "niue - suomi",
+    "value": "niu fi"
+  },
+  {
+    "label": "njand\u017ea - englanti",
+    "value": "ny en"
+  },
+  {
+    "label": "njand\u017ea - espanja",
+    "value": "ny es"
+  },
+  {
+    "label": "njand\u017ea - saksa",
+    "value": "ny de"
+  },
+  {
+    "label": "norja - espanja",
+    "value": "no es"
+  },
+  {
+    "label": "norja - hollanti",
+    "value": "no nl"
+  },
+  {
+    "label": "norja - norja",
+    "value": "no no"
+  },
+  {
+    "label": "norja - puola",
+    "value": "no pl"
+  },
+  {
+    "label": "norja - ranska",
+    "value": "no fr"
+  },
+  {
+    "label": "norja - ruotsi",
+    "value": "no sv"
+  },
+  {
+    "label": "norja - saksa",
+    "value": "no de"
+  },
+  {
+    "label": "norja - suomi",
+    "value": "no fi"
+  },
+  {
+    "label": "norja - tanska",
+    "value": "no da"
+  },
+  {
+    "label": "norja - ukraina",
+    "value": "no uk"
+  },
+  {
+    "label": "norja - ven\u00e4j\u00e4",
+    "value": "no ru"
+  },
+  {
+    "label": "North Germanic languages - englanti",
+    "value": "gmq en"
+  },
+  {
+    "label": "North Germanic languages - North Germanic languages",
+    "value": "gmq gmq"
+  },
+  {
+    "label": "Nyaneka - englanti",
+    "value": "nyk en"
+  },
+  {
+    "label": "oromo - englanti",
+    "value": "om en"
+  },
+  {
+    "label": "pand\u017eabi - englanti",
+    "value": "pa en"
+  },
+  {
+    "label": "pangasinan - englanti",
+    "value": "pag en"
+  },
+  {
+    "label": "pangasinan - espanja",
+    "value": "pag es"
+  },
+  {
+    "label": "pangasinan - ruotsi",
+    "value": "pag sv"
+  },
+  {
+    "label": "pangasinan - saksa",
+    "value": "pag de"
+  },
+  {
+    "label": "pangasinan - suomi",
+    "value": "pag fi"
+  },
+  {
+    "label": "papiamentu - englanti",
+    "value": "pap en"
+  },
+  {
+    "label": "papiamentu - espanja",
+    "value": "pap es"
+  },
+  {
+    "label": "papiamentu - ranska",
+    "value": "pap fr"
+  },
+  {
+    "label": "papiamentu - saksa",
+    "value": "pap de"
+  },
+  {
+    "label": "papiamentu - suomi",
+    "value": "pap fi"
+  },
+  {
+    "label": "Peruvian Sign Language - espanja",
+    "value": "prl es"
+  },
+  {
+    "label": "Philippine languages - englanti",
+    "value": "phi en"
+  },
+  {
+    "label": "Pijin - englanti",
+    "value": "pis en"
+  },
+  {
+    "label": "Pijin - espanja",
+    "value": "pis es"
+  },
+  {
+    "label": "Pijin - ranska",
+    "value": "pis fr"
+  },
+  {
+    "label": "Pijin - ruotsi",
+    "value": "pis sv"
+  },
+  {
+    "label": "Pijin - suomi",
+    "value": "pis fi"
+  },
+  {
+    "label": "pohjoissotho - englanti",
+    "value": "nso en"
+  },
+  {
+    "label": "pohjoissotho - espanja",
+    "value": "nso es"
+  },
+  {
+    "label": "pohjoissotho - ranska",
+    "value": "nso fr"
+  },
+  {
+    "label": "pohjoissotho - ruotsi",
+    "value": "nso sv"
+  },
+  {
+    "label": "pohjoissotho - saksa",
+    "value": "nso de"
+  },
+  {
+    "label": "pohjoissotho - suomi",
+    "value": "nso fi"
+  },
+  {
+    "label": "pohnpei - englanti",
+    "value": "pon en"
+  },
+  {
+    "label": "pohnpei - espanja",
+    "value": "pon es"
+  },
+  {
+    "label": "pohnpei - ranska",
+    "value": "pon fr"
+  },
+  {
+    "label": "pohnpei - ruotsi",
+    "value": "pon sv"
+  },
+  {
+    "label": "pohnpei - suomi",
+    "value": "pon fi"
+  },
+  {
+    "label": "portugali - esperanto",
+    "value": "pt eo"
+  },
+  {
+    "label": "portugali - filipino",
+    "value": "pt tl"
+  },
+  {
+    "label": "portugali - galicia",
+    "value": "pt gl"
+  },
+  {
+    "label": "portugali - katalaani",
+    "value": "pt ca"
+  },
+  {
+    "label": "portugali - ukraina",
+    "value": "pt uk"
+  },
+  {
+    "label": "Portuguese-based creoles and pidgins - englanti",
+    "value": "cpp en"
+  },
+  {
+    "label": "Portuguese-based creoles and pidgins - Portuguese-based creoles and pidgins",
+    "value": "cpp cpp"
+  },
+  {
+    "label": "puola - arabia",
+    "value": "pl ar"
+  },
+  {
+    "label": "puola - englanti",
+    "value": "pl en"
+  },
+  {
+    "label": "puola - espanja",
+    "value": "pl es"
+  },
+  {
+    "label": "puola - esperanto",
+    "value": "pl eo"
+  },
+  {
+    "label": "puola - liettua",
+    "value": "pl lt"
+  },
+  {
+    "label": "puola - norja",
+    "value": "pl no"
+  },
+  {
+    "label": "puola - ranska",
+    "value": "pl fr"
+  },
+  {
+    "label": "puola - ruotsi",
+    "value": "pl sv"
+  },
+  {
+    "label": "puola - saksa",
+    "value": "pl de"
+  },
+  {
+    "label": "puola - ukraina",
+    "value": "pl uk"
+  },
+  {
+    "label": "ranska - afrikaans",
+    "value": "fr af"
+  },
+  {
+    "label": "ranska - amerikkalainen viittomakieli",
+    "value": "fr ase"
+  },
+  {
+    "label": "ranska - arabia",
+    "value": "fr ar"
+  },
+  {
+    "label": "ranska - bemba",
+    "value": "fr bem"
+  },
+  {
+    "label": "ranska - Berber languages",
+    "value": "fr ber"
+  },
+  {
+    "label": "ranska - bislama",
+    "value": "fr bi"
+  },
+  {
+    "label": "ranska - Brazilian Sign Language",
+    "value": "fr bzs"
+  },
+  {
+    "label": "ranska - bulgaria",
+    "value": "fr bg"
+  },
+  {
+    "label": "ranska - cebuano",
+    "value": "fr ceb"
+  },
+  {
+    "label": "ranska - Central Bikol",
+    "value": "fr bcl"
+  },
+  {
+    "label": "ranska - efik",
+    "value": "fr efi"
+  },
+  {
+    "label": "ranska - englanti",
+    "value": "fr en"
+  },
+  {
+    "label": "ranska - espanja",
+    "value": "fr es"
+  },
+  {
+    "label": "ranska - esperanto",
+    "value": "fr eo"
+  },
+  {
+    "label": "ranska - etel\u00e4sotho",
+    "value": "fr st"
+  },
+  {
+    "label": "ranska - ewe",
+    "value": "fr ee"
+  },
+  {
+    "label": "ranska - fid\u017ei",
+    "value": "fr fj"
+  },
+  {
+    "label": "ranska - filipino",
+    "value": "fr tl"
+  },
+  {
+    "label": "ranska - ga",
+    "value": "fr gaa"
+  },
+  {
+    "label": "ranska - ganda",
+    "value": "fr lg"
+  },
+  {
+    "label": "ranska - Gun",
+    "value": "fr guw"
+  },
+  {
+    "label": "ranska - haiti",
+    "value": "fr ht"
+  },
+  {
+    "label": "ranska - hausa",
+    "value": "fr ha"
+  },
+  {
+    "label": "ranska - heprea",
+    "value": "fr he"
+  },
+  {
+    "label": "ranska - hiligaino",
+    "value": "fr hil"
+  },
+  {
+    "label": "ranska - hiri-motu",
+    "value": "fr ho"
+  },
+  {
+    "label": "ranska - igbo",
+    "value": "fr ig"
+  },
+  {
+    "label": "ranska - iloko",
+    "value": "fr ilo"
+  },
+  {
+    "label": "ranska - indonesia",
+    "value": "fr id"
+  },
+  {
+    "label": "ranska - Isoko",
+    "value": "fr iso"
+  },
+  {
+    "label": "ranska - japi",
+    "value": "fr yap"
+  },
+  {
+    "label": "ranska - joruba",
+    "value": "fr yo"
+  },
+  {
+    "label": "ranska - Kaonde",
+    "value": "fr kqn"
+  },
+  {
+    "label": "ranska - katalaani",
+    "value": "fr ca"
+  },
+  {
+    "label": "ranska - katanganluba",
+    "value": "fr lu"
+  },
+  {
+    "label": "ranska - kiribati",
+    "value": "fr gil"
+  },
+  {
+    "label": "ranska - kongo",
+    "value": "fr kg"
+  },
+  {
+    "label": "ranska - kreikka",
+    "value": "fr el"
+  },
+  {
+    "label": "ranska - kroatia",
+    "value": "fr hr"
+  },
+  {
+    "label": "ranska - lingala",
+    "value": "fr ln"
+  },
+  {
+    "label": "ranska - lozi",
+    "value": "fr loz"
+  },
+  {
+    "label": "ranska - luluanluba",
+    "value": "fr lua"
+  },
+  {
+    "label": "ranska - lusai",
+    "value": "fr lus"
+  },
+  {
+    "label": "ranska - Luvale",
+    "value": "fr lue"
+  },
+  {
+    "label": "ranska - malaiji",
+    "value": "fr ms"
+  },
+  {
+    "label": "ranska - malta",
+    "value": "fr mt"
+  },
+  {
+    "label": "ranska - marshall",
+    "value": "fr mh"
+  },
+  {
+    "label": "ranska - morisyen",
+    "value": "fr mfe"
+  },
+  {
+    "label": "ranska - mossi",
+    "value": "fr mos"
+  },
+  {
+    "label": "ranska - niue",
+    "value": "fr niu"
+  },
+  {
+    "label": "ranska - njand\u017ea",
+    "value": "fr ny"
+  },
+  {
+    "label": "ranska - norja",
+    "value": "fr no"
+  },
+  {
+    "label": "ranska - pangasinan",
+    "value": "fr pag"
+  },
+  {
+    "label": "ranska - papiamentu",
+    "value": "fr pap"
+  },
+  {
+    "label": "ranska - Pijin",
+    "value": "fr pis"
+  },
+  {
+    "label": "ranska - pohjoissotho",
+    "value": "fr nso"
+  },
+  {
+    "label": "ranska - pohnpei",
+    "value": "fr pon"
+  },
+  {
+    "label": "ranska - puola",
+    "value": "fr pl"
+  },
+  {
+    "label": "ranska - romania",
+    "value": "fr ro"
+  },
+  {
+    "label": "ranska - ruanda",
+    "value": "fr rw"
+  },
+  {
+    "label": "ranska - rundi",
+    "value": "fr run"
+  },
+  {
+    "label": "ranska - ruotsi",
+    "value": "fr sv"
+  },
+  {
+    "label": "ranska - Ruund",
+    "value": "fr rnd"
+  },
+  {
+    "label": "ranska - saksa",
+    "value": "fr de"
+  },
+  {
+    "label": "ranska - samoa",
+    "value": "fr sm"
+  },
+  {
+    "label": "ranska - sango",
+    "value": "fr sg"
+  },
+  {
+    "label": "ranska - San Salvador Kongo",
+    "value": "fr kwy"
+  },
+  {
+    "label": "ranska - seychellienkreoli",
+    "value": "fr crs"
+  },
+  {
+    "label": "ranska - slovakki",
+    "value": "fr sk"
+  },
+  {
+    "label": "ranska - sloveeni",
+    "value": "fr sl"
+  },
+  {
+    "label": "ranska - \u0161ona",
+    "value": "fr sn"
+  },
+  {
+    "label": "ranska - sranan",
+    "value": "fr srn"
+  },
+  {
+    "label": "ranska - swahili (Kongon demokraattinen tasavalta)",
+    "value": "fr swc"
+  },
+  {
+    "label": "ranska - tahiti",
+    "value": "fr ty"
+  },
+  {
+    "label": "ranska - Tetela",
+    "value": "fr tll"
+  },
+  {
+    "label": "ranska - Tiv",
+    "value": "fr tiv"
+  },
+  {
+    "label": "ranska - tok-pisin",
+    "value": "fr tpi"
+  },
+  {
+    "label": "ranska - tonga",
+    "value": "fr to"
+  },
+  {
+    "label": "ranska - tsonga",
+    "value": "fr ts"
+  },
+  {
+    "label": "ranska - tswana",
+    "value": "fr tn"
+  },
+  {
+    "label": "ranska - tumbuka",
+    "value": "fr tum"
+  },
+  {
+    "label": "ranska - tuvalu",
+    "value": "fr tvl"
+  },
+  {
+    "label": "ranska - twi",
+    "value": "fr tw"
+  },
+  {
+    "label": "ranska - ukraina",
+    "value": "fr uk"
+  },
+  {
+    "label": "ranska - unkari",
+    "value": "fr hu"
+  },
+  {
+    "label": "ranska - venda",
+    "value": "fr ve"
+  },
+  {
+    "label": "ranska - ven\u00e4j\u00e4",
+    "value": "fr ru"
+  },
+  {
+    "label": "ranska - vietnam",
+    "value": "fr vi"
+  },
+  {
+    "label": "ranska - Wallisian",
+    "value": "fr wls"
+  },
+  {
+    "label": "ranska - waray",
+    "value": "fr war"
+  },
+  {
+    "label": "ranska - xhosa",
+    "value": "fr xh"
+  },
+  {
+    "label": "ranska - Zande (individual language)",
+    "value": "fr zne"
+  },
+  {
+    "label": "Romance languages - englanti",
+    "value": "roa en"
+  },
+  {
+    "label": "romania - esperanto",
+    "value": "ro eo"
+  },
+  {
+    "label": "romania - ranska",
+    "value": "ro fr"
+  },
+  {
+    "label": "romania - ruotsi",
+    "value": "ro sv"
+  },
+  {
+    "label": "romania - suomi",
+    "value": "ro fi"
+  },
+  {
+    "label": "ruanda - englanti",
+    "value": "rw en"
+  },
+  {
+    "label": "ruanda - espanja",
+    "value": "rw es"
+  },
+  {
+    "label": "ruanda - ranska",
+    "value": "rw fr"
+  },
+  {
+    "label": "ruanda - ruotsi",
+    "value": "rw sv"
+  },
+  {
+    "label": "rundi - englanti",
+    "value": "rn en"
+  },
+  {
+    "label": "rundi - englanti",
+    "value": "run en"
+  },
+  {
+    "label": "rundi - espanja",
+    "value": "rn es"
+  },
+  {
+    "label": "rundi - espanja",
+    "value": "run es"
+  },
+  {
+    "label": "rundi - ranska",
+    "value": "rn fr"
+  },
+  {
+    "label": "rundi - ruotsi",
+    "value": "run sv"
+  },
+  {
+    "label": "rundi - saksa",
+    "value": "rn de"
+  },
+  {
+    "label": "rundi - ven\u00e4j\u00e4",
+    "value": "rn ru"
+  },
+  {
+    "label": "ruotsi - afrikaans",
+    "value": "sv af"
+  },
+  {
+    "label": "ruotsi - albania",
+    "value": "sv sq"
+  },
+  {
+    "label": "ruotsi - amerikkalainen viittomakieli",
+    "value": "sv ase"
+  },
+  {
+    "label": "ruotsi - bemba",
+    "value": "sv bem"
+  },
+  {
+    "label": "ruotsi - bislama",
+    "value": "sv bi"
+  },
+  {
+    "label": "ruotsi - Brazilian Sign Language",
+    "value": "sv bzs"
+  },
+  {
+    "label": "ruotsi - bulgaria",
+    "value": "sv bg"
+  },
+  {
+    "label": "ruotsi - cebuano",
+    "value": "sv ceb"
+  },
+  {
+    "label": "ruotsi - Central Bikol",
+    "value": "sv bcl"
+  },
+  {
+    "label": "ruotsi - chuuk",
+    "value": "sv chk"
+  },
+  {
+    "label": "ruotsi - efik",
+    "value": "sv efi"
+  },
+  {
+    "label": "ruotsi - englanti",
+    "value": "sv en"
+  },
+  {
+    "label": "ruotsi - espanja",
+    "value": "sv es"
+  },
+  {
+    "label": "ruotsi - esperanto",
+    "value": "sv eo"
+  },
+  {
+    "label": "ruotsi - etel\u00e4sotho",
+    "value": "sv st"
+  },
+  {
+    "label": "ruotsi - ewe",
+    "value": "sv ee"
+  },
+  {
+    "label": "ruotsi - fid\u017ei",
+    "value": "sv fj"
+  },
+  {
+    "label": "ruotsi - ga",
+    "value": "sv gaa"
+  },
+  {
+    "label": "ruotsi - ganda",
+    "value": "sv lg"
+  },
+  {
+    "label": "ruotsi - Gun",
+    "value": "sv guw"
+  },
+  {
+    "label": "ruotsi - haiti",
+    "value": "sv ht"
+  },
+  {
+    "label": "ruotsi - hausa",
+    "value": "sv ha"
+  },
+  {
+    "label": "ruotsi - heprea",
+    "value": "sv he"
+  },
+  {
+    "label": "ruotsi - hiligaino",
+    "value": "sv hil"
+  },
+  {
+    "label": "ruotsi - hiri-motu",
+    "value": "sv ho"
+  },
+  {
+    "label": "ruotsi - hollanti",
+    "value": "sv nl"
+  },
+  {
+    "label": "ruotsi - igbo",
+    "value": "sv ig"
+  },
+  {
+    "label": "ruotsi - iloko",
+    "value": "sv ilo"
+  },
+  {
+    "label": "ruotsi - indonesia",
+    "value": "sv id"
+  },
+  {
+    "label": "ruotsi - islanti",
+    "value": "sv is"
+  },
+  {
+    "label": "ruotsi - Isoko",
+    "value": "sv iso"
+  },
+  {
+    "label": "ruotsi - japi",
+    "value": "sv yap"
+  },
+  {
+    "label": "ruotsi - joruba",
+    "value": "sv yo"
+  },
+  {
+    "label": "ruotsi - Kaonde",
+    "value": "sv kqn"
+  },
+  {
+    "label": "ruotsi - katanganluba",
+    "value": "sv lu"
+  },
+  {
+    "label": "ruotsi - kiribati",
+    "value": "sv gil"
+  },
+  {
+    "label": "ruotsi - kongo",
+    "value": "sv kg"
+  },
+  {
+    "label": "ruotsi - kreikka",
+    "value": "sv el"
+  },
+  {
+    "label": "ruotsi - kroatia",
+    "value": "sv hr"
+  },
+  {
+    "label": "ruotsi - latvia",
+    "value": "sv lv"
+  },
+  {
+    "label": "ruotsi - lingala",
+    "value": "sv ln"
+  },
+  {
+    "label": "ruotsi - luluanluba",
+    "value": "sv lua"
+  },
+  {
+    "label": "ruotsi - lusai",
+    "value": "sv lus"
+  },
+  {
+    "label": "ruotsi - Luvale",
+    "value": "sv lue"
+  },
+  {
+    "label": "ruotsi - malta",
+    "value": "sv mt"
+  },
+  {
+    "label": "ruotsi - marshall",
+    "value": "sv mh"
+  },
+  {
+    "label": "ruotsi - mbundu",
+    "value": "sv umb"
+  },
+  {
+    "label": "ruotsi - morisyen",
+    "value": "sv mfe"
+  },
+  {
+    "label": "ruotsi - mossi",
+    "value": "sv mos"
+  },
+  {
+    "label": "ruotsi - niue",
+    "value": "sv niu"
+  },
+  {
+    "label": "ruotsi - njand\u017ea",
+    "value": "sv ny"
+  },
+  {
+    "label": "ruotsi - norja",
+    "value": "sv no"
+  },
+  {
+    "label": "ruotsi - pangasinan",
+    "value": "sv pag"
+  },
+  {
+    "label": "ruotsi - papiamentu",
+    "value": "sv pap"
+  },
+  {
+    "label": "ruotsi - Pijin",
+    "value": "sv pis"
+  },
+  {
+    "label": "ruotsi - pohjoissotho",
+    "value": "sv nso"
+  },
+  {
+    "label": "ruotsi - pohnpei",
+    "value": "sv pon"
+  },
+  {
+    "label": "ruotsi - ranska",
+    "value": "sv fr"
+  },
+  {
+    "label": "ruotsi - romania",
+    "value": "sv ro"
+  },
+  {
+    "label": "ruotsi - ruanda",
+    "value": "sv rw"
+  },
+  {
+    "label": "ruotsi - rundi",
+    "value": "sv run"
+  },
+  {
+    "label": "ruotsi - ruotsi",
+    "value": "sv sv"
+  },
+  {
+    "label": "ruotsi - Ruund",
+    "value": "sv rnd"
+  },
+  {
+    "label": "ruotsi - samoa",
+    "value": "sv sm"
+  },
+  {
+    "label": "ruotsi - sango",
+    "value": "sv sg"
+  },
+  {
+    "label": "ruotsi - San Salvador Kongo",
+    "value": "sv kwy"
+  },
+  {
+    "label": "ruotsi - seychellienkreoli",
+    "value": "sv crs"
+  },
+  {
+    "label": "ruotsi - slovakki",
+    "value": "sv sk"
+  },
+  {
+    "label": "ruotsi - sloveeni",
+    "value": "sv sl"
+  },
+  {
+    "label": "ruotsi - \u0161ona",
+    "value": "sv sn"
+  },
+  {
+    "label": "ruotsi - sranan",
+    "value": "sv srn"
+  },
+  {
+    "label": "ruotsi - suomi",
+    "value": "sv fi"
+  },
+  {
+    "label": "ruotsi - swahili (Kongon demokraattinen tasavalta)",
+    "value": "sv swc"
+  },
+  {
+    "label": "ruotsi - tahiti",
+    "value": "sv ty"
+  },
+  {
+    "label": "ruotsi - Tetela",
+    "value": "sv tll"
+  },
+  {
+    "label": "ruotsi - thai",
+    "value": "sv th"
+  },
+  {
+    "label": "ruotsi - Tiv",
+    "value": "sv tiv"
+  },
+  {
+    "label": "ruotsi - tok-pisin",
+    "value": "sv tpi"
+  },
+  {
+    "label": "ruotsi - tonga",
+    "value": "sv to"
+  },
+  {
+    "label": "ruotsi - Tonga (Zambia)",
+    "value": "sv toi"
+  },
+  {
+    "label": "ruotsi - t\u0161ekki",
+    "value": "sv cs"
+  },
+  {
+    "label": "ruotsi - tsonga",
+    "value": "sv ts"
+  },
+  {
+    "label": "ruotsi - tswana",
+    "value": "sv tn"
+  },
+  {
+    "label": "ruotsi - tumbuka",
+    "value": "sv tum"
+  },
+  {
+    "label": "ruotsi - tuvalu",
+    "value": "sv tvl"
+  },
+  {
+    "label": "ruotsi - twi",
+    "value": "sv tw"
+  },
+  {
+    "label": "ruotsi - ukraina",
+    "value": "sv uk"
+  },
+  {
+    "label": "ruotsi - unkari",
+    "value": "sv hu"
+  },
+  {
+    "label": "ruotsi - venda",
+    "value": "sv ve"
+  },
+  {
+    "label": "ruotsi - ven\u00e4j\u00e4",
+    "value": "sv ru"
+  },
+  {
+    "label": "ruotsi - viro",
+    "value": "sv et"
+  },
+  {
+    "label": "ruotsi - Wallisian",
+    "value": "sv wls"
+  },
+  {
+    "label": "ruotsi - waray",
+    "value": "sv war"
+  },
+  {
+    "label": "ruotsi - xhosa",
+    "value": "sv xh"
+  },
+  {
+    "label": "ruotsi - Zande (individual language)",
+    "value": "sv zne"
+  },
+  {
+    "label": "Ruund - englanti",
+    "value": "rnd en"
+  },
+  {
+    "label": "Ruund - ranska",
+    "value": "rnd fr"
+  },
+  {
+    "label": "Ruund - ruotsi",
+    "value": "rnd sv"
+  },
+  {
+    "label": "saksa - afrikaans",
+    "value": "de af"
+  },
+  {
+    "label": "saksa - amerikkalainen viittomakieli",
+    "value": "de ase"
+  },
+  {
+    "label": "saksa - arabia",
+    "value": "de ar"
+  },
+  {
+    "label": "saksa - baski",
+    "value": "de eu"
+  },
+  {
+    "label": "saksa - bislama",
+    "value": "de bi"
+  },
+  {
+    "label": "saksa - Brazilian Sign Language",
+    "value": "de bzs"
+  },
+  {
+    "label": "saksa - bulgaria",
+    "value": "de bg"
+  },
+  {
+    "label": "saksa - Central Bikol",
+    "value": "de bcl"
+  },
+  {
+    "label": "saksa - efik",
+    "value": "de efi"
+  },
+  {
+    "label": "saksa - englanti",
+    "value": "de en"
+  },
+  {
+    "label": "saksa - espanja",
+    "value": "de es"
+  },
+  {
+    "label": "saksa - esperanto",
+    "value": "de eo"
+  },
+  {
+    "label": "saksa - ewe",
+    "value": "de ee"
+  },
+  {
+    "label": "saksa - fid\u017ei",
+    "value": "de fj"
+  },
+  {
+    "label": "saksa - filipino",
+    "value": "de tl"
+  },
+  {
+    "label": "saksa - ga",
+    "value": "de gaa"
+  },
+  {
+    "label": "saksa - Gun",
+    "value": "de guw"
+  },
+  {
+    "label": "saksa - haiti",
+    "value": "de ht"
+  },
+  {
+    "label": "saksa - hausa",
+    "value": "de ha"
+  },
+  {
+    "label": "saksa - heprea",
+    "value": "de he"
+  },
+  {
+    "label": "saksa - hiligaino",
+    "value": "de hil"
+  },
+  {
+    "label": "saksa - hiri-motu",
+    "value": "de ho"
+  },
+  {
+    "label": "saksa - hollanti",
+    "value": "de nl"
+  },
+  {
+    "label": "saksa - igbo",
+    "value": "de ig"
+  },
+  {
+    "label": "saksa - iloko",
+    "value": "de ilo"
+  },
+  {
+    "label": "saksa - islanti",
+    "value": "de is"
+  },
+  {
+    "label": "saksa - Isoko",
+    "value": "de iso"
+  },
+  {
+    "label": "saksa - italia",
+    "value": "de it"
+  },
+  {
+    "label": "saksa - katalaani",
+    "value": "de ca"
+  },
+  {
+    "label": "saksa - kiribati",
+    "value": "de gil"
+  },
+  {
+    "label": "saksa - kongo",
+    "value": "de kg"
+  },
+  {
+    "label": "saksa - kreikka",
+    "value": "de el"
+  },
+  {
+    "label": "saksa - kroatia",
+    "value": "de hr"
+  },
+  {
+    "label": "saksa - liettua",
+    "value": "de lt"
+  },
+  {
+    "label": "saksa - lingala",
+    "value": "de ln"
+  },
+  {
+    "label": "saksa - lozi",
+    "value": "de loz"
+  },
+  {
+    "label": "saksa - luluanluba",
+    "value": "de lua"
+  },
+  {
+    "label": "saksa - malaiji",
+    "value": "de ms"
+  },
+  {
+    "label": "saksa - malta",
+    "value": "de mt"
+  },
+  {
+    "label": "saksa - niue",
+    "value": "de niu"
+  },
+  {
+    "label": "saksa - njand\u017ea",
+    "value": "de ny"
+  },
+  {
+    "label": "saksa - norja",
+    "value": "de no"
+  },
+  {
+    "label": "saksa - pangasinan",
+    "value": "de pag"
+  },
+  {
+    "label": "saksa - papiamentu",
+    "value": "de pap"
+  },
+  {
+    "label": "saksa - Pijin",
+    "value": "de pis"
+  },
+  {
+    "label": "saksa - pohjoissotho",
+    "value": "de nso"
+  },
+  {
+    "label": "saksa - pohnpei",
+    "value": "de pon"
+  },
+  {
+    "label": "saksa - puola",
+    "value": "de pl"
+  },
+  {
+    "label": "saksa - ranska",
+    "value": "de fr"
+  },
+  {
+    "label": "saksa - saksa",
+    "value": "de de"
+  },
+  {
+    "label": "saksa - seychellienkreoli",
+    "value": "de crs"
+  },
+  {
+    "label": "saksa - suomi",
+    "value": "de fi"
+  },
+  {
+    "label": "saksa - tanska",
+    "value": "de da"
+  },
+  {
+    "label": "saksa - t\u0161ekki",
+    "value": "de cs"
+  },
+  {
+    "label": "saksa - ukraina",
+    "value": "de uk"
+  },
+  {
+    "label": "saksa - unkari",
+    "value": "de hu"
+  },
+  {
+    "label": "saksa - vietnam",
+    "value": "de vi"
+  },
+  {
+    "label": "saksa - viro",
+    "value": "de et"
+  },
+  {
+    "label": "Salishan languages - englanti",
+    "value": "sal en"
+  },
+  {
+    "label": "samoa - englanti",
+    "value": "sm en"
+  },
+  {
+    "label": "samoa - espanja",
+    "value": "sm es"
+  },
+  {
+    "label": "samoa - ranska",
+    "value": "sm fr"
+  },
+  {
+    "label": "sango - englanti",
+    "value": "sg en"
+  },
+  {
+    "label": "sango - espanja",
+    "value": "sg es"
+  },
+  {
+    "label": "sango - ranska",
+    "value": "sg fr"
+  },
+  {
+    "label": "sango - ruotsi",
+    "value": "sg sv"
+  },
+  {
+    "label": "sango - suomi",
+    "value": "sg fi"
+  },
+  {
+    "label": "San Salvador Kongo - englanti",
+    "value": "kwy en"
+  },
+  {
+    "label": "San Salvador Kongo - ranska",
+    "value": "kwy fr"
+  },
+  {
+    "label": "San Salvador Kongo - ruotsi",
+    "value": "kwy sv"
+  },
+  {
+    "label": "Semitic languages - englanti",
+    "value": "sem en"
+  },
+  {
+    "label": "Semitic languages - Semitic languages",
+    "value": "sem sem"
+  },
+  {
+    "label": "serbia (latinalainen) - esperanto",
+    "value": "sh eo"
+  },
+  {
+    "label": "serbia (latinalainen) - ukraina",
+    "value": "sh uk"
+  },
+  {
+    "label": "seychellienkreoli - englanti",
+    "value": "crs en"
+  },
+  {
+    "label": "seychellienkreoli - espanja",
+    "value": "crs es"
+  },
+  {
+    "label": "seychellienkreoli - ranska",
+    "value": "crs fr"
+  },
+  {
+    "label": "seychellienkreoli - ruotsi",
+    "value": "crs sv"
+  },
+  {
+    "label": "seychellienkreoli - saksa",
+    "value": "crs de"
+  },
+  {
+    "label": "seychellienkreoli - suomi",
+    "value": "crs fi"
+  },
+  {
+    "label": "Slavic languages - englanti",
+    "value": "sla en"
+  },
+  {
+    "label": "Slavic languages - Slavic languages",
+    "value": "sla sla"
+  },
+  {
+    "label": "slovakki - englanti",
+    "value": "sk en"
+  },
+  {
+    "label": "slovakki - espanja",
+    "value": "sk es"
+  },
+  {
+    "label": "slovakki - ranska",
+    "value": "sk fr"
+  },
+  {
+    "label": "slovakki - ruotsi",
+    "value": "sk sv"
+  },
+  {
+    "label": "slovakki - suomi",
+    "value": "sk fi"
+  },
+  {
+    "label": "sloveeni - espanja",
+    "value": "sl es"
+  },
+  {
+    "label": "sloveeni - ranska",
+    "value": "sl fr"
+  },
+  {
+    "label": "sloveeni - ruotsi",
+    "value": "sl sv"
+  },
+  {
+    "label": "sloveeni - suomi",
+    "value": "sl fi"
+  },
+  {
+    "label": "sloveeni - ukraina",
+    "value": "sl uk"
+  },
+  {
+    "label": "sloveeni - ven\u00e4j\u00e4",
+    "value": "sl ru"
+  },
+  {
+    "label": "\u0161ona - englanti",
+    "value": "sn en"
+  },
+  {
+    "label": "\u0161ona - espanja",
+    "value": "sn es"
+  },
+  {
+    "label": "\u0161ona - ranska",
+    "value": "sn fr"
+  },
+  {
+    "label": "\u0161ona - ruotsi",
+    "value": "sn sv"
+  },
+  {
+    "label": "South Caucasian languages - englanti",
+    "value": "ccs en"
+  },
+  {
+    "label": "South Slavic languages - englanti",
     "value": "zls en"
   },
   {
-    "label": "South Slavic languages \u2192 South Slavic languages",
+    "label": "South Slavic languages - South Slavic languages",
     "value": "zls zls"
   },
   {
-    "label": "West Slavic languages \u2192 englanti",
+    "label": "Spanish Sign Language - espanja",
+    "value": "ssp es"
+  },
+  {
+    "label": "sranan - englanti",
+    "value": "srn en"
+  },
+  {
+    "label": "sranan - espanja",
+    "value": "srn es"
+  },
+  {
+    "label": "sranan - ranska",
+    "value": "srn fr"
+  },
+  {
+    "label": "sranan - ruotsi",
+    "value": "srn sv"
+  },
+  {
+    "label": "suomi - afrikaans",
+    "value": "fi af"
+  },
+  {
+    "label": "suomi - albania",
+    "value": "fi sq"
+  },
+  {
+    "label": "suomi - bemba",
+    "value": "fi bem"
+  },
+  {
+    "label": "suomi - Brazilian Sign Language",
+    "value": "fi bzs"
+  },
+  {
+    "label": "suomi - bulgaria",
+    "value": "fi bg"
+  },
+  {
+    "label": "suomi - cebuano",
+    "value": "fi ceb"
+  },
+  {
+    "label": "suomi - Central Bikol",
+    "value": "fi bcl"
+  },
+  {
+    "label": "suomi - efik",
+    "value": "fi efi"
+  },
+  {
+    "label": "suomi - englanti",
+    "value": "fi en"
+  },
+  {
+    "label": "suomi - espanja",
+    "value": "fi es"
+  },
+  {
+    "label": "suomi - esperanto",
+    "value": "fi eo"
+  },
+  {
+    "label": "suomi - etel\u00e4sotho",
+    "value": "fi st"
+  },
+  {
+    "label": "suomi - ewe",
+    "value": "fi ee"
+  },
+  {
+    "label": "suomi - fid\u017ei",
+    "value": "fi fj"
+  },
+  {
+    "label": "suomi - Finnish Sign Language",
+    "value": "fi fse"
+  },
+  {
+    "label": "suomi - ga",
+    "value": "fi gaa"
+  },
+  {
+    "label": "suomi - ganda",
+    "value": "fi lg"
+  },
+  {
+    "label": "suomi - Gun",
+    "value": "fi guw"
+  },
+  {
+    "label": "suomi - haiti",
+    "value": "fi ht"
+  },
+  {
+    "label": "suomi - hausa",
+    "value": "fi ha"
+  },
+  {
+    "label": "suomi - heprea",
+    "value": "fi he"
+  },
+  {
+    "label": "suomi - hiligaino",
+    "value": "fi hil"
+  },
+  {
+    "label": "suomi - hiri-motu",
+    "value": "fi ho"
+  },
+  {
+    "label": "suomi - hollanti",
+    "value": "fi nl"
+  },
+  {
+    "label": "suomi - igbo",
+    "value": "fi ig"
+  },
+  {
+    "label": "suomi - iloko",
+    "value": "fi ilo"
+  },
+  {
+    "label": "suomi - indonesia",
+    "value": "fi id"
+  },
+  {
+    "label": "suomi - islanti",
+    "value": "fi is"
+  },
+  {
+    "label": "suomi - Isoko",
+    "value": "fi iso"
+  },
+  {
+    "label": "suomi - italia",
+    "value": "fi it"
+  },
+  {
+    "label": "suomi - japi",
+    "value": "fi yap"
+  },
+  {
+    "label": "suomi - joruba",
+    "value": "fi yo"
+  },
+  {
+    "label": "suomi - Kaonde",
+    "value": "fi kqn"
+  },
+  {
+    "label": "suomi - katanganluba",
+    "value": "fi lu"
+  },
+  {
+    "label": "suomi - kiribati",
+    "value": "fi gil"
+  },
+  {
+    "label": "suomi - kongo",
+    "value": "fi kg"
+  },
+  {
+    "label": "suomi - kreikka",
+    "value": "fi el"
+  },
+  {
+    "label": "suomi - kroatia",
+    "value": "fi hr"
+  },
+  {
+    "label": "suomi - latvia",
+    "value": "fi lv"
+  },
+  {
+    "label": "suomi - lingala",
+    "value": "fi ln"
+  },
+  {
+    "label": "suomi - luluanluba",
+    "value": "fi lua"
+  },
+  {
+    "label": "suomi - lusai",
+    "value": "fi lus"
+  },
+  {
+    "label": "suomi - Luvale",
+    "value": "fi lue"
+  },
+  {
+    "label": "suomi - makedonia",
+    "value": "fi mk"
+  },
+  {
+    "label": "suomi - malagassi",
+    "value": "fi mg"
+  },
+  {
+    "label": "suomi - malta",
+    "value": "fi mt"
+  },
+  {
+    "label": "suomi - marshall",
+    "value": "fi mh"
+  },
+  {
+    "label": "suomi - morisyen",
+    "value": "fi mfe"
+  },
+  {
+    "label": "suomi - mossi",
+    "value": "fi mos"
+  },
+  {
+    "label": "suomi - niue",
+    "value": "fi niu"
+  },
+  {
+    "label": "suomi - njand\u017ea",
+    "value": "fi ny"
+  },
+  {
+    "label": "suomi - norja",
+    "value": "fi no"
+  },
+  {
+    "label": "suomi - pangasinan",
+    "value": "fi pag"
+  },
+  {
+    "label": "suomi - papiamentu",
+    "value": "fi pap"
+  },
+  {
+    "label": "suomi - Pijin",
+    "value": "fi pis"
+  },
+  {
+    "label": "suomi - pohjoissotho",
+    "value": "fi nso"
+  },
+  {
+    "label": "suomi - pohnpei",
+    "value": "fi pon"
+  },
+  {
+    "label": "suomi - ranska",
+    "value": "fi fr"
+  },
+  {
+    "label": "suomi - romania",
+    "value": "fi ro"
+  },
+  {
+    "label": "suomi - ruanda",
+    "value": "fi rw"
+  },
+  {
+    "label": "suomi - rundi",
+    "value": "fi run"
+  },
+  {
+    "label": "suomi - ruotsi",
+    "value": "fi sv"
+  },
+  {
+    "label": "suomi - saksa",
+    "value": "fi de"
+  },
+  {
+    "label": "suomi - samoa",
+    "value": "fi sm"
+  },
+  {
+    "label": "suomi - sango",
+    "value": "fi sg"
+  },
+  {
+    "label": "suomi - seychellienkreoli",
+    "value": "fi crs"
+  },
+  {
+    "label": "suomi - slovakki",
+    "value": "fi sk"
+  },
+  {
+    "label": "suomi - sloveeni",
+    "value": "fi sl"
+  },
+  {
+    "label": "suomi - \u0161ona",
+    "value": "fi sn"
+  },
+  {
+    "label": "suomi - sranan",
+    "value": "fi srn"
+  },
+  {
+    "label": "suomi - suomi",
+    "value": "fi fi"
+  },
+  {
+    "label": "suomi - swahili",
+    "value": "fi sw"
+  },
+  {
+    "label": "suomi - swahili (Kongon demokraattinen tasavalta)",
+    "value": "fi swc"
+  },
+  {
+    "label": "suomi - tahiti",
+    "value": "fi ty"
+  },
+  {
+    "label": "suomi - Tetela",
+    "value": "fi tll"
+  },
+  {
+    "label": "suomi - Tiv",
+    "value": "fi tiv"
+  },
+  {
+    "label": "suomi - tok-pisin",
+    "value": "fi tpi"
+  },
+  {
+    "label": "suomi - tonga",
+    "value": "fi to"
+  },
+  {
+    "label": "suomi - Tonga (Zambia)",
+    "value": "fi toi"
+  },
+  {
+    "label": "suomi - t\u0161ekki",
+    "value": "fi cs"
+  },
+  {
+    "label": "suomi - tsonga",
+    "value": "fi ts"
+  },
+  {
+    "label": "suomi - tswana",
+    "value": "fi tn"
+  },
+  {
+    "label": "suomi - turkki",
+    "value": "fi tr"
+  },
+  {
+    "label": "suomi - tuvalu",
+    "value": "fi tvl"
+  },
+  {
+    "label": "suomi - twi",
+    "value": "fi tw"
+  },
+  {
+    "label": "suomi - ukraina",
+    "value": "fi uk"
+  },
+  {
+    "label": "suomi - unkari",
+    "value": "fi hu"
+  },
+  {
+    "label": "suomi - venda",
+    "value": "fi ve"
+  },
+  {
+    "label": "suomi - ven\u00e4j\u00e4",
+    "value": "fi ru"
+  },
+  {
+    "label": "suomi - viro",
+    "value": "fi et"
+  },
+  {
+    "label": "suomi - Wallisian",
+    "value": "fi wls"
+  },
+  {
+    "label": "suomi - waray",
+    "value": "fi war"
+  },
+  {
+    "label": "suomi - xhosa",
+    "value": "fi xh"
+  },
+  {
+    "label": "suomi - Zande (individual language)",
+    "value": "fi zne"
+  },
+  {
+    "label": "swahili (Kongon demokraattinen tasavalta) - englanti",
+    "value": "swc en"
+  },
+  {
+    "label": "swahili (Kongon demokraattinen tasavalta) - espanja",
+    "value": "swc es"
+  },
+  {
+    "label": "swahili (Kongon demokraattinen tasavalta) - ranska",
+    "value": "swc fr"
+  },
+  {
+    "label": "swahili (Kongon demokraattinen tasavalta) - ruotsi",
+    "value": "swc sv"
+  },
+  {
+    "label": "swahili (Kongon demokraattinen tasavalta) - suomi",
+    "value": "swc fi"
+  },
+  {
+    "label": "swazi - englanti",
+    "value": "ss en"
+  },
+  {
+    "label": "tahiti - espanja",
+    "value": "ty es"
+  },
+  {
+    "label": "tahiti - ranska",
+    "value": "ty fr"
+  },
+  {
+    "label": "tahiti - ruotsi",
+    "value": "ty sv"
+  },
+  {
+    "label": "tahiti - suomi",
+    "value": "ty fi"
+  },
+  {
+    "label": "tanska - englanti",
+    "value": "da en"
+  },
+  {
+    "label": "tanska - espanja",
+    "value": "da es"
+  },
+  {
+    "label": "tanska - esperanto",
+    "value": "da eo"
+  },
+  {
+    "label": "tanska - norja",
+    "value": "da no"
+  },
+  {
+    "label": "tanska - ranska",
+    "value": "da fr"
+  },
+  {
+    "label": "tanska - saksa",
+    "value": "da de"
+  },
+  {
+    "label": "tanska - suomi",
+    "value": "da fi"
+  },
+  {
+    "label": "tanska - ven\u00e4j\u00e4",
+    "value": "da ru"
+  },
+  {
+    "label": "Tetela - englanti",
+    "value": "tll en"
+  },
+  {
+    "label": "Tetela - espanja",
+    "value": "tll es"
+  },
+  {
+    "label": "Tetela - ranska",
+    "value": "tll fr"
+  },
+  {
+    "label": "Tetela - ruotsi",
+    "value": "tll sv"
+  },
+  {
+    "label": "Tetela - suomi",
+    "value": "tll fi"
+  },
+  {
+    "label": "thai - englanti",
+    "value": "th en"
+  },
+  {
+    "label": "thai - ranska",
+    "value": "th fr"
+  },
+  {
+    "label": "tigrinja - englanti",
+    "value": "ti en"
+  },
+  {
+    "label": "Tiv - englanti",
+    "value": "tiv en"
+  },
+  {
+    "label": "Tiv - ranska",
+    "value": "tiv fr"
+  },
+  {
+    "label": "Tiv - ruotsi",
+    "value": "tiv sv"
+  },
+  {
+    "label": "tok-pisin - englanti",
+    "value": "tpi en"
+  },
+  {
+    "label": "tok-pisin - ruotsi",
+    "value": "tpi sv"
+  },
+  {
+    "label": "tonga - englanti",
+    "value": "to en"
+  },
+  {
+    "label": "tonga - espanja",
+    "value": "to es"
+  },
+  {
+    "label": "tonga - ranska",
+    "value": "to fr"
+  },
+  {
+    "label": "tonga - ruotsi",
+    "value": "to sv"
+  },
+  {
+    "label": "Tonga (Zambia) - englanti",
+    "value": "toi en"
+  },
+  {
+    "label": "Tonga (Zambia) - espanja",
+    "value": "toi es"
+  },
+  {
+    "label": "Tonga (Zambia) - ranska",
+    "value": "toi fr"
+  },
+  {
+    "label": "Tonga (Zambia) - ruotsi",
+    "value": "toi sv"
+  },
+  {
+    "label": "Tonga (Zambia) - suomi",
+    "value": "toi fi"
+  },
+  {
+    "label": "t\u0161ekki - englanti",
+    "value": "cs en"
+  },
+  {
+    "label": "t\u0161ekki - esperanto",
+    "value": "cs eo"
+  },
+  {
+    "label": "t\u0161ekki - ranska",
+    "value": "cs fr"
+  },
+  {
+    "label": "t\u0161ekki - ruotsi",
+    "value": "cs sv"
+  },
+  {
+    "label": "t\u0161ekki - saksa",
+    "value": "cs de"
+  },
+  {
+    "label": "t\u0161ekki - suomi",
+    "value": "cs fi"
+  },
+  {
+    "label": "t\u0161ekki - ukraina",
+    "value": "cs uk"
+  },
+  {
+    "label": "tsonga - englanti",
+    "value": "ts en"
+  },
+  {
+    "label": "tsonga - espanja",
+    "value": "ts es"
+  },
+  {
+    "label": "tsonga - ranska",
+    "value": "ts fr"
+  },
+  {
+    "label": "tsonga - ruotsi",
+    "value": "ts sv"
+  },
+  {
+    "label": "tsonga - suomi",
+    "value": "ts fi"
+  },
+  {
+    "label": "tswana - englanti",
+    "value": "tn en"
+  },
+  {
+    "label": "tswana - espanja",
+    "value": "tn es"
+  },
+  {
+    "label": "tswana - ranska",
+    "value": "tn fr"
+  },
+  {
+    "label": "tswana - ruotsi",
+    "value": "tn sv"
+  },
+  {
+    "label": "tumbuka - englanti",
+    "value": "tum en"
+  },
+  {
+    "label": "tumbuka - espanja",
+    "value": "tum es"
+  },
+  {
+    "label": "tumbuka - ranska",
+    "value": "tum fr"
+  },
+  {
+    "label": "tumbuka - ruotsi",
+    "value": "tum sv"
+  },
+  {
+    "label": "tuntematon kieli [jap] - englanti",
+    "value": "jap en"
+  },
+  {
+    "label": "Turkic languages - englanti",
+    "value": "trk en"
+  },
+  {
+    "label": "turkki - arabia",
+    "value": "tr ar"
+  },
+  {
+    "label": "turkki - azeri",
+    "value": "tr az"
+  },
+  {
+    "label": "turkki - englanti",
+    "value": "tr en"
+  },
+  {
+    "label": "turkki - espanja",
+    "value": "tr es"
+  },
+  {
+    "label": "turkki - esperanto",
+    "value": "tr eo"
+  },
+  {
+    "label": "turkki - liettua",
+    "value": "tr lt"
+  },
+  {
+    "label": "turkki - ranska",
+    "value": "tr fr"
+  },
+  {
+    "label": "turkki - ruotsi",
+    "value": "tr sv"
+  },
+  {
+    "label": "turkki - ukraina",
+    "value": "tr uk"
+  },
+  {
+    "label": "tuvalu - englanti",
+    "value": "tvl en"
+  },
+  {
+    "label": "tuvalu - espanja",
+    "value": "tvl es"
+  },
+  {
+    "label": "tuvalu - ranska",
+    "value": "tvl fr"
+  },
+  {
+    "label": "tuvalu - ruotsi",
+    "value": "tvl sv"
+  },
+  {
+    "label": "tuvalu - suomi",
+    "value": "tvl fi"
+  },
+  {
+    "label": "twi - espanja",
+    "value": "tw es"
+  },
+  {
+    "label": "twi - ranska",
+    "value": "tw fr"
+  },
+  {
+    "label": "twi - ruotsi",
+    "value": "tw sv"
+  },
+  {
+    "label": "twi - suomi",
+    "value": "tw fi"
+  },
+  {
+    "label": "Tzotzil - espanja",
+    "value": "tzo es"
+  },
+  {
+    "label": "ukraina - bulgaria",
+    "value": "uk bg"
+  },
+  {
+    "label": "ukraina - englanti",
+    "value": "uk en"
+  },
+  {
+    "label": "ukraina - espanja",
+    "value": "uk es"
+  },
+  {
+    "label": "ukraina - heprea",
+    "value": "uk he"
+  },
+  {
+    "label": "ukraina - hollanti",
+    "value": "uk nl"
+  },
+  {
+    "label": "ukraina - italia",
+    "value": "uk it"
+  },
+  {
+    "label": "ukraina - katalaani",
+    "value": "uk ca"
+  },
+  {
+    "label": "ukraina - norja",
+    "value": "uk no"
+  },
+  {
+    "label": "ukraina - portugali",
+    "value": "uk pt"
+  },
+  {
+    "label": "ukraina - puola",
+    "value": "uk pl"
+  },
+  {
+    "label": "ukraina - ranska",
+    "value": "uk fr"
+  },
+  {
+    "label": "ukraina - ruotsi",
+    "value": "uk sv"
+  },
+  {
+    "label": "ukraina - saksa",
+    "value": "uk de"
+  },
+  {
+    "label": "ukraina - serbia (latinalainen)",
+    "value": "uk sh"
+  },
+  {
+    "label": "ukraina - sloveeni",
+    "value": "uk sl"
+  },
+  {
+    "label": "ukraina - suomi",
+    "value": "uk fi"
+  },
+  {
+    "label": "ukraina - t\u0161ekki",
+    "value": "uk cs"
+  },
+  {
+    "label": "ukraina - turkki",
+    "value": "uk tr"
+  },
+  {
+    "label": "ukraina - unkari",
+    "value": "uk hu"
+  },
+  {
+    "label": "ukraina - ven\u00e4j\u00e4",
+    "value": "uk ru"
+  },
+  {
+    "label": "unkari - englanti",
+    "value": "hu en"
+  },
+  {
+    "label": "unkari - esperanto",
+    "value": "hu eo"
+  },
+  {
+    "label": "unkari - ranska",
+    "value": "hu fr"
+  },
+  {
+    "label": "unkari - ruotsi",
+    "value": "hu sv"
+  },
+  {
+    "label": "unkari - saksa",
+    "value": "hu de"
+  },
+  {
+    "label": "unkari - suomi",
+    "value": "hu fi"
+  },
+  {
+    "label": "unkari - ukraina",
+    "value": "hu uk"
+  },
+  {
+    "label": "Uralic languages - englanti",
+    "value": "urj en"
+  },
+  {
+    "label": "Uralic languages - Uralic languages",
+    "value": "urj urj"
+  },
+  {
+    "label": "urdu - englanti",
+    "value": "ur en"
+  },
+  {
+    "label": "useita kieli\u00e4 - englanti",
+    "value": "mul en"
+  },
+  {
+    "label": "valkoven\u00e4j\u00e4 - espanja",
+    "value": "be es"
+  },
+  {
+    "label": "valloni - englanti",
+    "value": "wa en"
+  },
+  {
+    "label": "venda - englanti",
+    "value": "ve en"
+  },
+  {
+    "label": "venda - espanja",
+    "value": "ve es"
+  },
+  {
+    "label": "Venezuelan Sign Language - espanja",
+    "value": "vsl es"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - afrikaans",
+    "value": "ru af"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - arabia",
+    "value": "ru ar"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - armenia",
+    "value": "ru hy"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - baski",
+    "value": "ru eu"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - bulgaria",
+    "value": "ru bg"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - englanti",
+    "value": "ru en"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - espanja",
+    "value": "ru es"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - esperanto",
+    "value": "ru eo"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - heprea",
+    "value": "ru he"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - latvia",
+    "value": "ru lv"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - liettua",
+    "value": "ru lt"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - norja",
+    "value": "ru no"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - ranska",
+    "value": "ru fr"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - ruotsi",
+    "value": "ru sv"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - sloveeni",
+    "value": "ru sl"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - suomi",
+    "value": "ru fi"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - tanska",
+    "value": "ru da"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - ukraina",
+    "value": "ru uk"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - vietnam",
+    "value": "ru vi"
+  },
+  {
+    "label": "ven\u00e4j\u00e4 - viro",
+    "value": "ru et"
+  },
+  {
+    "label": "vietnam - englanti",
+    "value": "vi en"
+  },
+  {
+    "label": "vietnam - espanja",
+    "value": "vi es"
+  },
+  {
+    "label": "vietnam - esperanto",
+    "value": "vi eo"
+  },
+  {
+    "label": "vietnam - italia",
+    "value": "vi it"
+  },
+  {
+    "label": "vietnam - ranska",
+    "value": "vi fr"
+  },
+  {
+    "label": "vietnam - saksa",
+    "value": "vi de"
+  },
+  {
+    "label": "vietnam - ven\u00e4j\u00e4",
+    "value": "vi ru"
+  },
+  {
+    "label": "viro - englanti",
+    "value": "et en"
+  },
+  {
+    "label": "viro - espanja",
+    "value": "et es"
+  },
+  {
+    "label": "viro - ranska",
+    "value": "et fr"
+  },
+  {
+    "label": "viro - ruotsi",
+    "value": "et sv"
+  },
+  {
+    "label": "viro - saksa",
+    "value": "et de"
+  },
+  {
+    "label": "viro - suomi",
+    "value": "et fi"
+  },
+  {
+    "label": "viro - ven\u00e4j\u00e4",
+    "value": "et ru"
+  },
+  {
+    "label": "Wallisian - englanti",
+    "value": "wls en"
+  },
+  {
+    "label": "Wallisian - ranska",
+    "value": "wls fr"
+  },
+  {
+    "label": "Wallisian - ruotsi",
+    "value": "wls sv"
+  },
+  {
+    "label": "waray - englanti",
+    "value": "war en"
+  },
+  {
+    "label": "waray - espanja",
+    "value": "war es"
+  },
+  {
+    "label": "waray - ranska",
+    "value": "war fr"
+  },
+  {
+    "label": "waray - ruotsi",
+    "value": "war sv"
+  },
+  {
+    "label": "waray - suomi",
+    "value": "war fi"
+  },
+  {
+    "label": "West Germanic languages - englanti",
+    "value": "gmw en"
+  },
+  {
+    "label": "West Germanic languages - West Germanic languages",
+    "value": "gmw gmw"
+  },
+  {
+    "label": "West Slavic languages - englanti",
     "value": "zlw en"
   },
   {
-    "label": "West Slavic languages \u2192 Finno-Ugrian languages",
+    "label": "West Slavic languages - Finno-Ugrian languages",
     "value": "zlw fiu"
   },
   {
-    "label": "West Slavic languages \u2192 West Slavic languages",
+    "label": "West Slavic languages - West Slavic languages",
     "value": "zlw zlw"
   },
   {
-    "label": "Zande (individual language) \u2192 espanja",
+    "label": "wolaitta - englanti",
+    "value": "wal en"
+  },
+  {
+    "label": "xhosa - englanti",
+    "value": "xh en"
+  },
+  {
+    "label": "xhosa - espanja",
+    "value": "xh es"
+  },
+  {
+    "label": "xhosa - ranska",
+    "value": "xh fr"
+  },
+  {
+    "label": "xhosa - ruotsi",
+    "value": "xh sv"
+  },
+  {
+    "label": "Zande (individual language) - espanja",
     "value": "zne es"
   },
   {
-    "label": "Zande (individual language) \u2192 suomi",
-    "value": "zne fi"
-  },
-  {
-    "label": "Zande (individual language) \u2192 ranska",
+    "label": "Zande (individual language) - ranska",
     "value": "zne fr"
   },
   {
-    "label": "Zande (individual language) \u2192 ruotsi",
+    "label": "Zande (individual language) - ruotsi",
     "value": "zne sv"
+  },
+  {
+    "label": "Zande (individual language) - suomi",
+    "value": "zne fi"
   }
 ]

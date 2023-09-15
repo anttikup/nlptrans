@@ -2,11 +2,16 @@
 """
 
 import json
+import locale
 import re
 import sys
 
 from huggingface_hub import list_models
 from langcodes import Language
+
+
+locale.setlocale(locale.LC_ALL, 'fi_FI.UTF-8')
+
 
 def language_name(code):
     return Language.get(code).display_name('fi')
@@ -26,12 +31,12 @@ model_list = []
 for model_id in model_ids:
     frm, to = model_id.strip().replace('Helsinki-NLP/opus-mt-', '').split('-')
     entry = {
-        'label': language_name(frm) + ' → ' + language_name(to),
+        'label': language_name(frm) + ' - ' + language_name(to),
         'value': frm + ' ' + to
     }
     model_list.append(entry)
 
-
+model_list.sort(key=lambda info: locale.strxfrm(info['label']))
 
 with open(sys.argv[1], 'w') as f:
     json.dump(model_list, f, indent=2)
