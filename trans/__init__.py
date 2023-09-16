@@ -1,15 +1,19 @@
+import os
+
 from flask import Flask, render_template, request, flash
 
 import trans.translator
 from trans.models import model_info, value_for_label
+
 
 app = Flask(__name__, instance_relative_config=True)
 app.config.from_mapping(
     SECRET_KEY=os.environ['SECRET_KEY'],
 )
 
+
 @app.route('/', methods=('GET', 'POST'))
-def index():
+def root():
     text = ""
     translation = ""
 

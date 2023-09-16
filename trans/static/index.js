@@ -14,7 +14,7 @@ const validateLanguageBox = () => {
     if ( isValidValue(selected) ) {
         document.forms["translate"]["language"].setCustomValidity('');
     } else {
-        document.forms["translate"]["language"].setCustomValidity('virheellinen mallin nimi');
+        document.forms["translate"]["language"].setCustomValidity('Virheellinen mallin nimi');
     }
 }
 
