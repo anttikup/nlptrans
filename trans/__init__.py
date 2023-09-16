@@ -5,7 +5,7 @@ from trans.models import model_info, value_for_label
 
 app = Flask(__name__, instance_relative_config=True)
 app.config.from_mapping(
-    SECRET_KEY='dev',
+    SECRET_KEY=os.environ['SECRET_KEY'],
 )
 
 @app.route('/', methods=('GET', 'POST'))
