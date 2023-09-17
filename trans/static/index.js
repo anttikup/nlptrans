@@ -1,3 +1,5 @@
+window.Trans = {};
+
 const isValidValue = selected => {
     const options = document.querySelectorAll('option');
     for (const option of options) {
@@ -34,3 +36,19 @@ document.querySelector('form').addEventListener('submit', event => {
 
 
 validateLanguageBox();
+
+jQuery( function () {
+    const input = new Trans.ModelLookupTextInputWidget( {
+        icon: 'language'
+    } );
+
+    const value = $('[name="language"]').val();
+    input.setValue(value);
+    input.$element.find('input').attr('name', 'language');
+
+    $( '[name="language"]' ).replaceWith(
+	input.$element
+    );
+
+
+} );

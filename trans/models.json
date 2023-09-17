@@ -1016,14 +1016,6 @@
     "value": "en ru"
   },
   {
-    "label": "englanti - vietnam",
-    "value": "en vi"
-  },
-  {
-    "label": "englanti - viro",
-    "value": "en et"
-  },
-  {
     "label": "englanti - Western Malayo-Polynesian languages",
     "value": "en pqw"
   },
@@ -1034,6 +1026,14 @@
   {
     "label": "englanti - West Slavic languages",
     "value": "en zlw"
+  },
+  {
+    "label": "englanti - vietnam",
+    "value": "en vi"
+  },
+  {
+    "label": "englanti - viro",
+    "value": "en et"
   },
   {
     "label": "englanti - xhosa",
@@ -1380,6 +1380,14 @@
     "value": "es uk"
   },
   {
+    "label": "espanja - Wallisian",
+    "value": "es wls"
+  },
+  {
+    "label": "espanja - waray",
+    "value": "es war"
+  },
+  {
     "label": "espanja - venda",
     "value": "es ve"
   },
@@ -1394,14 +1402,6 @@
   {
     "label": "espanja - viro",
     "value": "es et"
-  },
-  {
-    "label": "espanja - Wallisian",
-    "value": "es wls"
-  },
-  {
-    "label": "espanja - waray",
-    "value": "es war"
   },
   {
     "label": "espanja - xhosa",

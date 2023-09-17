@@ -1,6 +1,8 @@
 import os
 
-from flask import Flask, render_template, request, flash
+from flask import Flask, render_template, request, flash, jsonify
+from flask_oojsui import build_static_blueprint
+
 
 import trans.translator
 from trans.models import model_info, value_for_label
@@ -11,6 +13,9 @@ app.config.from_mapping(
     SECRET_KEY=os.environ['SECRET_KEY'],
 )
 
+# Adds static assets for OOJS-UI to path
+app.register_blueprint(build_static_blueprint("oojsui", __name__))
+print("X:", app.url_map)
 
 @app.route('/', methods=('GET', 'POST'))
 def root():
@@ -32,3 +37,13 @@ def root():
                 flash(f'Virhe: {str(err)}')
 
     return render_template('index.html', text=text, translation=translation, models=model_info)
+
+
+@app.route('/lookup', methods=('GET',))
+def lookup():
+    text = request.args.get('text')
+
+    print("looking for:", text)
+    return jsonify([
+        info for info in model_info if text in info['label']
+    ])

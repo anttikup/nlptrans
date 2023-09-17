@@ -4,7 +4,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <head>
     <title>Kääntäjä</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <!-- jQuery -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <!-- OOjs -->
+    <script src="oojs-static/dist/oojs.min.js"></script>
+    <!-- OOUI -->
+    <script src="oojs-ui-static/dist/oojs-ui.min.js"></script>
+    <!-- OOUI theme -->
+    <script src="oojs-ui-static/dist/oojs-ui-mediawiki.min.js"></script>
+    <link rel="stylesheet" href="oojs-ui-static/dist/oojs-ui-mediawiki.min.css">
+
   </head>
   <body>
     <main class="content">
@@ -38,5 +51,6 @@
       </p>
     </main>
     <script type="text/javascript" src="{{ url_for('static', filename='index.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='ModelLookupTextInputWidget.js') }}"></script>
   </body>
 </html>
