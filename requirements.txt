@@ -6,6 +6,7 @@ filelock==3.12.4
 Flask==2.3.3
 flask-oojsui==0.0.3
 fsspec==2023.9.1
+gunicorn==21.2.0
 huggingface-hub==0.17.1
 idna==3.4
 itsdangerous==2.1.2
