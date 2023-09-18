@@ -27,12 +27,6 @@ main {
 }
 
 
-#text {
-    width: 100%;
-    min-height: 30em;
-    display: block;
-}
-
 .grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -48,8 +42,17 @@ main {
 
 #translation {
     background-color: floralwhite;
-    border: solid #8f8f9d 1px;
     padding: 2px;
+}
+
+#translation textarea {
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#translation.loading textarea {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/38/Loading_indicator.gif);
 }
 
 p {
@@ -78,15 +81,45 @@ input[type="text"]:valid {
 }
 
 .oo-ui-icon-language {
-  background-image:url(../oojs-ui-static/dist/themes/mediawiki/images/icons/language-ltr.png);
-  background-image:-webkit-linear-gradient(transparent,transparent),url(../oojs-ui-static/dist/themes/mediawiki/images/icons/language-ltr.svg);
-  background-image:linear-gradient(transparent,transparent),url(../oojs-ui-static/dist/themes/mediawiki/images/icons/language-ltr.svg);
-  background-image:-o-linear-gradient(transparent,transparent),url(../oojs-ui-static/dist/themes/mediawiki/images/icons/language-ltr.png)
+    background-image:url(../oojs-ui-static/dist/themes/mediawiki/images/icons/language-ltr.png);
+    background-image:-webkit-linear-gradient(transparent,transparent),
+                     url(../oojs-ui-static/dist/themes/mediawiki/images/icons/language-ltr.svg);
+    background-image:linear-gradient(transparent,transparent),
+                     url(../oojs-ui-static/dist/themes/mediawiki/images/icons/language-ltr.svg);
+    background-image:-o-linear-gradient(transparent,transparent),
+                     url(../oojs-ui-static/dist/themes/mediawiki/images/icons/language-ltr.png)
 }
 
 .oo-ui-icon-translate {
-  background-image:url(../oojs-ui-static/dist/themes/mediawiki/images/icons/arched-arrow-ltr-progressive.png);
-  background-image:-webkit-linear-gradient(transparent,transparent),url(../oojs-ui-static/dist/themes/mediawiki/images/icons/arched-arrow-ltr-progressive.svg);
-  background-image:linear-gradient(transparent,transparent),url(../oojs-ui-static/dist/themes/mediawiki/images/icons/arched-arrow-ltr-progressive.svg);
-  background-image:-o-linear-gradient(transparent,transparent),url(../oojs-ui-static/dist/themes/mediawiki/images/icons/arched-arrow-ltr-progressive.png)
+    background-image:url(../oojs-ui-static/dist/themes/mediawiki/images/icons/arched-arrow-ltr-progressive.png);
+    background-image:-webkit-linear-gradient(transparent,transparent),
+                     url(../oojs-ui-static/dist/themes/mediawiki/images/icons/arched-arrow-ltr-progressive.svg);
+    background-image:linear-gradient(transparent,transparent),
+                     url(../oojs-ui-static/dist/themes/mediawiki/images/icons/arched-arrow-ltr-progressive.svg);
+    background-image:-o-linear-gradient(transparent,transparent),
+                     url(../oojs-ui-static/dist/themes/mediawiki/images/icons/arched-arrow-ltr-progressive.png)
+}
+
+#translation {
+    height: 100%;
+}
+
+
+#form2 {
+    height: 100%;
+}
+
+#form2 textarea, #form2 div {
+    height: 100%;
+}
+
+#form2 .oo-ui-fieldLayout-body {
+    height: 100%;
+    display: grid;
+    grid-template-rows: max-content auto;
+}
+
+
+form.oo-ui-formLayout + form.oo-ui-formLayout {
+  margin-top: 0;
 }

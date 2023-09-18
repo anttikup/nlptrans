@@ -18,6 +18,7 @@
     <script src="oojs-ui-static/dist/oojs-ui-mediawiki.min.js"></script>
     <link rel="stylesheet" href="oojs-ui-static/dist/oojs-ui-mediawiki.min.css">
 
+    <script type="text/javascript" src="{{ url_for('static', filename='MultilineTextInputWidget.js') }}"></script>
   </head>
   <body>
     <main class="content">
@@ -28,26 +29,13 @@
       <div class="flash">{{ message }}</div>
       {% endfor %}
       <div class="grid">
-        <form method="post" name="translate">
-          <datalist id="models">
-            {% for entry in models %}
-            <option>
-                {{ entry['label'] }}
-              </option>
-            {% endfor %}
-          </datalist>
-          <input type="text" required autoComplete="on" list="models" name="language" value="{{ request.form['language'] or 'englanti - suomi' }}" />
-          <textarea placeholder="Käännettävä teksti" id="text" name="text">{{ text }}</textarea>
-          <input type="submit" value="Käännä">
-        </form>
-        <div id="translation">
-          {% for paragraph in translation %}
-          <p>{{ paragraph }}</p>
-          {% endfor %}
-        </div>
       </div>
+      <hr/>
       <p>
-        Huom. Mallin vaihtamisen jälkeen ensimmäinen käännös yleensä kestää.
+        Valitse malli ja anna käännettävä teksti.
+      </p>
+      <p>
+        Huom. Mallin vaihtamisen jälkeen ensimmäinen käännös yleensä kestää pidempään kuin tavallisesti.
       </p>
     </main>
     <script type="text/javascript" src="{{ url_for('static', filename='index.js') }}"></script>

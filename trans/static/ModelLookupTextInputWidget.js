@@ -24,11 +24,11 @@ Trans.ModelLookupTextInputWidget.prototype.getLookupRequest = function () {
     const value = this.getValue(),
           deferred = $.Deferred();
 
-    this.getValidity().then( function () {
-        $.getJSON('lookup', { 'text': value }, function(data) {
+    this.getValidity().then( () => {
+        $.getJSON('lookup', { 'text': value }, (data) => {
             deferred.resolve( data )
         });
-    }, function () {
+    }, () => {
 	// No results when the input contains invalid content
 	deferred.resolve( [] );
     } );
