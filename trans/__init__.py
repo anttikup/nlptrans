@@ -44,7 +44,7 @@ def translate():
     frm, to = value.split(' ')
 
     try:
-        translation = translator.translate(frm, to, text.split("\n\n"))
+        translation = translator.translate(frm, to, text.strip().split("\n\n"))
     except Exception as err:
         return {
             'error':  str(err)
